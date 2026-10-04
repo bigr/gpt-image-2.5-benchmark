@@ -111,7 +111,7 @@ human time are **not** included.
 ## Discussion and issues
 
 - Questions, methodology comments, disagreements with an image rating, ideas for further tests:
-  GitHub Discussions (link to be added after publication).
+  [GitHub Discussions](https://github.com/bigr/gpt-image-2.5-benchmark/discussions).
 - Concrete errors in the data or code (wrong number, wrong answer for a named image, a failing test):
   Issues. Please quote the image key, for example `retention-25/gpt-image-2.5-flare/0`.
 
