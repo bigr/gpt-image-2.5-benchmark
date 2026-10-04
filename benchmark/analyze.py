@@ -69,7 +69,7 @@ def analyze(ds: dict[str, Any]) -> dict[str, Any]:
         sc.always_yes(t["has_addition"] for t in truth.values())
     )
 
-    rates = sc.generator_rates(prompts, truth, excluded)
+    rates = sc.image_model_rates(prompts, truth, excluded)
     gen: dict[str, Any] = {}
     for v in VARIANTS:
         s = SHORT[v]
@@ -87,7 +87,7 @@ def analyze(ds: dict[str, Any]) -> dict[str, Any]:
         w, n_img = rates["additions"][("specific-details", None, v)]
         g["period_images_with_additions"] = {"with_additions": w, "images": n_img}
         gen[s] = g
-    out["generator"] = gen
+    out["image_model"] = gen
     means = sc.mean_additions_per_image(prompts, ds["reference"])
     out["reference_additions_per_image"] = {
         SHORT[v]: {t: round(means[(t, v)], 1) for t in sorted({k[0] for k in means})}
@@ -131,7 +131,7 @@ def render_tables(r: dict[str, Any]) -> str:
         "",
     ]
     L += ["## Image model", "", "| | sunburst | flare |", "|---|---|---|"]
-    g = r["generator"]
+    g = r["image_model"]
     for label, key in (
         ("8 elements", "elements_8"),
         ("15 elements", "elements_15"),

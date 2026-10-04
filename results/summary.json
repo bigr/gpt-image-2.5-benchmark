@@ -102,7 +102,7 @@
    "accuracy": 93.0
   }
  },
- "generator": {
+ "image_model": {
   "sunburst": {
    "elements_8": {
     "passed": 71,

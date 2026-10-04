@@ -160,10 +160,10 @@ def addition_pairs(
     return [(has_addition(reader[k]), truth[k]["has_addition"]) for k in sorted(truth)]
 
 
-# --------------------------------------------------------------------------- generator results
+# --------------------------------------------------------------------------- image model results
 
 
-def generator_rates(
+def image_model_rates(
     prompts: Mapping[str, Mapping[str, Any]],
     truth: Mapping[str, Mapping[str, Any]],
     excluded: set[tuple[str, str]],

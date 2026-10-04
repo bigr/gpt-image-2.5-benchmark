@@ -63,8 +63,8 @@ class Reproduce(unittest.TestCase):
         a = self.r["additions"][n]
         self.assertEqual((a["accuracy"], a["precision"], a["recall"]), (99.0, 99.3, 99.6))
 
-    def test_generator_tables(self):
-        g = self.r["generator"]
+    def test_image_model_tables(self):
+        g = self.r["image_model"]
         self.assertEqual(
             [g["sunburst"][f"elements_{n}"]["pct"] for n in (8, 15, 25)], [88.8, 94.0, 94.0]
         )

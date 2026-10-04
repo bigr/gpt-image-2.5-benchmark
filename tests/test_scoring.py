@@ -87,7 +87,7 @@ class Exclusions(unittest.TestCase):
         ex = {"excluded_items": [{"prompt": "p", "item": "t", "reason": "r"}]}
         self.assertEqual(sc.excluded_set(ex), {("p", "t")})
 
-    def test_generator_rates_skip_excluded_and_unknown(self):
+    def test_image_model_rates_skip_excluded_and_unknown(self):
         prompts = {
             "p": {
                 "test": "how-much-it-keeps",
@@ -106,7 +106,7 @@ class Exclusions(unittest.TestCase):
                 "has_addition": True,
             },  # c unknown
         }
-        r = sc.generator_rates(prompts, truth, {("p", "b")})
+        r = sc.image_model_rates(prompts, truth, {("p", "b")})
         g = ("how-much-it-keeps", 8, "v")
         self.assertEqual(r["required"][g], [1, 1])  # only "a": b excluded, c unknown
         self.assertEqual(r["forbidden"][g], [0, 1])
