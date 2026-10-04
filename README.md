@@ -1,11 +1,8 @@
-# image-generation-benchmark
+# gpt-image-2.5-benchmark
 
 Data and offline scoring code for the article
 **[What gpt-image-2.5 draws when you describe everything, and which model can check it](https://bigr.cz/gpt-image-2-5-benchmark/)**
 (300 images, three judge models, one human).
-
-> Working repository name; final name, account and licences are still to be confirmed by the author
-> (see [`LICENSE-PROPOSAL.md`](LICENSE-PROPOSAL.md)). Nothing here is published yet.
 
 This repository lets you recompute every table of the article from the stored answers, without API
 keys, a database or network access, and inspect exactly which answers were given by a model and which
@@ -39,6 +36,11 @@ python -m benchmark.analyze --data data/ --output results/
 python -m unittest discover -s tests -t .
 ```
 
+Browse every image in the [gallery](gallery/README.md) (thumbnails in git, outcomes per image). The
+full-resolution PNGs are release assets of the
+[`dataset-v2` release](https://github.com/bigr/gpt-image-2.5-benchmark/releases/tag/dataset-v2); check a
+download with `python -m benchmark.verify_images <dir>`.
+
 `analyze` never modifies `data/` (it refuses to write inside it); it writes `results/summary.json` and
 `results/tables.md`. The committed `results/` is the output of that command on the committed data.
 
@@ -66,7 +68,9 @@ reference is built, step by step.
   and denominator of every figure.
 - **Settled-row agreement** (273 rows): every question a person ruled on, excluded items included, and a
   row whose true answer is unknown counted as a disagreement (this is how the article counted it).
-  `results/` also contains a stricter variant that drops excluded and unknown rows.
+  The headline numbers (reference 87.2 %, best judge `gpt-6.1-sol` 84.6 %) match the article. The
+  stricter variant drops the two excluded items and the unknown rows and counts 249 questions
+  (87.1 % / 85.1 %); `analyze` prints both, and the difference is only which rows are counted.
 - Percentages are rounded to one decimal place.
 
 ## Exclusions
@@ -81,10 +85,15 @@ reference is built, step by step.
 
 ## Images
 
-The 300 PNG files (about 1.19 GB) are **not** in git. `data/image-manifest.csv` lists filename, SHA-256
-and size of each. The plan for a release archive is in [`docs/image-release-plan.md`](docs/image-release-plan.md).
-Until the archive exists, you can recompute all tables from the stored answers, but you cannot
-independently judge all 300 images yourself.
+All 300 images are available. Thumbnails (512 px WebP) are in git under `thumbnails/` and shown in the
+[gallery](gallery/README.md). The full-resolution PNGs (about 1.19 GB) are attached to the
+[`dataset-v2` release](https://github.com/bigr/gpt-image-2.5-benchmark/releases/tag/dataset-v2) as
+individual files plus one zip. `data/image-manifest.csv` lists filename, SHA-256 and size of each. See
+[`docs/image-release-plan.md`](docs/image-release-plan.md).
+
+```sh
+python -m benchmark.verify_images <dir>   # nested (from the zip) or flat release names
+```
 
 ## Limits
 
@@ -105,3 +114,13 @@ human time are **not** included.
   GitHub Discussions (link to be added after publication).
 - Concrete errors in the data or code (wrong number, wrong answer for a named image, a failing test):
   Issues. Please quote the image key, for example `retention-25/gpt-image-2.5-flare/0`.
+
+## How this was made
+
+The benchmark design, the test harness that generated and judged the images, the questions, and every human ruling are by Pavel Klinger. The code and most of the documentation in this repository were written by Claude, an AI model by Anthropic, at the author's direction. Every number the code produces is checked by the tests against the published article. The reference readings in `data/` were also made by Claude (Opus 5.5); the judges are OpenAI models, as described in the article.
+
+## License
+
+Code (`benchmark/`, `tests/`, `scripts/`): MIT, see [`LICENSE`](LICENSE). Data (`data/`) and images
+(thumbnails and release images): CC BY 4.0, see [`LICENSE-DATA`](LICENSE-DATA). The reference and judge
+readings are model outputs included as part of the dataset. (c) 2026 Pavel Klinger.
