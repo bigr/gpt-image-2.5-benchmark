@@ -1,0 +1,4526 @@
+{
+ "negpos-domes-negative/gpt-image-2.5-flare/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "low stone wall along road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "stone parapet wall along the road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "low stone edging along the road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "stone parapet along road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "dry-stone wall along the road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "stone parapet along road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "wooden fence along the road",
+   "cypress trees"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river beside the road",
+   "cypress trees",
+   "dry-stone wall along the road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "wall towers",
+   "cypress trees",
+   "stone parapet along road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "dry-stone wall along the road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "small arched stone bridges",
+   "river",
+   "cypress trees",
+   "wall towers",
+   "stone parapet along road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "separate crenellated defensive tower inside the town",
+   "stone parapet along the road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "arched stone bridge",
+   "river",
+   "heraldic shield relief above the gate",
+   "cypress trees",
+   "stone parapet along road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "stone parapet along cobbled road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "arched stone bridge",
+   "river",
+   "cypress trees",
+   "dry-stone wall along the road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "arched stone bridge",
+   "river",
+   "cypress trees",
+   "multiple wall towers",
+   "stone parapet along road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "arched stone bridge",
+   "river",
+   "round wall towers",
+   "heraldic shield relief above the gate",
+   "cypress trees",
+   "stone parapet along cobbled road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "stone bridge to the gate",
+   "river",
+   "wall towers",
+   "cypress trees",
+   "stone parapet along cobbled road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "arched stone bridge",
+   "river",
+   "round crenellated wall towers",
+   "carved plaque above the gate",
+   "cypress trees",
+   "stone parapet along road"
+  ]
+ },
+ "negpos-domes-negative/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "arched stone bridge to the gate",
+   "river",
+   "gate towers",
+   "cypress trees",
+   "stone parapet along cobbled road"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "low stone roadside wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "mountain stream",
+   "low stone field wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "mountain stream"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "mountain river",
+   "cypress trees",
+   "low stone field wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "mountain river",
+   "cypress trees",
+   "low stone roadside wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "mountain stream",
+   "low stone retaining wall by road"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "mountain stream with boulders",
+   "low dry-stone field walls"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "mountain stream",
+   "cypress trees",
+   "low stone field wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "mountain river",
+   "low stone roadside wall",
+   "cypress tree"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "mountain stream",
+   "small bridge before the gate"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river",
+   "cypress trees",
+   "gate towers and crenellations"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "stone arch bridge",
+   "river with rapids",
+   "cypress trees",
+   "wall towers and crenellations",
+   "hanging bell in tower",
+   "low stone roadside wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "stone arch bridge",
+   "river with rapids",
+   "gatehouse towers flanking the gate",
+   "cypress trees"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "river with rapids",
+   "small stone bridge",
+   "cypress trees",
+   "wall towers flanking gate",
+   "stone stairways"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "stone arch bridge",
+   "river with rapids",
+   "cypress trees",
+   "crenellated battlements and gate towers",
+   "church rose window",
+   "low stone roadside wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "stone arch bridge",
+   "river with rapids",
+   "cypress trees",
+   "crenellated battlements and wall towers",
+   "low stone roadside wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "stone arch bridge",
+   "stream with small waterfall",
+   "cypress trees",
+   "crenellated battlements and gate towers",
+   "church rose window",
+   "low stone roadside wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "stone arch bridge",
+   "river with rapids",
+   "cypress trees",
+   "low stone roadside wall"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "stone arch bridge",
+   "river with rapids",
+   "cypress trees",
+   "wall towers and gatehouse",
+   "church rose window",
+   "low stone roadside wall",
+   "foreground overhanging tree"
+  ]
+ },
+ "negpos-domes-positive/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "stone arch bridge",
+   "river with rapids",
+   "gatehouse towers",
+   "cypress trees"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "floor pit at right",
+   "trees and field visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing around a pump-shaft pit in the floor",
+   "trees and field visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "floor pit at right",
+   "trees and field visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "floor pit at right",
+   "trees and field visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing around a floor pit",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "floor pit with pump rod guide frame",
+   "trees and field visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "floor pit at right",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "floor pit at right",
+   "trees and field visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing around a floor pit",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing around floor pit",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing around pit at right",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing around pit at right",
+   "second arched window/arch at left edge"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "pump frame and pit at right",
+   "trees visible through window",
+   "rod/pulley hanging from roof beam"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "pit with pump rods at right",
+   "building and trees visible through window",
+   "second arched window at left edge"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "pump frame at right",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing around pit at left",
+   "floor pit with pump frame",
+   "iron floor grating/plate",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron safety railing around engine",
+   "trees and building visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "pump frame and pit at right",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "floor pit at right",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "upper gallery/walkway with railing along back wall",
+   "iron box/chest on gallery",
+   "arched doorway in back wall",
+   "horizontal shaft running along base between pillar and machinery",
+   "trees visible through window"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/0": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "trees visible through window",
+   "roof timbers",
+   "brass/copper pipework"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "trees visible through window",
+   "roof timbers",
+   "copper/iron pipework",
+   "brick plinths"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "chimney and trees visible through window",
+   "roof timbers",
+   "pipework",
+   "brick plinths"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/3": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "trees and a barn roof visible through window",
+   "roof timbers",
+   "tall vertical pipe and pipework",
+   "brick plinths"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/4": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "trees/meadow visible through window",
+   "roof timbers",
+   "copper pipework",
+   "brick plinth/platform"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/5": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "fields/trees visible through window",
+   "roof timbers",
+   "tall vertical pipe and pipework at left",
+   "brick plinths"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/6": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "trees/field visible through window",
+   "roof timbers",
+   "brick plinths",
+   "vertical exhaust pipe and horizontal pipework"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "trees visible through window",
+   "roof timbers",
+   "pipework",
+   "brick plinths"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/8": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "trees and a building visible through window",
+   "roof timbers",
+   "brick plinths",
+   "vertical pipe above beam"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/9": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "trees visible through window",
+   "roof timbers",
+   "copper pipework",
+   "brick plinths"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "iron railing",
+   "trees visible through window",
+   "roof timbers",
+   "pipework"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "trees visible through window",
+   "roof timbers",
+   "pipework and valve gear at left"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "iron railings",
+   "floor grating",
+   "buildings/trees visible through window",
+   "roof trusses",
+   "extra brass pipework and valve gear"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "iron railing",
+   "trees visible through window",
+   "roof timbers",
+   "valve chest box and extra pipework"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "iron railing",
+   "second window at far left",
+   "trees visible through window",
+   "roof timbers",
+   "extra pipework/columns at left"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "iron railing",
+   "factory chimneys/buildings visible through window",
+   "roof timbers",
+   "extra pipework and valve gear"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "iron railing",
+   "floor gratings",
+   "steam clouds",
+   "trees visible through window",
+   "roof timbers",
+   "brass lubricators and pipework"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron railing",
+   "trees and a roof visible through window",
+   "roof timbers",
+   "extra pipework/valve chest and second vertical column at left"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "iron safety railing",
+   "town with chimneys/factory stacks visible through window",
+   "roof timbers",
+   "extra pipework and valve gear at left"
+  ]
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "negated-thing-appears": true
+  },
+  "inventions": [
+   "iron safety railing in foreground",
+   "trees/landscape visible through window",
+   "roof trusses",
+   "extra pipework and second cylinder at left",
+   "brass lubricator cups"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "fallen branch/log in foreground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn on the ground",
+   "lake/water in background"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground",
+   "river/lake in background"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns/nuts on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "two acorns at lower left"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": []
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "two acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn at lower left"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn at lower right"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn",
+   "fallen mossy branch at right"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn at lower right"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "two acorns on the ground"
+  ]
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "negated-thing-appears": false
+  },
+  "inventions": [
+   "acorn on the ground"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/0": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hills",
+   "shrubs",
+   "basket"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/1": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "woven baskets",
+   "distant hills",
+   "cargo bundles in boats"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/2": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "palm tree",
+   "trees",
+   "mountainous headland"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/3": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "tree",
+   "headland",
+   "baskets"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/4": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hills",
+   "trees and shrubs",
+   "reed fence"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/5": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hills",
+   "olive tree",
+   "basket",
+   "brushwood bundle on roof"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/6": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hills",
+   "tree",
+   "brushwood lean-to shed",
+   "ladder"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/7": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "olive trees",
+   "reed fence",
+   "headland",
+   "low stone wall"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/8": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hills",
+   "tree",
+   "woven baskets"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/9": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hills",
+   "trees",
+   "reed fence",
+   "draped hide/cloth",
+   "distant posts in water"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "mountains",
+   "thatched awning",
+   "log rollers under boats",
+   "small distant boat"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "herd of oxen/cattle",
+   "wooden pergola structure",
+   "woven baskets",
+   "mountains"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hills",
+   "cypress trees",
+   "thatched awning",
+   "baskets",
+   "sparkle watermark logo"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "wooded hills",
+   "cypress trees",
+   "wooden pergola",
+   "baskets",
+   "cargo sacks in boats"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hilltop fortress/ruins",
+   "cypress trees",
+   "mountains",
+   "awnings",
+   "distant town"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "mountains",
+   "cypress trees",
+   "baskets"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hills",
+   "thatched pergola",
+   "baskets"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "wooded hills",
+   "thatched awning",
+   "baskets"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": false,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "hills",
+   "trees",
+   "awning",
+   "log rollers under boats"
+  ]
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "sewn-boats": true,
+   "kilts": true,
+   "rough-quay": true,
+   "mudbrick": true,
+   "ingots": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "mountains",
+   "thatched awning",
+   "baskets",
+   "trees"
+  ]
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/0": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/1": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/2": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/3": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/4": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/5": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/6": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/7": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/8": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/9": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "distant tree clumps/farm buildings on horizon"
+  ]
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "distant tree clumps/farm buildings on horizon"
+  ]
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "distant tree clumps/farm buildings on horizon"
+  ]
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "distant tree clumps on horizon"
+  ]
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "distant tree clumps/structures on horizon"
+  ]
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "distant tree clump on horizon"
+  ]
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "distant tree clumps/farm buildings on horizon"
+  ]
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "anvil": true,
+   "rain-curtain": true,
+   "striped-fields": true,
+   "flat-horizon": true,
+   "straight-road": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "distant tree clumps/farm buildings on horizon"
+  ]
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/0": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/1": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/2": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/3": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/4": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "fallen twig among foreground leaves"
+  ]
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/5": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "fallen twig among foreground leaves"
+  ]
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/6": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/7": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/8": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/9": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "fallen branch on forest floor"
+  ]
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "fallen branch on forest floor behind stump"
+  ]
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "fallen twig/branch in foreground leaves"
+  ]
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "honey-brown-cluster": true,
+   "ringed-stems": true,
+   "beech-leaves": true,
+   "beech-trunks": true,
+   "gills": true,
+   "landmark-substituted": false
+  },
+  "inventions": []
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/0": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "snow-capped mountain range",
+   "pack horses",
+   "chimneys on houses",
+   "cloth awnings over stalls",
+   "statuette-like figure on pottery stall"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/1": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "cattle/pack animals",
+   "snow-capped mountain range",
+   "cross atop gate tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/2": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "pack mule/horse",
+   "mountain range",
+   "cloth awnings over stalls",
+   "cross atop gate tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/3": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "pack horses/mules",
+   "mountain range",
+   "chimneys on houses",
+   "cloth awnings over stalls"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/4": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "pack donkeys/horses",
+   "mountain range",
+   "cloth awnings over stalls",
+   "cross atop gate tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/5": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "mountain range in background",
+   "cloth awnings over stalls",
+   "cross atop the bell tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/6": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "dog",
+   "mountain range",
+   "cross atop gate tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/7": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "chickens",
+   "snow-capped mountains",
+   "chimney on stone house",
+   "cloth awnings over stalls",
+   "pack horses"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/8": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "snow-capped mountain range",
+   "chimney on stone house",
+   "cloth awnings over stalls",
+   "cross on church gable"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/9": {
+  "answers": {
+   "timber-houses": false,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "dog",
+   "pack mule/horse",
+   "snow-capped mountain range",
+   "cloth awnings over stalls",
+   "cross atop the gate tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "chickens",
+   "pack horses",
+   "barrels",
+   "wooded hills",
+   "cloth awnings over stalls",
+   "cross atop gate tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "chicken",
+   "pack horses",
+   "wooded hills",
+   "cloth awnings over stalls"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "sheep in a wooden pen",
+   "horses with cart",
+   "barrels",
+   "cloth awnings over stalls"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "chickens",
+   "pack horse",
+   "snow-capped mountains",
+   "cypress tree",
+   "cloth awnings over stalls"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "chickens",
+   "pack horse/mule",
+   "buckets/barrels",
+   "snow-capped mountains",
+   "cloth awnings over stalls",
+   "cross atop gate tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "chickens",
+   "pack donkey",
+   "portcullis on the gate tower",
+   "cloth awnings over stalls",
+   "cross atop the gate tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "wrought-iron hanging lantern on bracket",
+   "mountain range",
+   "donkey",
+   "cloth awnings over stalls",
+   "crosses on church facade"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "chicken",
+   "horses/donkeys with packs",
+   "cloth awnings over stalls",
+   "cross atop the gate tower"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "pack horses/donkeys",
+   "brick chimney on stone house",
+   "barrel",
+   "cloth awnings over stalls",
+   "wooded hills"
+  ]
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "timber-houses": true,
+   "squat-tower": false,
+   "wool-tunics": true,
+   "earth-square": true,
+   "palisade": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "chickens",
+   "pack horse/ox",
+   "hills in background",
+   "cloth awnings over stalls",
+   "cross atop the gate tower"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/0": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "notebook and pen",
+   "stool",
+   "test-tube rack",
+   "glass-fronted cabinet"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/1": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "mortar",
+   "beaker",
+   "funnel",
+   "bottle racks",
+   "shelves"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/2": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "stool",
+   "ring stands",
+   "shelves of bottles"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/3": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "test-tube rack",
+   "evaporating dishes",
+   "beakers",
+   "stool",
+   "glass-fronted cabinet",
+   "ring stands"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/4": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "notebook and pen",
+   "mortar and pestle",
+   "beakers",
+   "bottle shelf",
+   "ring stand"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/5": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "brass gas tap",
+   "test-tube rack",
+   "stool",
+   "cabinet"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/6": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "test-tube rack",
+   "notebook and pen",
+   "stool",
+   "bottle cabinet",
+   "ring stand"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/7": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "evaporating dish",
+   "tripod with wire gauze",
+   "ring stands",
+   "cabinet"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/8": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "notebook and pen",
+   "stool",
+   "shelves of bottles",
+   "ring stands"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/9": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "notebook",
+   "test-tube rack",
+   "mortar",
+   "stool",
+   "tripod"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "test-tube rack",
+   "mortar and pestle",
+   "evaporating dish",
+   "stool",
+   "glass-fronted cabinet"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "test-tube rack",
+   "mortar and pestle",
+   "stool",
+   "shelves of bottles"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "mortar and pestle",
+   "test-tube rack",
+   "shelves of bottles"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "open book",
+   "test-tube rack",
+   "stool",
+   "ring stands"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "microscope",
+   "mortar and pestle",
+   "funnel",
+   "test-tube racks",
+   "stools",
+   "notebook",
+   "shelves"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "book",
+   "mortar and pestle",
+   "test-tube rack",
+   "stool",
+   "shelves of bottles"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "microscope",
+   "mortar and pestle",
+   "funnel",
+   "test-tube rack",
+   "shelves of bottles"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "radiator",
+   "funnel",
+   "mortar and pestle",
+   "book",
+   "test-tube racks",
+   "stool"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "mortar and pestle",
+   "test-tube rack",
+   "funnels",
+   "stool",
+   "shelves of bottles",
+   "wooden block"
+  ]
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "white-coats": true,
+   "bunsen-glass": true,
+   "brass-balance": true,
+   "no-modern-kit": true,
+   "plain-window": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "mortar and pestle",
+   "test-tube rack",
+   "book",
+   "stool",
+   "shelves of bottles",
+   "radiator",
+   "ring stands"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/0": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with vise and tools",
+   "wall tool racks",
+   "crate of swarf",
+   "factory chimney and brick buildings through windows"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/1": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with vise and tools",
+   "shelving with metal parts",
+   "wall tool racks",
+   "anvil-like block on bench",
+   "small wall-mounted lamp"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/2": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbench with vise",
+   "crates of bar stock",
+   "wall tool racks",
+   "factory chimneys through windows"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/3": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with vise and tools",
+   "wall tool racks",
+   "factory chimney and brick townscape through windows",
+   "wall-mounted lamp sconce"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/4": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbench with vise and drawers",
+   "crates of bar stock",
+   "wooden bucket of parts",
+   "wall tool rack",
+   "factory chimneys and townscape through windows"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/5": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbench with machined parts",
+   "crates of parts and swarf",
+   "wall tool rack",
+   "factory chimneys and brick townscape through windows"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/6": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with vise and tools",
+   "wall tool shelf",
+   "crates of bar stock",
+   "bucket",
+   "factory chimney and townscape through windows"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/7": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with vise",
+   "wall tool racks and shelving",
+   "factory chimneys and townscape through windows",
+   "crate of parts"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/8": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches",
+   "crate of bar stock",
+   "wall tool rack and shelving",
+   "factory chimneys and townscape through windows",
+   "third lathe-like machine at far end"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/9": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with vise and tools",
+   "wall tool racks",
+   "factory chimneys and townscape through windows",
+   "crates of parts"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbench piled with machine parts",
+   "shelving with tools",
+   "bin of swarf"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbench with vise and parts",
+   "wooden crates of gears and parts",
+   "iron floor gratings",
+   "wall tool racks",
+   "railing around engine"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbench with machine parts",
+   "crates of gears and bar stock",
+   "bin of swarf",
+   "brick engine plinth with railing",
+   "factory chimneys through windows"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with machined parts",
+   "iron railing around engine",
+   "wall tool racks"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbench with vises",
+   "metal bucket of swarf",
+   "wall tool racks",
+   "factory chimney and brick buildings through window"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with tools",
+   "railing around engine",
+   "crate under bench"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with vises and tools",
+   "crate of steel bar stock",
+   "factory chimneys and townscape through windows",
+   "raised engine platform with railing",
+   "box of swarf"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbench with machine parts",
+   "brick engine plinth with railing",
+   "wall tool rack",
+   "crates of swarf",
+   "townscape buildings through windows"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "workbenches with tools and parts",
+   "crates of machined parts",
+   "townscape buildings through windows"
+  ]
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "overhead-shaft": true,
+   "flywheel-engine": true,
+   "flat-caps": true,
+   "brick-iron": true,
+   "gas-lamps": true,
+   "landmark-substituted": false
+  },
+  "inventions": [
+   "boiler firebox/furnace opening beside engine",
+   "workbench with gears, hammer and wrench",
+   "wall tool rack",
+   "crate",
+   "brick buildings through windows"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/0": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "wooden fence",
+   "dry-stone wall",
+   "distant fields/hills",
+   "river stones",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/1": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "wooden gate/fence",
+   "dry-stone wall",
+   "distant fields",
+   "river stones"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/2": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "river stones",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/3": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "wooden gates/fences",
+   "dry-stone walls",
+   "distant fields",
+   "river stones"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/4": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "drainpipe",
+   "wooden fence/gate",
+   "dry-stone wall",
+   "distant fields"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/5": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "wooden fence",
+   "dry-stone wall",
+   "distant hills",
+   "river stones",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/6": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "wooden fence/gate",
+   "dry-stone walls",
+   "distant hills",
+   "river stones",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/7": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "dry-stone walls",
+   "wooden gate",
+   "distant fields",
+   "river stones",
+   "shrubs"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/8": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "dry-stone wall",
+   "distant hills",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-flare/9": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "dry-stone wall",
+   "wooden fence",
+   "distant fields",
+   "river stones",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "elevated wooden flume/leat",
+   "dry-stone walls",
+   "distant hills/fields",
+   "river rocks",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "distant fields/hills",
+   "river boulders",
+   "wildflowers"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "dry-stone wall",
+   "distant hills",
+   "river boulders",
+   "yellow iris flowers",
+   "reeds",
+   "load of sacks in the cart"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "wooden fence",
+   "distant hills",
+   "river boulders",
+   "yellow iris flowers",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "wooden fence",
+   "dry-stone walls",
+   "distant hills/fields",
+   "river rocks",
+   "flowering bush",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "wooden fence",
+   "dry-stone walls",
+   "distant hills",
+   "river stones",
+   "reeds",
+   "load in the cart"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "church with spire",
+   "dry-stone walls",
+   "wooden gate",
+   "distant fields",
+   "river rocks",
+   "yellow iris flowers",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": false
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "distant hills",
+   "river boulders",
+   "purple wildflowers",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "chimney",
+   "wooden fence",
+   "distant fields/hills",
+   "river stones",
+   "yellow iris flowers",
+   "reeds"
+  ]
+ },
+ "retention-08/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true
+  },
+  "inventions": [
+   "trees",
+   "dry-stone walls",
+   "distant fields/hills",
+   "river boulders",
+   "wildflowers",
+   "load of flour sacks in the cart"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/0": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "background wooden fences",
+   "trees",
+   "white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/1": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "background stone wall",
+   "trees",
+   "distant hills"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/2": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "second black cat on the window sill",
+   "second stack of flour sacks",
+   "trees",
+   "distant hills",
+   "white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/3": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "logs loaded in the cart",
+   "background wooden fences",
+   "trees",
+   "distant hills"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/4": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "background stone wall",
+   "trees",
+   "distant fields/hills",
+   "wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/5": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "trees",
+   "distant hills",
+   "white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/6": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "trees",
+   "distant hills"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/7": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "items loaded in the cart",
+   "trees",
+   "distant hills"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/8": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "trees",
+   "distant hills",
+   "reeds and bushes"
+  ]
+ },
+ "retention-15/gpt-image-2.5-flare/9": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "second stack of flour sacks",
+   "trees",
+   "distant hills"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "trees",
+   "distant hills",
+   "white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "second grey heron",
+   "weir/waterfall cascade",
+   "foreground stone wall",
+   "trees",
+   "distant hills",
+   "white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "flower pot with red flowers on the window sill",
+   "low stone garden wall",
+   "trees",
+   "distant hills",
+   "wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": false,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "foreground wooden fence",
+   "foreground stone wall",
+   "trees",
+   "distant hills",
+   "pink and white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "foreground wooden fence",
+   "trees",
+   "distant hills",
+   "white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": false,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "distant church with tower",
+   "stone walls",
+   "wooden gate/fence",
+   "greenery load in the cart",
+   "trees",
+   "distant hills",
+   "white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "foreground stone wall",
+   "wooden gate",
+   "trees",
+   "distant hills",
+   "white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "low stone walls",
+   "trees",
+   "distant hills",
+   "white wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "trees",
+   "distant hills",
+   "low stone wall along the river",
+   "weir/waterfall cascade",
+   "wildflowers"
+  ]
+ },
+ "retention-15/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true
+  },
+  "inventions": [
+   "distant church with spire",
+   "low stone wall along the river",
+   "reeds",
+   "trees",
+   "distant hills"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/0": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "second ladder",
+   "distant fields and trees"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/1": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "three extra flour sacks (six in total)",
+   "second wicker basket of eggs carried by the woman",
+   "background trees and rolling fields",
+   "rocks in the river",
+   "wooden fence around the vegetable patch"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/2": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "three extra flour sacks (six in total)",
+   "pitchfork/tool leaning on the wall by the rain barrel",
+   "background trees and rolling fields",
+   "rocks in the river",
+   "wooden fence around the vegetable patch"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/3": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "distant hills and trees"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/4": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": false,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "wooden fence around vegetable patch",
+   "distant fields and trees"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/5": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": false,
+   "e16": false,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "third goose",
+   "wooden fence around vegetable patch",
+   "distant hills and trees"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/6": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": false,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "wooden tool/rack hanging on the wall by the downpipe",
+   "background trees and rolling fields",
+   "rocks in the river"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/7": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": false,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "background trees and rolling fields",
+   "rocks in the river"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/8": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "background trees and rolling fields",
+   "rocks in the river",
+   "wooden fence around the vegetable patch"
+  ]
+ },
+ "retention-25/gpt-image-2.5-flare/9": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": false,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "second narrow ladder leaning beside the door",
+   "pile of logs at the far left (not under a lean-to)",
+   "roofed wheel housing",
+   "background trees and rolling fields",
+   "rocks in the river",
+   "wooden garden fence"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/0": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "wooden fence on hillside",
+   "wooden fence around vegetable patch",
+   "distant hills and trees"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/1": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": false,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "second wall lantern",
+   "pitchfork leaning by the rain barrel",
+   "distant fields and trees"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/2": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": false,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "fourth flour sack",
+   "second black cat in the window",
+   "background trees and rolling fields",
+   "rocks in the river",
+   "wildflowers on the wall",
+   "wooden fence around the vegetable patch"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/3": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": false,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": false,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "third white goose",
+   "background trees and rolling fields",
+   "rocks in the river",
+   "wildflowers on the bank",
+   "wooden fence around the vegetable patch"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/4": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "church with spire",
+   "distant village houses",
+   "second blue shutter",
+   "wooden fence around vegetable patch",
+   "yellow iris flowers",
+   "distant hills and trees"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/5": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": false,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "three extra flour sacks (six in total)",
+   "background trees and rolling fields",
+   "rocks in the river",
+   "wooden fence around the vegetable patch"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/6": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "flower pot with red flowers on the window sill",
+   "background trees and rolling fields",
+   "rocks in the river",
+   "wooden fence around the vegetable patch",
+   "wildflowers on the bank"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/7": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "two extra herons",
+   "second ladder",
+   "second blue shutter",
+   "flower pot with red flowers on window sill",
+   "distant hills and trees"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/8": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": false,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": false,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "second blue shutter",
+   "wooden fence around vegetable patch",
+   "distant hills and trees"
+  ]
+ },
+ "retention-25/gpt-image-2.5-sunburst/9": {
+  "answers": {
+   "e01": true,
+   "e02": true,
+   "e03": true,
+   "e04": true,
+   "e05": true,
+   "e06": true,
+   "e07": true,
+   "e08": true,
+   "e09": true,
+   "e10": true,
+   "e11": true,
+   "e12": true,
+   "e13": true,
+   "e14": true,
+   "e15": true,
+   "e16": true,
+   "e17": true,
+   "e18": true,
+   "e19": true,
+   "e20": true,
+   "e21": true,
+   "e22": true,
+   "e23": true,
+   "e24": true,
+   "e25": true
+  },
+  "inventions": [
+   "yellow iris flowers",
+   "distant hills and trees"
+  ]
+ }
+}

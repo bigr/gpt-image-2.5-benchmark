@@ -1,0 +1,171 @@
+{
+ "negpos-flywheel-positive/gpt-image-2.5-flare/1": {
+  "negated-thing-appears": false
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/2": {
+  "negated-thing-appears": false
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/1": {
+  "negated-thing-appears": false
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/7": {
+  "negated-thing-appears": false
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/8": {
+  "negated-thing-appears": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/3": {
+  "ingots": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/6": {
+  "ingots": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/7": {
+  "ingots": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/0": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/1": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/2": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/3": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/4": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/5": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/6": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/7": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/8": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/9": {
+  "squat-tower": false,
+  "timber-houses": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/0": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/1": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/2": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/3": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/8": {
+  "squat-tower": false
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/9": {
+  "squat-tower": false
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/5": {
+  "bunsen-glass": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/3": {
+  "e04": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/5": {
+  "e04": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/9": {
+  "e04": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/7": {
+  "e08": false
+ },
+ "retention-15/gpt-image-2.5-sunburst/9": {
+  "e04": false
+ },
+ "retention-15/gpt-image-2.5-sunburst/5": {
+  "e10": true
+ },
+ "retention-25/gpt-image-2.5-flare/5": {
+  "e04": false
+ },
+ "retention-25/gpt-image-2.5-sunburst/2": {
+  "e08": false
+ },
+ "retention-25/gpt-image-2.5-sunburst/3": {
+  "e08": true
+ },
+ "retention-25/gpt-image-2.5-flare/4": {
+  "e16": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/1": {
+  "e18": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/1": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/3": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/4": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/8": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/9": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/1": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/3": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/4": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/5": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/8": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/9": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/7": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/4": {
+  "inventions": false
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/5": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/0": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/1": {
+  "inventions": true
+ }
+}

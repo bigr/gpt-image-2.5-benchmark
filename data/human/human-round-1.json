@@ -1,0 +1,609 @@
+{
+ "negpos-flywheel-positive/gpt-image-2.5-flare/1": {
+  "negated-thing-appears": true,
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/2": {
+  "negated-thing-appears": true,
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/5": {
+  "negated-thing-appears": true,
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/1": {
+  "negated-thing-appears": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/6": {
+  "negated-thing-appears": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/7": {
+  "negated-thing-appears": true,
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/8": {
+  "negated-thing-appears": true,
+  "inventions": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/0": {
+  "ingots": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/1": {
+  "ingots": false,
+  "kilts": true,
+  "inventions": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/3": {
+  "ingots": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/5": {
+  "ingots": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/6": {
+  "ingots": false,
+  "sewn-boats": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/8": {
+  "ingots": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/9": {
+  "ingots": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/0": {
+  "ingots": false,
+  "inventions": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/1": {
+  "ingots": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/3": {
+  "ingots": false,
+  "rough-quay": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/6": {
+  "ingots": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/7": {
+  "ingots": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/9": {
+  "kilts": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/3": {
+  "anvil": true,
+  "inventions": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/3": {
+  "earth-square": true,
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/9": {
+  "earth-square": true,
+  "squat-tower": true,
+  "timber-houses": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/7": {
+  "earth-square": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/0": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/1": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/2": {
+  "squat-tower": true,
+  "timber-houses": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/4": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/5": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/6": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/7": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/8": {
+  "squat-tower": true,
+  "timber-houses": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/0": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/1": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/2": {
+  "squat-tower": true,
+  "inventions": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/3": {
+  "squat-tower": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/8": {
+  "squat-tower": true,
+  "timber-houses": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/9": {
+  "squat-tower": true
+ },
+ "period-lab-1930s/gpt-image-2.5-sunburst/5": {
+  "bunsen-glass": false
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/3": {
+  "gas-lamps": true,
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/9": {
+  "gas-lamps": true
+ },
+ "retention-08/gpt-image-2.5-flare/3": {
+  "e04": false
+ },
+ "retention-08/gpt-image-2.5-flare/5": {
+  "e04": false,
+  "e05": true
+ },
+ "retention-08/gpt-image-2.5-flare/8": {
+  "e04": false,
+  "e05": true
+ },
+ "retention-08/gpt-image-2.5-flare/9": {
+  "e04": false,
+  "e05": true,
+  "inventions": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/0": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/1": {
+  "e04": false
+ },
+ "retention-08/gpt-image-2.5-sunburst/3": {
+  "e04": true,
+  "inventions": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/4": {
+  "e04": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/5": {
+  "e04": true,
+  "inventions": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/6": {
+  "e04": false
+ },
+ "retention-08/gpt-image-2.5-sunburst/8": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/9": {
+  "e04": true
+ },
+ "retention-08/gpt-image-2.5-flare/1": {
+  "e05": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/7": {
+  "e05": true,
+  "e08": true,
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-flare/1": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-flare/2": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-flare/3": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-flare/6": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-flare/8": {
+  "e04": false
+ },
+ "retention-15/gpt-image-2.5-flare/9": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-sunburst/0": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-sunburst/1": {
+  "e04": false
+ },
+ "retention-15/gpt-image-2.5-sunburst/2": {
+  "e04": false
+ },
+ "retention-15/gpt-image-2.5-sunburst/3": {
+  "e04": false,
+  "e05": true,
+  "e08": false
+ },
+ "retention-15/gpt-image-2.5-sunburst/6": {
+  "e04": false
+ },
+ "retention-15/gpt-image-2.5-sunburst/7": {
+  "e04": false
+ },
+ "retention-15/gpt-image-2.5-sunburst/9": {
+  "e04": true,
+  "e09": true
+ },
+ "retention-15/gpt-image-2.5-sunburst/5": {
+  "e10": true
+ },
+ "retention-25/gpt-image-2.5-flare/1": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-25/gpt-image-2.5-flare/2": {
+  "e04": false,
+  "e20": true
+ },
+ "retention-25/gpt-image-2.5-flare/3": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-25/gpt-image-2.5-flare/5": {
+  "e04": true,
+  "e05": true,
+  "e15": false,
+  "e22": true
+ },
+ "retention-25/gpt-image-2.5-flare/6": {
+  "e04": true,
+  "e16": false,
+  "inventions": true
+ },
+ "retention-25/gpt-image-2.5-flare/7": {
+  "e04": true,
+  "e16": false,
+  "inventions": true
+ },
+ "retention-25/gpt-image-2.5-flare/9": {
+  "e04": true,
+  "e09": false
+ },
+ "retention-25/gpt-image-2.5-sunburst/0": {
+  "e04": false,
+  "inventions": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/1": {
+  "e04": false,
+  "e08": false,
+  "e18": false
+ },
+ "retention-25/gpt-image-2.5-sunburst/2": {
+  "e04": false,
+  "e08": true,
+  "inventions": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/3": {
+  "e04": true,
+  "e08": true,
+  "e15": false
+ },
+ "retention-25/gpt-image-2.5-sunburst/4": {
+  "e04": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/5": {
+  "e04": false,
+  "e13": true,
+  "e16": false,
+  "inventions": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/6": {
+  "e04": true,
+  "inventions": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/7": {
+  "e04": false,
+  "e09": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/8": {
+  "e04": false,
+  "e16": false,
+  "e20": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/9": {
+  "e14": true,
+  "inventions": true
+ },
+ "retention-25/gpt-image-2.5-flare/4": {
+  "e16": true
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/1": {
+  "inventions": true
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/3": {
+  "inventions": true
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/4": {
+  "inventions": true
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "negpos-domes-negative/gpt-image-2.5-flare/9": {
+  "inventions": true
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/1": {
+  "inventions": true
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/3": {
+  "inventions": true
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/5": {
+  "inventions": true
+ },
+ "negpos-domes-positive/gpt-image-2.5-flare/9": {
+  "inventions": true
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/5": {
+  "inventions": true
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/0": {
+  "inventions": true
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/1": {
+  "inventions": true
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/2": {
+  "inventions": true
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/4": {
+  "inventions": true
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/5": {
+  "inventions": true
+ },
+ "negpos-flywheel-negative/gpt-image-2.5-sunburst/9": {
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/0": {
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/4": {
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/8": {
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-flare/9": {
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/2": {
+  "inventions": true
+ },
+ "negpos-flywheel-positive/gpt-image-2.5-sunburst/9": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/1": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/3": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/4": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/5": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/8": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-flare/9": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/2": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/3": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/6": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/7": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/8": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/9": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/0": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/1": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/2": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/3": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/4": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/5": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/8": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-flare/9": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/0": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/2": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/3": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/4": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/5": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/7": {
+  "inventions": true
+ },
+ "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/9": {
+  "inventions": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/5": {
+  "inventions": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/8": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/0": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/2": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/4": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/5": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/6": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/7": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/8": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/9": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/4": {
+  "inventions": false
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/5": {
+  "inventions": false
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/0": {
+  "inventions": false
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/1": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/2": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-sunburst/8": {
+  "inventions": true
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/8": {
+  "inventions": true
+ },
+ "period-lab-1930s/gpt-image-2.5-flare/9": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/0": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/1": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/3": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/9": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/0": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/5": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/6": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/7": {
+  "inventions": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/8": {
+  "inventions": true
+ },
+ "retention-08/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "retention-08/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-flare/4": {
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-flare/7": {
+  "inventions": true
+ },
+ "retention-15/gpt-image-2.5-sunburst/8": {
+  "inventions": true
+ }
+}

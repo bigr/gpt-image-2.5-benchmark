@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "image-generation-benchmark"
+version = "2.0.0"
+description = "Offline scoring for a gpt-image-2.5 prompt-fidelity and judge benchmark"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+# licence intentionally unset: see LICENSE-PROPOSAL.md
+
+[tool.setuptools]
+packages = ["benchmark"]

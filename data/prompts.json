@@ -1,0 +1,568 @@
+{
+ "prompts": [
+  {
+   "id": "retention-08",
+   "test": "how-much-it-keeps",
+   "elements": 8,
+   "prompt": "Scene: A rural watermill yard on a river bank, late morning, in the style of a flat-colour storybook illustration.\nSubject: The mill yard with the mill building as the focal point; every required element below is drawn once, clearly visible and separate from the others.\nDetails:\n1. a timber water wheel on the mill's left wall, turning in a stone race\n2. a stone mill building with a slate roof\n3. a red wooden door with black iron hinges\n4. three flour sacks stacked beside the door\n5. a donkey harnessed to a two-wheeled cart\n6. a miller in a white floured apron standing at the door\n7. a wooden footbridge crossing the river\n8. a grey heron standing in the shallows\nConstraints:\n- Draw each required element exactly once.\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "e01",
+     "text": "a timber water wheel on the mill's left wall, turning in a stone race",
+     "expect": "present"
+    },
+    {
+     "id": "e02",
+     "text": "a stone mill building with a slate roof",
+     "expect": "present"
+    },
+    {
+     "id": "e03",
+     "text": "a red wooden door with black iron hinges",
+     "expect": "present"
+    },
+    {
+     "id": "e04",
+     "text": "three flour sacks stacked beside the door",
+     "expect": "present"
+    },
+    {
+     "id": "e05",
+     "text": "a donkey harnessed to a two-wheeled cart",
+     "expect": "present"
+    },
+    {
+     "id": "e06",
+     "text": "a miller in a white floured apron standing at the door",
+     "expect": "present"
+    },
+    {
+     "id": "e07",
+     "text": "a wooden footbridge crossing the river",
+     "expect": "present"
+    },
+    {
+     "id": "e08",
+     "text": "a grey heron standing in the shallows",
+     "expect": "present"
+    }
+   ]
+  },
+  {
+   "id": "retention-15",
+   "test": "how-much-it-keeps",
+   "elements": 15,
+   "prompt": "Scene: A rural watermill yard on a river bank, late morning, in the style of a flat-colour storybook illustration.\nSubject: The mill yard with the mill building as the focal point; every required element below is drawn once, clearly visible and separate from the others.\nDetails:\n1. a timber water wheel on the mill's left wall, turning in a stone race\n2. a stone mill building with a slate roof\n3. a red wooden door with black iron hinges\n4. three flour sacks stacked beside the door\n5. a donkey harnessed to a two-wheeled cart\n6. a miller in a white floured apron standing at the door\n7. a wooden footbridge crossing the river\n8. a grey heron standing in the shallows\n9. a stack of split firewood under a lean-to\n10. a black cat sitting on a ground-floor window sill\n11. an iron lantern hanging above the door\n12. a wooden rain barrel at the downpipe\n13. a woman carrying a wicker basket of eggs\n14. a round stone well with a wooden bucket\n15. two white geese beside the well\nConstraints:\n- Draw each required element exactly once.\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "e01",
+     "text": "a timber water wheel on the mill's left wall, turning in a stone race",
+     "expect": "present"
+    },
+    {
+     "id": "e02",
+     "text": "a stone mill building with a slate roof",
+     "expect": "present"
+    },
+    {
+     "id": "e03",
+     "text": "a red wooden door with black iron hinges",
+     "expect": "present"
+    },
+    {
+     "id": "e04",
+     "text": "three flour sacks stacked beside the door",
+     "expect": "present"
+    },
+    {
+     "id": "e05",
+     "text": "a donkey harnessed to a two-wheeled cart",
+     "expect": "present"
+    },
+    {
+     "id": "e06",
+     "text": "a miller in a white floured apron standing at the door",
+     "expect": "present"
+    },
+    {
+     "id": "e07",
+     "text": "a wooden footbridge crossing the river",
+     "expect": "present"
+    },
+    {
+     "id": "e08",
+     "text": "a grey heron standing in the shallows",
+     "expect": "present"
+    },
+    {
+     "id": "e09",
+     "text": "a stack of split firewood under a lean-to",
+     "expect": "present"
+    },
+    {
+     "id": "e10",
+     "text": "a black cat sitting on a ground-floor window sill",
+     "expect": "present"
+    },
+    {
+     "id": "e11",
+     "text": "an iron lantern hanging above the door",
+     "expect": "present"
+    },
+    {
+     "id": "e12",
+     "text": "a wooden rain barrel at the downpipe",
+     "expect": "present"
+    },
+    {
+     "id": "e13",
+     "text": "a woman carrying a wicker basket of eggs",
+     "expect": "present"
+    },
+    {
+     "id": "e14",
+     "text": "a round stone well with a wooden bucket",
+     "expect": "present"
+    },
+    {
+     "id": "e15",
+     "text": "two white geese beside the well",
+     "expect": "present"
+    }
+   ]
+  },
+  {
+   "id": "retention-25",
+   "test": "how-much-it-keeps",
+   "elements": 25,
+   "prompt": "Scene: A rural watermill yard on a river bank, late morning, in the style of a flat-colour storybook illustration.\nSubject: The mill yard with the mill building as the focal point; every required element below is drawn once, clearly visible and separate from the others.\nDetails:\n1. a timber water wheel on the mill's left wall, turning in a stone race\n2. a stone mill building with a slate roof\n3. a red wooden door with black iron hinges\n4. three flour sacks stacked beside the door\n5. a donkey harnessed to a two-wheeled cart\n6. a miller in a white floured apron standing at the door\n7. a wooden footbridge crossing the river\n8. a grey heron standing in the shallows\n9. a stack of split firewood under a lean-to\n10. a black cat sitting on a ground-floor window sill\n11. an iron lantern hanging above the door\n12. a wooden rain barrel at the downpipe\n13. a woman carrying a wicker basket of eggs\n14. a round stone well with a wooden bucket\n15. two white geese beside the well\n16. a wooden ladder leaning against the right wall\n17. an apple tree bearing red apples\n18. a blue-painted shutter on the upper window\n19. a scarecrow in a vegetable patch\n20. a small brown dog asleep in the sun\n21. a hanging bracket sign painted with a loaf of bread\n22. a millstone propped upright against the wall\n23. a boy fishing with a long rod from the bank\n24. a moss-covered low stone wall along the yard edge\n25. smoke rising from a brick chimney\nConstraints:\n- Draw each required element exactly once.\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "e01",
+     "text": "a timber water wheel on the mill's left wall, turning in a stone race",
+     "expect": "present"
+    },
+    {
+     "id": "e02",
+     "text": "a stone mill building with a slate roof",
+     "expect": "present"
+    },
+    {
+     "id": "e03",
+     "text": "a red wooden door with black iron hinges",
+     "expect": "present"
+    },
+    {
+     "id": "e04",
+     "text": "three flour sacks stacked beside the door",
+     "expect": "present"
+    },
+    {
+     "id": "e05",
+     "text": "a donkey harnessed to a two-wheeled cart",
+     "expect": "present"
+    },
+    {
+     "id": "e06",
+     "text": "a miller in a white floured apron standing at the door",
+     "expect": "present"
+    },
+    {
+     "id": "e07",
+     "text": "a wooden footbridge crossing the river",
+     "expect": "present"
+    },
+    {
+     "id": "e08",
+     "text": "a grey heron standing in the shallows",
+     "expect": "present"
+    },
+    {
+     "id": "e09",
+     "text": "a stack of split firewood under a lean-to",
+     "expect": "present"
+    },
+    {
+     "id": "e10",
+     "text": "a black cat sitting on a ground-floor window sill",
+     "expect": "present"
+    },
+    {
+     "id": "e11",
+     "text": "an iron lantern hanging above the door",
+     "expect": "present"
+    },
+    {
+     "id": "e12",
+     "text": "a wooden rain barrel at the downpipe",
+     "expect": "present"
+    },
+    {
+     "id": "e13",
+     "text": "a woman carrying a wicker basket of eggs",
+     "expect": "present"
+    },
+    {
+     "id": "e14",
+     "text": "a round stone well with a wooden bucket",
+     "expect": "present"
+    },
+    {
+     "id": "e15",
+     "text": "two white geese beside the well",
+     "expect": "present"
+    },
+    {
+     "id": "e16",
+     "text": "a wooden ladder leaning against the right wall",
+     "expect": "present"
+    },
+    {
+     "id": "e17",
+     "text": "an apple tree bearing red apples",
+     "expect": "present"
+    },
+    {
+     "id": "e18",
+     "text": "a blue-painted shutter on the upper window",
+     "expect": "present"
+    },
+    {
+     "id": "e19",
+     "text": "a scarecrow in a vegetable patch",
+     "expect": "present"
+    },
+    {
+     "id": "e20",
+     "text": "a small brown dog asleep in the sun",
+     "expect": "present"
+    },
+    {
+     "id": "e21",
+     "text": "a hanging bracket sign painted with a loaf of bread",
+     "expect": "present"
+    },
+    {
+     "id": "e22",
+     "text": "a millstone propped upright against the wall",
+     "expect": "present"
+    },
+    {
+     "id": "e23",
+     "text": "a boy fishing with a long rod from the bank",
+     "expect": "present"
+    },
+    {
+     "id": "e24",
+     "text": "a moss-covered low stone wall along the yard edge",
+     "expect": "present"
+    },
+    {
+     "id": "e25",
+     "text": "smoke rising from a brick chimney",
+     "expect": "present"
+    }
+   ]
+  },
+  {
+   "id": "period-italian-town-10c",
+   "test": "specific-details",
+   "prompt": "Scene: A small market town square in northern Italy around the year 950, early afternoon.\nSubject: The square, seen from one corner, with the townspeople and their buildings.\nDetails:\n1. Buildings are two-storey timber-framed houses with steep thatched roofs and a few plain rubble-stone houses with small round-arched windows.\n2. One low stone church with a single squat square bell tower and no dome stands on the right.\n3. People wear coarse undyed wool tunics, belted at the waist; women wear linen head cloths.\n4. The square is bare packed earth with a wooden well and plank market stalls selling grain and pottery.\n5. A wooden palisade and a plain gate tower close the far end.\nConstraints:\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "timber-houses",
+     "text": "Most houses are timber-framed with thatched roofs.",
+     "expect": "present"
+    },
+    {
+     "id": "squat-tower",
+     "text": "The church has a low, squat square bell tower.",
+     "expect": "present"
+    },
+    {
+     "id": "wool-tunics",
+     "text": "People wear plain wool tunics (no tailored doublets, no hats of a later era).",
+     "expect": "present"
+    },
+    {
+     "id": "earth-square",
+     "text": "The square is bare earth with a well and plank stalls, not paved with decorative stone.",
+     "expect": "present"
+    },
+    {
+     "id": "palisade",
+     "text": "A wooden palisade or plain gate tower closes the far end.",
+     "expect": "present"
+    },
+    {
+     "id": "landmark-substituted",
+     "text": "A famous landmark is substituted (for example the Leaning Tower of Pisa, the Colosseum or a Renaissance dome)",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "period-steam-workshop-1850s",
+   "test": "specific-details",
+   "prompt": "Scene: An engineering workshop in an English industrial town in the 1850s, interior, grey daylight through high windows.\nSubject: A single belt-driven workshop floor with workmen and machinery.\nDetails:\n1. A tall single-cylinder steam engine stands at one end, its crank turning a large iron flywheel that drives a leather belt up to an overhead line shaft.\n2. Leather belts run from the line shaft down to a lathe and a drilling machine.\n3. Four workmen in flat caps, waistcoats and rolled sleeves work at the machines; one wears a leather apron.\n4. The floor is rough brick; the walls are whitewashed brick with iron-framed windows.\n5. Lighting is by hanging gas lamps.\nConstraints:\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "overhead-shaft",
+     "text": "Belts run from an overhead line shaft to the machines.",
+     "expect": "present"
+    },
+    {
+     "id": "flywheel-engine",
+     "text": "A steam engine with a large flywheel is visible.",
+     "expect": "present"
+    },
+    {
+     "id": "flat-caps",
+     "text": "Workmen wear flat caps and waistcoats (no modern clothing, no hard hats).",
+     "expect": "present"
+    },
+    {
+     "id": "brick-iron",
+     "text": "Brick walls and iron-framed windows.",
+     "expect": "present"
+    },
+    {
+     "id": "gas-lamps",
+     "text": "Lighting is by gas lamps, with no electric bulbs or fluorescent tubes.",
+     "expect": "present"
+    },
+    {
+     "id": "landmark-substituted",
+     "text": "A famous landmark is substituted (for example the Crystal Palace glazed hall or a Big Ben clock tower)",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "period-bronze-harbour",
+   "test": "specific-details",
+   "prompt": "Scene: A small Bronze Age harbour on a Mediterranean coast around 1300 BCE, morning.\nSubject: The quay and the moored boats seen from the water.\nDetails:\n1. Three sewn-plank boats with a single square linen sail and a steering oar are drawn up on the shingle.\n2. Men wear short wrapped kilts of undyed wool; some carry large clay jars with two handles.\n3. A quay of piled rough stones with wooden mooring posts runs along the shore.\n4. Behind the quay stand a few flat-roofed mud-brick houses with no windows on the street side.\n5. Stacked copper ingots in an ox-hide shape lie beside a woven mat.\nConstraints:\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "sewn-boats",
+     "text": "The boats are plank boats with a single square sail.",
+     "expect": "present"
+    },
+    {
+     "id": "kilts",
+     "text": "People wear short wool wraps or kilts, not tunics with sleeves or togas.",
+     "expect": "present"
+    },
+    {
+     "id": "rough-quay",
+     "text": "The quay is piled rough stone with wooden posts, not cut marble.",
+     "expect": "present"
+    },
+    {
+     "id": "mudbrick",
+     "text": "Houses are flat-roofed mud-brick.",
+     "expect": "present"
+    },
+    {
+     "id": "ingots",
+     "text": "Copper ingots (ox-hide shaped) are visible.",
+     "expect": "present"
+    },
+    {
+     "id": "landmark-substituted",
+     "text": "A famous landmark is substituted (for example the Parthenon, a Greek marble temple with columns, or a Roman lighthouse)",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "period-lab-1930s",
+   "test": "specific-details",
+   "prompt": "Scene: A university chemistry laboratory in the 1930s, interior, afternoon.\nSubject: One long laboratory bench with two researchers.\nDetails:\n1. Two men in knee-length white cotton coats; one wears round wire-rimmed glasses.\n2. The bench carries glass retorts, a Bunsen burner with a rubber gas hose, a brass balance in a glass case and rows of brown glass reagent bottles with cork stoppers.\n3. A wall chart of the periodic table hangs on a green-painted plaster wall behind.\n4. A tall window shows an ordinary overcast sky and the roofs of plain brick buildings.\n5. Lighting is by a pendant shaded lamp.\nConstraints:\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "white-coats",
+     "text": "Two researchers in long white coats.",
+     "expect": "present"
+    },
+    {
+     "id": "bunsen-glass",
+     "text": "Bunsen burner with a rubber hose and glass retorts on the bench.",
+     "expect": "present"
+    },
+    {
+     "id": "brass-balance",
+     "text": "A brass balance in a glass case.",
+     "expect": "present"
+    },
+    {
+     "id": "no-modern-kit",
+     "text": "No computer screens, plastic wash bottles, digital readouts or modern safety goggles.",
+     "expect": "present"
+    },
+    {
+     "id": "plain-window",
+     "text": "The window shows plain brick roofs and sky.",
+     "expect": "present"
+    },
+    {
+     "id": "landmark-substituted",
+     "text": "A famous landmark is substituted (for example the Eiffel Tower or Big Ben visible through the window)",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "period-fungus-beech",
+   "test": "specific-details",
+   "prompt": "Scene: Close-up of a temperate beech forest floor in October, soft diffuse light.\nSubject: A cluster of honey fungus on a rotting beech stump.\nDetails:\n1. The cluster is about a dozen honey-brown caps, each with a few darker scales at the centre, on yellowish-tan stems with a ring.\n2. The stump is grey, with peeling bark, and sits among fallen copper-coloured beech leaves.\n3. Two smooth grey beech trunks rise in the background, out of focus.\n4. A little green moss grows on the stump's north side.\n5. The mushrooms are drawn clearly and anatomically accurately, with visible gills under one tilted cap.\nConstraints:\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "honey-brown-cluster",
+     "text": "A cluster of honey-brown, scaly-centred caps on a stump.",
+     "expect": "present"
+    },
+    {
+     "id": "ringed-stems",
+     "text": "The stems are tan and carry a ring.",
+     "expect": "present"
+    },
+    {
+     "id": "beech-leaves",
+     "text": "Fallen copper beech leaves cover the ground.",
+     "expect": "present"
+    },
+    {
+     "id": "beech-trunks",
+     "text": "Smooth grey beech trunks in the background.",
+     "expect": "present"
+    },
+    {
+     "id": "gills",
+     "text": "Gills are visible under at least one cap.",
+     "expect": "present"
+    },
+    {
+     "id": "landmark-substituted",
+     "text": "The stereotype toadstool is substituted (red cap with white spots, fly agaric) in place of honey-brown caps",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "period-cumulonimbus-plain",
+   "test": "specific-details",
+   "prompt": "Scene: A cumulonimbus cloud over a flat agricultural plain, late afternoon.\nSubject: The storm cloud and the plain beneath it, seen from ground level.\nDetails:\n1. A single towering cumulonimbus with a flat anvil top spreading at the top, bright white and sunlit on the upper right side.\n2. The cloud base is dark grey and level, with a curtain of rain falling below it on the left.\n3. The plain is flat with ploughed fields in brown and green stripes and a straight dirt road to the horizon.\n4. No hills or mountains appear anywhere on the horizon.\n5. A few small low cumulus clouds sit far to the right.\nConstraints:\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "anvil",
+     "text": "A towering cloud with a flat anvil top.",
+     "expect": "present"
+    },
+    {
+     "id": "rain-curtain",
+     "text": "A rain curtain falls below a dark level base.",
+     "expect": "present"
+    },
+    {
+     "id": "striped-fields",
+     "text": "Striped ploughed fields on a flat plain.",
+     "expect": "present"
+    },
+    {
+     "id": "flat-horizon",
+     "text": "The horizon is flat with no hills or mountains.",
+     "expect": "present"
+    },
+    {
+     "id": "straight-road",
+     "text": "A straight dirt road runs to the horizon.",
+     "expect": "present"
+    },
+    {
+     "id": "landmark-substituted",
+     "text": "A stereotype scene is substituted (for example a tornado funnel or Monument Valley buttes)",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "negpos-domes-negative",
+   "test": "saying-no",
+   "negation_style": "explicit-no",
+   "prompt": "Scene: A walled hill town in a mountain valley, midday.\nSubject: The town seen from the valley road, with its church and houses.\nDetails:\n1. A single church stands at the centre.\n2. The houses are two-storey stone buildings stepped up the hillside.\n3. A stone wall with one gate surrounds the town.\nConstraints:\n- No text, no lettering, no captions.\n- No domes.",
+   "items": [
+    {
+     "id": "negated-thing-appears",
+     "text": "Is any dome (a rounded hemispherical roof) visible anywhere?",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "negpos-domes-positive",
+   "test": "saying-no",
+   "negation_style": "described-positively",
+   "prompt": "Scene: A walled hill town in a mountain valley, midday.\nSubject: The town seen from the valley road, with its church and houses.\nDetails:\n1. A single church stands at the centre.\n2. The houses are two-storey stone buildings stepped up the hillside.\n3. A stone wall with one gate surrounds the town.\n4. Every roof is flat timber boards; the church has a flat timber roof and a square stone tower.\nConstraints:\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "negated-thing-appears",
+     "text": "Is any dome (a rounded hemispherical roof) visible anywhere?",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "negpos-red-mushrooms-negative",
+   "test": "saying-no",
+   "negation_style": "explicit-no",
+   "prompt": "Scene: A woodland clearing in autumn, soft light.\nSubject: Several mushrooms growing in leaf litter at the foot of an oak.\nDetails:\n1. Five mushrooms of different heights grow in a loose group.\n2. Fallen oak leaves cover the ground.\nConstraints:\n- No text, no lettering, no captions.\n- No red mushrooms.",
+   "items": [
+    {
+     "id": "negated-thing-appears",
+     "text": "Is any mushroom with a red cap visible?",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "negpos-red-mushrooms-positive",
+   "test": "saying-no",
+   "negation_style": "described-positively",
+   "prompt": "Scene: A woodland clearing in autumn, soft light.\nSubject: Several mushrooms growing in leaf litter at the foot of an oak.\nDetails:\n1. Five mushrooms of different heights grow in a loose group.\n2. Fallen oak leaves cover the ground.\n3. Every mushroom cap is brown or ochre.\nConstraints:\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "negated-thing-appears",
+     "text": "Is any mushroom with a red cap visible?",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "negpos-flywheel-negative",
+   "test": "saying-no",
+   "negation_style": "explicit-no",
+   "prompt": "Scene: A beam engine in a brick engine house, 1840s, interior.\nSubject: The engine from the side.\nDetails:\n1. A large iron beam rocks on a central pillar.\n2. The steam cylinder stands at one end.\n3. A brick wall and an arched window are behind the engine.\nConstraints:\n- No text, no lettering, no captions.\n- No flywheel.",
+   "items": [
+    {
+     "id": "negated-thing-appears",
+     "text": "Is any flywheel (a large heavy wheel on a shaft) visible?",
+     "expect": "absent"
+    }
+   ]
+  },
+  {
+   "id": "negpos-flywheel-positive",
+   "test": "saying-no",
+   "negation_style": "described-positively",
+   "prompt": "Scene: A beam engine in a brick engine house, 1840s, interior.\nSubject: The engine from the side.\nDetails:\n1. A large iron beam rocks on a central pillar.\n2. The steam cylinder stands at one end.\n3. A brick wall and an arched window are behind the engine.\n4. The rotation is carried by a bare crank and a straight shaft, which end in a plain bearing block.\nConstraints:\n- No text, no lettering, no captions.",
+   "items": [
+    {
+     "id": "negated-thing-appears",
+     "text": "Is any flywheel (a large heavy wheel on a shaft) visible?",
+     "expect": "absent"
+    }
+   ]
+  }
+ ]
+}

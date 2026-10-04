@@ -1,0 +1,121 @@
+{
+ "period-bronze-harbour/gpt-image-2.5-flare/0": {
+  "ingots": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/1": {
+  "ingots": true
+ },
+ "period-bronze-harbour/gpt-image-2.5-flare/5": {
+  "ingots": false
+ },
+ "period-bronze-harbour/gpt-image-2.5-sunburst/3": {
+  "rough-quay": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/3": {
+  "earth-square": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/9": {
+  "earth-square": true,
+  "timber-houses": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/7": {
+  "earth-square": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-flare/8": {
+  "timber-houses": true
+ },
+ "period-italian-town-10c/gpt-image-2.5-sunburst/8": {
+  "timber-houses": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/4": {
+  "gas-lamps": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-flare/6": {
+  "gas-lamps": true
+ },
+ "period-steam-workshop-1850s/gpt-image-2.5-sunburst/3": {
+  "gas-lamps": true
+ },
+ "retention-08/gpt-image-2.5-sunburst/0": {
+  "e04": false
+ },
+ "retention-08/gpt-image-2.5-sunburst/8": {
+  "e04": false
+ },
+ "retention-08/gpt-image-2.5-sunburst/7": {
+  "e05": true
+ },
+ "retention-15/gpt-image-2.5-flare/2": {
+  "e04": false
+ },
+ "retention-15/gpt-image-2.5-flare/6": {
+  "e04": false
+ },
+ "retention-15/gpt-image-2.5-flare/9": {
+  "e04": false
+ },
+ "retention-15/gpt-image-2.5-sunburst/3": {
+  "e04": true,
+  "e08": false
+ },
+ "retention-15/gpt-image-2.5-sunburst/7": {
+  "e04": true
+ },
+ "retention-15/gpt-image-2.5-sunburst/9": {
+  "e04": true,
+  "e09": true
+ },
+ "retention-25/gpt-image-2.5-flare/7": {
+  "e04": true,
+  "e16": false
+ },
+ "retention-25/gpt-image-2.5-sunburst/2": {
+  "e04": true,
+  "e08": false,
+  "e20": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/3": {
+  "e04": true,
+  "e15": false
+ },
+ "retention-25/gpt-image-2.5-sunburst/6": {
+  "e04": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/7": {
+  "e04": false
+ },
+ "retention-25/gpt-image-2.5-flare/2": {
+  "e09": true,
+  "e20": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/9": {
+  "e14": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/1": {
+  "e18": true
+ },
+ "retention-25/gpt-image-2.5-flare/8": {
+  "e20": true
+ },
+ "retention-25/gpt-image-2.5-sunburst/8": {
+  "e20": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/1": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-flare/6": {
+  "inventions": true
+ },
+ "period-cumulonimbus-plain/gpt-image-2.5-sunburst/1": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/5": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/8": {
+  "inventions": true
+ },
+ "period-fungus-beech/gpt-image-2.5-flare/9": {
+  "inventions": false
+ }
+}

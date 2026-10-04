@@ -1,0 +1,22 @@
+{
+  "description": "Index of the dataset. Human settlement rounds are listed in the order they are applied; a later round overrides an earlier one per (image, item).",
+  "prompts": "prompts.json",
+  "reference": "reference.json",
+  "rounds": [
+    "human/human-round-1.json",
+    "human/human-round-2.json",
+    "human/human-round-3.json",
+    "human/human-round-4.json",
+    "human/human-round-4b.json",
+    "human/human-round-5.json"
+  ],
+  "exclusions": "exclusions.json",
+  "judges": {
+    "gpt-6.1-sol": "judges/gpt-6.1-sol.json",
+    "gpt-6-sol": "judges/gpt-6-sol.json",
+    "gpt-6-luna": "judges/gpt-6-luna.json"
+  },
+  "extra_judges": {
+    "gpt-6.1-sol (medium effort)": "judges/gpt-6.1-sol.medium.json"
+  }
+}

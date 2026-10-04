@@ -1,0 +1,252 @@
+{
+ "checklist": {
+  "gpt-6.1-sol": {
+   "n": 1758,
+   "tp": 1461,
+   "fp": 19,
+   "tn": 265,
+   "fn": 13,
+   "precision": 98.7,
+   "recall": 99.1,
+   "specificity": 93.3,
+   "accuracy": 98.2
+  },
+  "gpt-6-sol": {
+   "n": 1758,
+   "tp": 1453,
+   "fp": 29,
+   "tn": 255,
+   "fn": 21,
+   "precision": 98.0,
+   "recall": 98.6,
+   "specificity": 89.8,
+   "accuracy": 97.2
+  },
+  "gpt-6-luna": {
+   "n": 1758,
+   "tp": 1467,
+   "fp": 52,
+   "tn": 232,
+   "fn": 7,
+   "precision": 96.6,
+   "recall": 99.5,
+   "specificity": 81.7,
+   "accuracy": 96.6
+  },
+  "gpt-6.1-sol (medium effort)": {
+   "n": 1758,
+   "tp": 1462,
+   "fp": 19,
+   "tn": 265,
+   "fn": 12,
+   "precision": 98.7,
+   "recall": 99.2,
+   "specificity": 93.3,
+   "accuracy": 98.2
+  }
+ },
+ "additions": {
+  "gpt-6.1-sol": {
+   "n": 300,
+   "tp": 274,
+   "fp": 0,
+   "tn": 21,
+   "fn": 5,
+   "precision": 100.0,
+   "recall": 98.2,
+   "specificity": 100.0,
+   "accuracy": 98.3
+  },
+  "gpt-6-sol": {
+   "n": 300,
+   "tp": 233,
+   "fp": 0,
+   "tn": 21,
+   "fn": 46,
+   "precision": 100.0,
+   "recall": 83.5,
+   "specificity": 100.0,
+   "accuracy": 84.7
+  },
+  "gpt-6-luna": {
+   "n": 300,
+   "tp": 161,
+   "fp": 0,
+   "tn": 21,
+   "fn": 118,
+   "precision": 100.0,
+   "recall": 57.7,
+   "specificity": 100.0,
+   "accuracy": 60.7
+  },
+  "gpt-6.1-sol (medium effort)": {
+   "n": 300,
+   "tp": 278,
+   "fp": 2,
+   "tn": 19,
+   "fn": 1,
+   "precision": 99.3,
+   "recall": 99.6,
+   "specificity": 90.5,
+   "accuracy": 99.0
+  },
+  "always yes": {
+   "n": 300,
+   "tp": 279,
+   "fp": 21,
+   "tn": 0,
+   "fn": 0,
+   "precision": 93.0,
+   "recall": 100.0,
+   "specificity": 0.0,
+   "accuracy": 93.0
+  }
+ },
+ "generator": {
+  "sunburst": {
+   "elements_8": {
+    "passed": 71,
+    "counted": 80,
+    "pct": 88.8
+   },
+   "elements_15": {
+    "passed": 140,
+    "counted": 149,
+    "pct": 94.0
+   },
+   "elements_25": {
+    "passed": 235,
+    "counted": 250,
+    "pct": 94.0
+   },
+   "specific_details": {
+    "passed": 283,
+    "counted": 290,
+    "pct": 97.6
+   },
+   "landmark_substituted": {
+    "drawn": 0,
+    "counted": 60
+   },
+   "forbidden_thing_drawn": {
+    "drawn": 0,
+    "counted": 50
+   },
+   "period_images_with_additions": {
+    "with_additions": 54,
+    "images": 60
+   }
+  },
+  "flare": {
+   "elements_8": {
+    "passed": 76,
+    "counted": 80,
+    "pct": 95.0
+   },
+   "elements_15": {
+    "passed": 144,
+    "counted": 150,
+    "pct": 96.0
+   },
+   "elements_25": {
+    "passed": 239,
+    "counted": 249,
+    "pct": 96.0
+   },
+   "specific_details": {
+    "passed": 286,
+    "counted": 290,
+    "pct": 98.6
+   },
+   "landmark_substituted": {
+    "drawn": 0,
+    "counted": 60
+   },
+   "forbidden_thing_drawn": {
+    "drawn": 0,
+    "counted": 50
+   },
+   "period_images_with_additions": {
+    "with_additions": 45,
+    "images": 60
+   }
+  }
+ },
+ "reference_additions_per_image": {
+  "sunburst": {
+   "how-much-it-keeps": 5.3,
+   "saying-no": 3.3,
+   "specific-details": 3.2
+  },
+  "flare": {
+   "how-much-it-keeps": 4.2,
+   "saying-no": 2.0,
+   "specific-details": 2.8
+  }
+ },
+ "settled_rows": {
+  "rows": 273,
+  "agreement": {
+   "reference": {
+    "agree": 238,
+    "counted": 273,
+    "pct": 87.2
+   },
+   "gpt-6.1-sol": {
+    "agree": 231,
+    "counted": 273,
+    "pct": 84.6
+   },
+   "gpt-6-sol": {
+    "agree": 159,
+    "counted": 273,
+    "pct": 58.2
+   },
+   "gpt-6-luna": {
+    "agree": 82,
+    "counted": 273,
+    "pct": 30.0
+   },
+   "gpt-6.1-sol (medium effort)": {
+    "agree": 231,
+    "counted": 273,
+    "pct": 84.6
+   }
+  },
+  "strict": {
+   "rows": 250,
+   "agreement": {
+    "reference": {
+     "agree": 217,
+     "counted": 249,
+     "pct": 87.1
+    },
+    "gpt-6.1-sol": {
+     "agree": 212,
+     "counted": 249,
+     "pct": 85.1
+    },
+    "gpt-6-sol": {
+     "agree": 153,
+     "counted": 249,
+     "pct": 61.4
+    },
+    "gpt-6-luna": {
+     "agree": 72,
+     "counted": 249,
+     "pct": 28.9
+    },
+    "gpt-6.1-sol (medium effort)": {
+     "agree": 215,
+     "counted": 249,
+     "pct": 86.3
+    }
+   }
+  }
+ },
+ "counts": {
+  "images": 300,
+  "images_with_addition": 279,
+  "checklist_answers_scored": 1758
+ }
+}

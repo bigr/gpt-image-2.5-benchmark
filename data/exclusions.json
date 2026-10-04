@@ -1,0 +1,20 @@
+{
+  "description": "Items and answers that are left out of every score. A missing answer is skipped in both numerator and denominator.",
+  "excluded_items": [
+    {
+      "prompt": "period-italian-town-10c",
+      "item": "squat-tower",
+      "reason": "'A low, squat bell tower': low compared to what? The person settling the answers could not decide consistently."
+    },
+    {
+      "prompt": "negpos-flywheel-positive",
+      "item": "negated-thing-appears",
+      "reason": "'A flywheel': whether a solid crank disc counts could not be decided consistently."
+    }
+  ],
+  "unknown_answers": {
+    "item": "e04",
+    "images_file": "human/sacks-uncertain.json",
+    "reason": "Two images where the person could not tell three sacks from four. The answer to this item is REMOVED from the reference for these images (it is unknown, not 'not drawn')."
+  }
+}

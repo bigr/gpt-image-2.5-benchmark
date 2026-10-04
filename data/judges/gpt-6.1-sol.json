@@ -1,0 +1,5078 @@
+{
+ "model": "gpt-6.1-sol",
+ "reasoning_effort": "low",
+ "readings": {
+  "negpos-domes-negative/gpt-image-2.5-flare/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A river with rocks and rapids in the valley.",
+    "Trees, shrubs, and grass across the valley and town.",
+    "Low stone roadside walls.",
+    "A cross atop the church spire.",
+    "Clouds in the sky."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-flare/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A river with rocks along its banks.",
+    "Trees, shrubs, and grasses throughout the valley and town.",
+    "Low stone parapets lining the valley road and approach path.",
+    "A cross atop the church spire.",
+    "Clouds in the sky."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-flare/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream beside the valley road",
+    "Trees, shrubs, and grasses across the valley and town",
+    "A low stone barrier along the roadside",
+    "A cross atop the church spire"
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-flare/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A river with rocks and small rapids beside the road.",
+    "Trees, shrubs, and grassy vegetation throughout the valley and town.",
+    "Low stone parapet walls along the valley road.",
+    "Clouds in the sky."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-flare/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream alongside the valley road.",
+    "A low stone roadside retaining wall.",
+    "Trees, shrubs, and grass throughout the valley and town."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-flare/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A river beside the valley road.",
+    "A low stone roadside parapet.",
+    "Trees, shrubs, and grass around the town and across the valley slopes.",
+    "Clouds in the sky."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-flare/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream with rocks along its banks beside the road.",
+    "Wooden rail fences along the valley road.",
+    "Trees, shrubs, grasses and wildflowers around the town and valley.",
+    "Stone retaining walls and terraces between the houses.",
+    "Clouds in the sky."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-flare/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A river beside the valley road.",
+    "Trees, shrubs, and grasses across the valley and town.",
+    "Low stone retaining walls along the road.",
+    "Clouds in the sky."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-flare/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream running beside the valley road.",
+    "Stone parapet walls along the road.",
+    "Trees, shrubs, and grasses across the hillside and valley.",
+    "A cross atop the church spire.",
+    "Clouds in the sky."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-flare/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A river with rocks and rapids beside the road",
+    "Trees, shrubs, and grasses throughout the valley and town",
+    "A low stone roadside parapet",
+    "Clouds in the sky",
+    "Crosses atop the church"
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stone arch bridge on the approach road.",
+    "A rocky stream beside the road.",
+    "Trees, including tall cypresses, shrubs and grass.",
+    "Low stone retaining walls along the road.",
+    "A cross atop the church spire."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A river with rapids alongside the road",
+    "A low stone parapet lining the valley road",
+    "Trees, including tall cypresses, and shrubs",
+    "Exposed rocks and river boulders",
+    "A square crenellated watchtower",
+    "Stone outdoor stairways",
+    "A cross atop the church spire",
+    "Clouds"
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream with rocks and boulders",
+    "An arched stone bridge leading to the gate",
+    "Stone parapet walls along the valley road",
+    "Trees, cypresses, shrubs and grasses",
+    "A shield-shaped relief above the town gate"
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream with rocks and small rapids beside the road.",
+    "Trees, shrubs, and grasses throughout the valley and town.",
+    "Low stone parapets alongside the road.",
+    "A cross atop the church spire."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stone arch bridge over a stream.",
+    "A rocky stream.",
+    "Trees, shrubs, grasses and wildflowers.",
+    "A low stone parapet along the valley road.",
+    "A cross atop the church spire."
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "An arched stone bridge over a river",
+    "River with exposed rocks and boulders",
+    "Trees, including tall cypresses, shrubs, and grasses",
+    "A stone parapet along the foreground road",
+    "Clouds in the sky"
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Stone arched bridge over a stream",
+    "Flowing stream with exposed boulders",
+    "Trees and shrubs along the road, stream, and among the buildings",
+    "Stone parapet along the valley road",
+    "Cross atop the church spire",
+    "Carved shield above the town gate"
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A flowing rocky stream beside the road",
+    "A stone bridge leading to the town gate",
+    "Trees, shrubs, and other vegetation",
+    "A low stone parapet along the valley road"
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Stone arch bridge",
+    "Rocky stream with rapids",
+    "Trees, shrubs, grass and flowering plants",
+    "Stone parapet walls along the valley road",
+    "Cross atop the church spire",
+    "Clouds"
+   ]
+  },
+  "negpos-domes-negative/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A river with exposed rocks alongside the valley road",
+    "A stone arched bridge leading to the town gate",
+    "Trees, shrubs, and grasses throughout the valley and town",
+    "A stone roadside parapet",
+    "Crosses atop the church spire and roof"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "River with a rocky bank",
+    "Trees, shrubs and grass",
+    "Clouds",
+    "Cross on the church tower",
+    "Chimneys on the buildings",
+    "Low stone retaining walls beside the valley road"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Stream beside the road",
+    "Trees, shrubs, grasses and flowers",
+    "Scattered rocks and boulders",
+    "Snow patches on mountain peaks",
+    "Clouds"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream alongside the valley road.",
+    "Trees, shrubs, and grass throughout the valley and town.",
+    "Scattered rocks and boulders beside the road and stream.",
+    "Clouds in the sky.",
+    "Stone steps within the town."
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream beside the road",
+    "Trees, shrubs and grasses throughout the valley and town",
+    "Exposed rocks and boulders",
+    "Clouds in the sky",
+    "Stone stairways between houses",
+    "A low stone retaining wall beside the foreground road"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream alongside the valley road",
+    "Trees, shrubs, grass and wildflowers",
+    "Snow patches on the mountains",
+    "Clouds",
+    "Exposed rocks and boulders",
+    "Stone stairways between the houses",
+    "Low stone edging walls along the road",
+    "Pitched roofs on the houses and church instead of flat roofs"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream with exposed rocks alongside the road",
+    "Trees, shrubs, and grass throughout the valley and town",
+    "Clouds in the sky",
+    "Stone retaining wall alongside the foreground road",
+    "Exterior stone stairways between houses",
+    "Chimneys on house roofs"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream with rocks and boulders in the foreground",
+    "Trees, shrubs, and grass around the town and on the mountain slopes",
+    "Snow patches on the mountain peaks",
+    "Clouds in the sky",
+    "Low stone retaining walls and terraces between houses and alongside the road",
+    "Stone steps between buildings"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream beside the road",
+    "Trees, shrubs, and grass throughout the scene",
+    "Boulders and rocks along the stream and roadside",
+    "Stone stairways between the houses",
+    "Low stone roadside parapets",
+    "Snow patches on the mountain peaks",
+    "Clouds in the sky",
+    "Pitched roofs on the church, tower, and houses"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "River with rocky rapids beside the road",
+    "Low stone roadside walls",
+    "Trees, shrubs and grass",
+    "Snow patches on mountain peaks",
+    "Stone stairways through the town",
+    "Wooden balconies on houses"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-flare/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream beside the road",
+    "A small stone bridge at the town gate",
+    "Trees, shrubs, grass and wildflowers",
+    "Snow patches on the mountains",
+    "Clouds",
+    "Pitched roofs on the houses and church tower"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stream beside the road.",
+    "Trees, cypresses, shrubs and grasses around the town and valley.",
+    "Exposed boulders along the road and stream.",
+    "Stone steps between the houses.",
+    "Pitched roofs on the houses and church, including a pyramidal tower roof.",
+    "A small balcony with a wooden railing on a house."
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Stone arch bridge",
+    "River with rocky banks",
+    "Trees, shrubs, and grasses",
+    "Cross atop the church tower",
+    "Bells in the church tower",
+    "Exterior stone stairways",
+    "Wooden balconies",
+    "Pitched roofs on the church and houses"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Stone arched bridge over a stream",
+    "Stream with rocky rapids",
+    "Trees, shrubs, and grasses around the town and road",
+    "Boulders along the stream and roadside",
+    "Chimneys on buildings",
+    "Pitched roofs on the houses and church tower"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Pitched roofs on the houses, church, and tower",
+    "Cross on top of the church tower",
+    "River with rocky banks",
+    "Stone bridge carrying the road across the river",
+    "Trees, shrubs, grass, and climbing vines",
+    "Scattered foreground boulders",
+    "Stone stairways within the town",
+    "Low stone retaining walls along the road",
+    "Clouds"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A stone arch bridge",
+    "A flowing river",
+    "A low stone wall bordering the valley road",
+    "Trees, including tall cypresses, and shrubs",
+    "A cross atop the church tower",
+    "Exterior stone stairways",
+    "Clouds"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Arched stone bridge",
+    "Stream with rapids and boulders",
+    "Trees, shrubs, and grasses",
+    "Stone parapet along the valley road",
+    "Cross on the church roof",
+    "Exterior stone stairways",
+    "Clouds"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "An arched stone bridge over a stream.",
+    "A stream with small cascades.",
+    "Trees, including tall cypresses, and shrubs and grasses.",
+    "Large exposed rocks and boulders beside the road and stream.",
+    "A low stone retaining wall alongside the valley road.",
+    "Stone stairways between town buildings.",
+    "A thin vertical rod atop the church tower."
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "A river with rapids",
+    "A stone arched bridge leading to the gate",
+    "Trees, shrubs and grasses",
+    "Boulders along the road and river",
+    "A low stone wall along the valley road",
+    "A cross atop the church tower"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Stone arch bridge",
+    "Stream with rocks and boulders",
+    "Trees, including tall cypresses, shrubs and grasses",
+    "Stone parapet along the valley road",
+    "Crosses atop the church and tower",
+    "Stone stairways and terraced retaining walls"
+   ]
+  },
+  "negpos-domes-positive/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "An arched stone bridge over a stream",
+    "A flowing rocky stream",
+    "Trees, shrubs, and grasses throughout the valley and town",
+    "Large foreground boulders",
+    "Clouds",
+    "Stone stairways between the houses",
+    "Two square towers flanking the town gate"
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Trees and grass visible outside the window."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings surrounding an open floor pit.",
+    "Trees and grass visible through the window.",
+    "Exposed wooden ceiling beams.",
+    "Stone slab floor and masonry engine plinths."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings around the engine",
+    "Timber roof beams and rafters",
+    "Trees and grass visible through the window",
+    "Open pit in the floor beside the engine"
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings around the engine and floor opening.",
+    "Trees and grass visible through the window.",
+    "An open rectangular pit in the floor."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings surrounding an open floor pit.",
+    "Trees visible through the window.",
+    "Exposed wooden roof rafters.",
+    "Stone slab floor."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Trees and grass visible outside the window."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Trees visible through the window.",
+    "Open brick-lined pit in the floor."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings around the engine and pit.",
+    "An open rectangular floor pit.",
+    "Trees and grass visible through the window.",
+    "Exposed wooden roof beams and planking.",
+    "Stone-tiled floor and raised brick platform."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Trees and grass visible through the window",
+    "Metal safety railings around an open brick-lined floor pit",
+    "Stone slab floor",
+    "Exposed wooden roof beams and rafters"
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-flare/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings surrounding the engine and floor opening",
+    "Rectangular brick-lined pit in the floor",
+    "Trees and grass visible through the window"
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railing around a floor opening",
+    "Trees visible outside the window",
+    "Stone slab floor and stone engine plinths",
+    "Exposed wooden ceiling beams"
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Trees visible through the window",
+    "Metal safety railing around an opening in the floor"
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings surrounding the engine.",
+    "Trees and grass visible outside the window."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings around the engine.",
+    "Stone-block engine foundations and an open machinery pit.",
+    "Stone-tiled floor.",
+    "Exposed wooden roof beams.",
+    "Trees and an exterior building visible through the window."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railing in front of the engine.",
+    "Trees and grass visible outside the window."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings around an open floor pit",
+    "Rectangular textured metal floor plate",
+    "Trees visible through the window"
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railing around the engine",
+    "Stone slab floor and raised masonry engine base",
+    "Trees visible through the window",
+    "Small exterior building visible through the window"
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railing around the engine base.",
+    "Trees visible through the window."
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings around the engine",
+    "Trees visible through the window",
+    "Stone slab floor and raised stone plinth",
+    "Exposed timber roof rafters"
+   ]
+  },
+  "negpos-flywheel-negative/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railings around the engine.",
+    "Trees visible through the window.",
+    "A small cylindrical metal container on the rear ledge.",
+    "Stone slab floor.",
+    "Exposed wooden roof rafters."
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/0": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Flywheel behind the crank",
+    "Exposed wooden roof beams and rafters",
+    "Stone slab floor",
+    "Stone foundation plinths beneath the machinery",
+    "Trees and grass visible through the window"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Trees visible outside the window",
+    "Timber ceiling beams and roof boards",
+    "Stone flagstone floor",
+    "Brick-and-stone machinery plinths"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/2": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Solid wheel on the crankshaft",
+    "Trees visible outside the window",
+    "Distant chimney and buildings visible outside the window",
+    "Exposed timber roof beams",
+    "Stone slab floor",
+    "Brick mounting plinths"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/3": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Solid iron flywheel on the shaft",
+    "Trees visible through the window",
+    "A roofed building visible through the window",
+    "Timber roof beams and roof boarding",
+    "Stone slab floor",
+    "Masonry plinths supporting the engine components",
+    "Additional steam pipes and valves beside the cylinder"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/4": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Spoked flywheel on the shaft",
+    "Trees and grassy landscape visible through the window",
+    "Exposed timber roof beams",
+    "Stone slab floor",
+    "Additional steam pipes and valves surrounding the cylinder"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/5": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Heavy wheel on the crankshaft",
+    "Large vertical steam pipe and associated smaller pipes and valves beside the cylinder",
+    "Trees and grassy landscape visible through the window"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/6": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Heavy iron wheel on the shaft.",
+    "Trees and grass visible through the window."
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Trees and grass visible through the window",
+    "Exposed wooden roof beams and rafters",
+    "Stone flagstone floor",
+    "Brick plinths beneath the engine and bearing block",
+    "Pipes and valves attached to the steam cylinder"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/8": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Large solid iron flywheel on the shaft",
+    "Trees visible through the window",
+    "Small building visible through the window",
+    "Exposed wooden roof beams",
+    "Stone slab floor",
+    "Brick machinery plinths"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-flare/9": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "A heavy iron flywheel on the shaft",
+    "Trees visible through the window",
+    "Exposed timber roof beams and rafters",
+    "Stone slab flooring",
+    "Brick plinths beneath the engine components",
+    "Additional steam pipes and valves beside the cylinder"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "A heavy wheel on the crankshaft",
+    "Metal safety railings around the engine",
+    "Trees visible through the window",
+    "Exposed wooden roof beams",
+    "Stone-tiled floor and raised stone platform"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railing in front of the engine",
+    "Trees visible through the window",
+    "Exposed timber roof beams and wooden ceiling",
+    "Stone slab floor and raised stone platform with steps"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Large solid flywheel on the shaft",
+    "Metal safety railings around the engine",
+    "Rectangular iron floor grate",
+    "Trees and a building visible outside the window"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Large solid flywheel on the shaft",
+    "Metal safety railing around the engine",
+    "Trees visible outside the window",
+    "Wall-mounted pipes and valves",
+    "Timber roof beams and planking",
+    "Stone paving floor",
+    "Stone foundation plinths beneath the engine and bearing"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "A solid flywheel on the horizontal shaft.",
+    "A metal safety railing in front of the engine.",
+    "Trees visible through the window."
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "A flywheel on the engine shaft",
+    "Metal safety railings around the engine",
+    "Exterior industrial buildings and chimneys visible through the window"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Large metal wheel on the crankshaft",
+    "Foreground metal safety railing",
+    "Metal floor grates",
+    "Steam pipes and valves around the cylinder",
+    "Trees visible through the window",
+    "Exposed wooden roof beams",
+    "Stone slab floor"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Solid flywheel on the shaft",
+    "Metal safety railing in front of the engine",
+    "Trees visible through the window",
+    "An exterior building roof visible through the window",
+    "Stone-paved floor and raised masonry engine foundations",
+    "Exposed wooden roof beams and boards"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Metal safety railing around the engine",
+    "Timber roof beams and ceiling",
+    "Stone-tiled floor and masonry engine plinths",
+    "Exterior houses and a tall chimney visible through the window",
+    "Trees and rolling green hills visible through the window",
+    "Additional pipes and valve assemblies around the steam cylinder"
+   ]
+  },
+  "negpos-flywheel-positive/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "negated-thing-appears": true
+   },
+   "inventions": [
+    "Large flywheel on the shaft",
+    "Foreground metal safety railing",
+    "Trees and grass visible outside the window",
+    "Stone engine platform and flagstone floor",
+    "Overhead structural braces",
+    "Additional steam pipes, valves, and brass lubricator cups"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorn on the ground",
+    "Moss growing on the oak trunk and roots",
+    "Fallen twigs on the ground"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Moss growing on the oak trunk and roots."
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground",
+    "Moss growing on the oak trunk and roots",
+    "Small fallen twigs among the leaves"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss growing on the oak trunk, roots, and ground."
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Moss growing on the oak trunk and ground.",
+    "Fallen twigs and branches."
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Moss growing on the tree trunk and roots.",
+    "Fallen twigs and branches on the ground."
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Moss on the tree trunk and ground.",
+    "Fallen twigs and sticks among the leaf litter."
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorn on the ground in the foreground.",
+    "Green moss on the oak trunk and roots."
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss covering the oak trunk and roots."
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-flare/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss on the oak trunk and roots.",
+    "Small fallen twigs among the leaf litter."
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground",
+    "Moss growing on the oak trunk and roots"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "An acorn in the foreground",
+    "Green moss on the oak trunk and roots",
+    "A small body of water in the background"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss on the tree trunk and ground",
+    "Acorns among the fallen leaves",
+    "Fallen twigs on the ground"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground.",
+    "Green moss on the tree base and ground.",
+    "Fallen twigs on the ground."
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground",
+    "Moss on the oak trunk and roots",
+    "Fallen twigs on the ground",
+    "A body of water in the background"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground",
+    "Green moss on the oak's base",
+    "Fallen twigs on the ground"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorn in the foreground",
+    "Moss growing on the oak trunk and roots",
+    "Small fallen twigs among the leaves"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns among the fallen leaves",
+    "Green moss on the tree base and roots",
+    "Fallen twigs on the ground"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "An acorn in the foreground",
+    "Green moss on the tree trunk and ground",
+    "Fallen branches and twigs"
+   ]
+  },
+  "negpos-red-mushrooms-negative/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground",
+    "Moss on the tree base and ground",
+    "Fallen twigs"
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns scattered in the leaf litter.",
+    "Moss on the tree base and ground.",
+    "Small fallen twigs and branches."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss on the oak trunk.",
+    "Pale lichens on the oak bark."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground",
+    "Moss on the oak trunk"
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss on the tree trunk",
+    "Small fallen twigs among the leaves"
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss growing on the oak trunk and roots."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss growing on the oak trunk and roots."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Moss growing on the oak trunk.",
+    "Small fallen twigs on the ground."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss growing on the oak trunk and roots."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss on the oak trunk and roots.",
+    "Fallen twigs among the leaf litter."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-flare/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Moss growing on the oak trunk and roots."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground.",
+    "Moss on the oak trunk and roots.",
+    "Ferns in the background."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Two acorns on the ground",
+    "Green moss on the tree base and ground",
+    "Fallen twigs on the ground"
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorn on the ground",
+    "Moss growing on the oak trunk",
+    "Small green plant in the foreground",
+    "Fallen twigs on the ground"
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "An acorn on the ground.",
+    "Green moss growing on the tree base.",
+    "Small fallen twigs on the ground."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "An acorn on the ground at the lower right.",
+    "Green moss and pale lichen on the oak trunk.",
+    "Small fallen twigs among the leaves."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorn on the ground.",
+    "Green moss on the oak trunk.",
+    "Twigs and fallen branches on the ground."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Green moss on the oak trunk and ground.",
+    "An acorn in the lower-right foreground.",
+    "Fallen twigs among the leaves."
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground",
+    "Moss on the tree base",
+    "Fallen twigs on the ground"
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "Acorns on the ground",
+    "Moss and lichen on the oak trunk",
+    "Small fallen twigs on the ground"
+   ]
+  },
+  "negpos-red-mushrooms-positive/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "negated-thing-appears": false
+   },
+   "inventions": [
+    "An acorn on the ground.",
+    "Green moss on the tree roots and trunk.",
+    "Small fallen twigs on the ground."
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/0": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Woven storage baskets near the houses and workers.",
+    "Trees and shrubs behind the houses and along the shore.",
+    "Rocky hills and a headland in the background."
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/1": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Woven storage baskets beside the houses",
+    "Woven cargo bundles inside the boats",
+    "Distant coastal hills",
+    "A cloth headband on one man"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/2": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Palm tree",
+    "Other trees and shrubs",
+    "Mountainous coastal headland",
+    "Woven basket",
+    "Rectangular copper-colored blocks in place of ox-hide-shaped ingots"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/3": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Woven baskets on the shore and inside the boats.",
+    "An additional small unsailed boat at the rear of the quay.",
+    "Trees behind the houses.",
+    "Distant rocky coastal hills and cliffs."
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/4": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mountain ridge across the water",
+    "Trees and shrubs around the houses",
+    "Woven reed panel leaning against a house",
+    "Small triangular wooden panel leaning against the rightmost house",
+    "Stone ballast or cargo inside the boats"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/5": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Woven basket beside the ingots",
+    "Bundles of reeds or branches on a house roof",
+    "Trees and shrubs",
+    "Rocky coastal hills in the background"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/6": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Woven baskets inside the boats",
+    "Coastal hills with scrub vegetation",
+    "Trees behind the houses",
+    "Bundle of poles leaning against a house",
+    "Branch-covered awning beside a house"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/7": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Trees and shrubs behind the houses.",
+    "Distant coastal hills.",
+    "Coiled ropes inside the boats.",
+    "A woven wooden door or gate beside the house."
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/8": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Woven baskets beside the houses and ingot stack.",
+    "Trees and shrubs along the shore.",
+    "Rocky coastal hills and distant mountains."
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-flare/9": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "An animal hide draped beside the metal blocks",
+    "Woven baskets aboard the boats",
+    "Reed panels leaning against a house",
+    "Coastal hills with trees and shrubs",
+    "A man's headband"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Cylindrical wooden logs supporting the beached boats",
+    "Ropes wrapped around the quay posts",
+    "Rocky coastal hills with scattered shrubs and trees",
+    "Reed or thatch awnings on wooden supports beside the houses",
+    "Street-facing window openings in the houses"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Horned cattle on the shore",
+    "Large upright woven baskets",
+    "Metal bowls or basins and rounded rectangular metal blocks in place of ox-hide ingots",
+    "Wooden porch or awning framework with hanging cloth",
+    "Rocky coastal hills with shrubs"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Woven baskets on the shore",
+    "Thatched awning supported by wooden poles outside a house",
+    "Rocky hills with shrubs and trees behind the houses",
+    "Small square windows in house walls",
+    "White four-point star symbol at the lower right"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": false,
+    "mudbrick": true,
+    "ingots": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "An additional fourth boat.",
+    "Fishing nets draped over boats and cargo.",
+    "Woven baskets and cargo sacks.",
+    "A wooden pole-and-branch awning beside the houses.",
+    "Small openings or windows in the street-facing house walls.",
+    "Rocky hills with trees and shrubs behind the harbour.",
+    "Trapezoidal metal blocks instead of ox-hide-shaped ingots."
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Rocky inland hills with shrubs and trees, including tall cypress-like trees.",
+    "Stone ruins or fortifications on the distant hilltop.",
+    "Fabric awning over a house entrance.",
+    "Woven baskets beside the houses and a jar.",
+    "Small window openings in the house facades."
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Rocky mountains behind the harbour",
+    "Trees and shrubs on the hillsides",
+    "Street-facing window openings in the houses",
+    "A projecting reed or timber awning on the left house",
+    "Woven baskets near the boats",
+    "Additional pottery vessels stored beside the houses"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Woven storage baskets",
+    "A reed-covered wooden awning attached to a house",
+    "Street-facing house windows",
+    "Ropes wrapped around the mooring posts",
+    "Rocky coastal hills and cliffs with shrubs and trees"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Numerous woven baskets stacked beside the houses.",
+    "A thatched awning attached to a house.",
+    "Rocky hills with shrubs and trees behind the harbour.",
+    "Dark headbands worn by men."
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Stacked rounded rectangular blocks instead of ox-hide-shaped ingots",
+    "Rocky hills with shrubs and trees behind the harbour",
+    "Wooden supports beneath the beached boats",
+    "Wooden shade awning attached to a house"
+   ]
+  },
+  "period-bronze-harbour/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "sewn-boats": true,
+    "kilts": true,
+    "rough-quay": true,
+    "mudbrick": true,
+    "ingots": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Rocky hills with scattered shrubs and trees behind the harbour",
+    "Woven baskets beside the jars and ingots",
+    "Wooden-post shade canopy with a woven roof beside a house",
+    "Small street-facing window openings in the houses",
+    "Ropes wrapped around the mooring posts"
+   ]
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/0": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/1": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/2": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/3": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/4": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/5": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/6": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/7": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/8": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-flare/9": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Tree lines and clusters along the horizon.",
+    "Small distant farm buildings along the horizon.",
+    "Grass verges and a grassy strip down the center of the dirt road."
+   ]
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Small clusters of trees along the horizon.",
+    "Grass verges alongside the dirt road."
+   ]
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Small trees along the distant horizon.",
+    "Grassy verges along the dirt road."
+   ]
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Small clusters of trees on the horizon.",
+    "Grassy verges along the dirt road."
+   ]
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Grassy verges and a grass strip along the middle of the dirt road.",
+    "Distant trees along the horizon."
+   ]
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Small distant tree stands along the horizon.",
+    "Grassy verges along the dirt road."
+   ]
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Grass verges and a grassy center strip along the dirt road.",
+    "Distant trees along the horizon."
+   ]
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Small clusters of trees along the horizon.",
+    "Small distant farm buildings along the left horizon.",
+    "Grass verges alongside the dirt road."
+   ]
+  },
+  "period-cumulonimbus-plain/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "anvil": true,
+    "rain-curtain": true,
+    "striped-fields": true,
+    "flat-horizon": true,
+    "straight-road": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Small trees and tree clusters along the horizon.",
+    "Grass verges alongside the dirt road."
+   ]
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/0": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/1": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/2": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/3": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/4": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/5": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/6": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Green moss on the bases of the background beech trunks."
+   ]
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/7": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/8": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-flare/9": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "A fallen branch lying across the background forest floor."
+   ]
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Additional background tree trunks beyond the two requested.",
+    "Thin fallen twigs among the leaves."
+   ]
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Fallen branches and twigs among the leaves."
+   ]
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Fallen twigs across the leaf litter."
+   ]
+  },
+  "period-fungus-beech/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "honey-brown-cluster": true,
+    "ringed-stems": true,
+    "beech-leaves": true,
+    "beech-trunks": true,
+    "gills": true,
+    "landmark-substituted": false
+   },
+   "inventions": []
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/0": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": true,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Snow-capped mountains and wooded hills in the background",
+    "Trees, shrubs, and patches of grass",
+    "A horse in the square",
+    "Cloth market-stall awnings",
+    "Wicker carrying baskets and grain sacks",
+    "Walking sticks",
+    "A bucket and rope hanging from the well",
+    "Bells in the church tower",
+    "A cross atop the church tower",
+    "Chimneys on the houses"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/1": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mountain range in the background",
+    "Trees, shrubs, and patches of grass",
+    "Pack animals in the square",
+    "Wicker baskets and grain sacks",
+    "Walking sticks carried by townspeople",
+    "Crosses atop the church tower and gate tower",
+    "Bell inside the gate tower"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/2": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "A pack donkey with bundled cargo",
+    "Mountains in the background",
+    "Trees and grassy slopes beyond the square",
+    "Woven baskets and grain sacks",
+    "Cloth awnings over market stalls",
+    "Bells in the church tower and gate tower",
+    "Crosses atop the church and gate tower",
+    "A walking staff beside the donkey"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/3": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": false,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mountains and wooded hills in the background",
+    "Grass, shrubs, and scattered rocks along the square",
+    "Donkeys, including a saddled donkey",
+    "Woven carrying and storage baskets",
+    "Grain sacks and scoops",
+    "Cloth canopies over market stalls",
+    "Stone chimneys on houses",
+    "Crosses on the church tower and gate-tower roof",
+    "Bells in the church tower",
+    "A bucket and rope in the well",
+    "Hooded cloaks worn by some townspeople"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/4": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": true,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Donkeys in the square",
+    "Mountains in the background",
+    "Trees and patches of grass",
+    "Clouds",
+    "Crosses atop the church tower and gate tower",
+    "Bells in the church tower",
+    "Cloth awnings over the market stalls",
+    "Grain sacks",
+    "Wooden barrels and tubs",
+    "Woven baskets",
+    "Shoulder bags and belt pouches",
+    "Bucket and winding rope at the well"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/5": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": true,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mountains and wooded hills in the background",
+    "Dogs in the square",
+    "Cloth awnings over the market stalls",
+    "Grain sacks, wooden barrels, buckets, and baskets",
+    "Small wooden stools at the pottery stall",
+    "Cross on the church tower",
+    "Leather shoulder bags and belt pouches"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/6": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "A dog in the square",
+    "Mountains and wooded hills in the background",
+    "Trees, shrubs, and ground vegetation",
+    "Woven baskets and grain sacks",
+    "A bucket suspended from the well",
+    "Crosses atop the church and gate tower",
+    "Visible church bells"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/7": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mountains, including snow-covered peaks",
+    "Trees and patches of grass",
+    "Chickens",
+    "Pack animals in the background",
+    "Woven baskets",
+    "Wooden barrels and tubs",
+    "Grain sacks",
+    "Cloth stall awnings",
+    "Walking sticks",
+    "Bells in the church tower and gate tower",
+    "Cross atop the church tower",
+    "Stone chimney on a house"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/8": {
+   "answers": {
+    "timber-houses": false,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Snow-covered mountains and wooded hills in the background",
+    "Grass and shrubs beside buildings and the palisade",
+    "Wicker baskets and grain sacks",
+    "Cloth market-stall awnings",
+    "Stone chimneys",
+    "Crosses on the church roof and tower",
+    "Bells in the church tower and gate tower",
+    "Small birds in the square"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-flare/9": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": false,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mountain range with snowy peaks",
+    "Forested hills and trees",
+    "Dogs in the square",
+    "Pack donkey carrying bundles",
+    "Cattle in the background",
+    "Woven baskets",
+    "Wooden barrel",
+    "Sacks of goods",
+    "Buckets and well rope",
+    "Cloth awnings over market stalls",
+    "Crosses atop the church tower and gate tower",
+    "Visible church bell",
+    "Grass and small plants beside buildings and the well"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": true,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Pack donkeys with loads",
+    "Chickens",
+    "Wicker baskets",
+    "Wooden barrels",
+    "Grain sacks",
+    "Cloth stall awnings",
+    "Buckets at the well",
+    "Crosses atop the church tower and gate tower",
+    "Wooded hills in the background",
+    "Trees and climbing vegetation"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Chickens in the square",
+    "Pack animals carrying loads",
+    "Wicker baskets",
+    "Grain sacks",
+    "Cloth awnings over market stalls",
+    "Vegetables in a carried basket",
+    "Shoulder bags and a small hand-held broom",
+    "Trees and wooded hills beyond the palisade",
+    "Crosses on the church and gate-tower roofs",
+    "Bells in the church and gate tower"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Pack or draft animals in the middle of the square",
+    "Sheep in a wooden enclosure on the right",
+    "A wooden cart behind the draft animals",
+    "Cloth awnings over market stalls",
+    "Wicker baskets",
+    "Grain sacks and wooden crates",
+    "Wooden barrels beside the well",
+    "Trees and shrubs near and beyond the palisade",
+    "Distant hills or mountains",
+    "A cross atop the church tower"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Snow-streaked mountains and wooded hills in the background",
+    "Trees, including a tall narrow tree beside the church",
+    "A donkey carrying a load",
+    "Chickens in the square",
+    "Woven baskets and grain sacks",
+    "Wooden barrels and buckets",
+    "Cloth awnings over market stalls",
+    "A cross atop the church tower",
+    "Bells inside the church tower",
+    "Leather belt pouches"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "A donkey carrying wicker panniers.",
+    "Chickens in the square.",
+    "Distant snow-covered mountains and wooded hills.",
+    "Crosses atop the church tower and gate tower.",
+    "Wicker baskets, wooden barrels, and grain sacks.",
+    "Fabric stall awnings.",
+    "A wooden grain scoop."
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Chickens in the square",
+    "A laden donkey with panniers and bundled cargo",
+    "Wicker baskets and grain sacks",
+    "Wooden barrels beside the well",
+    "Cloth awnings over the stalls",
+    "Crosses atop the church and gate tower",
+    "Trees and distant wooded hills"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mountain range in the background",
+    "Trees beyond the palisade",
+    "Clouds in the sky",
+    "Hanging lantern and ornamental metal bracket on the left house",
+    "Crosses on the church facade and tower roof",
+    "Visible church bell",
+    "Fabric awnings over market stalls",
+    "Woven baskets and grain sacks",
+    "Walking sticks carried by townspeople",
+    "Small carried pouches"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": false,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "A chicken in the square",
+    "Loaded donkeys among the townspeople",
+    "Trees and shrubs beside and behind the palisade and church",
+    "Wicker baskets",
+    "Grain sacks",
+    "Fabric market-stall awnings",
+    "A stone well basin in place of the requested wooden well",
+    "Crosses atop the church tower and gate tower",
+    "A bell visible in the church tower",
+    "A suspended bucket and rope at the well"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "timber-houses": false,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Pack donkeys with loads",
+    "Sheep beside the right-hand stalls",
+    "Woven baskets",
+    "Wooden barrels",
+    "Grain sacks",
+    "Fabric stall awnings",
+    "Trees and distant green hills",
+    "Cross atop the church tower",
+    "Stone chimney on a house"
+   ]
+  },
+  "period-italian-town-10c/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "timber-houses": true,
+    "squat-tower": false,
+    "wool-tunics": true,
+    "earth-square": true,
+    "palisade": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Chickens in the square",
+    "A pack animal with a loaded cart",
+    "Wicker baskets",
+    "Grain sacks",
+    "Cloth awnings over market stalls",
+    "Trees and shrubs",
+    "Distant hills or mountains",
+    "Crosses on the church tower and gate tower",
+    "A bell in the wooden gate tower"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/0": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden stool",
+    "Glass-fronted storage cabinet",
+    "Notebook and writing implement",
+    "Metal laboratory support stands, clamps and flask support tripod",
+    "Test tubes in a wooden rack",
+    "Additional clear glass bottles and flasks",
+    "Wooden reagent bottle racks",
+    "Small symbols and lettering within the periodic table chart"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/1": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden storage cabinet behind the researchers.",
+    "Wooden reagent-bottle racks.",
+    "Metal laboratory stands and clamps.",
+    "Conical glass flask, glass beakers, and a glass funnel.",
+    "White ceramic bowl and small dish on the bench.",
+    "Glass stirring rod or pipette held by the foreground researcher.",
+    "Lettering and symbols within the periodic-table chart."
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/2": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "A wooden laboratory stool.",
+    "Metal retort stands, clamps and a tripod stand.",
+    "Additional glassware including conical flasks, test tubes and a distillation condenser.",
+    "Reagent bottle shelving and racks.",
+    "Small lettering and symbols on the periodic table chart."
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/3": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden glass-front storage cabinet containing glassware",
+    "Additional rear workbench and wall shelf",
+    "Test tubes in a wooden rack",
+    "Small porcelain dishes and cup",
+    "Glass beaker and additional flasks",
+    "Metal laboratory support stands, clamps and flask support ring",
+    "Wooden stool",
+    "Lettering and symbols on the periodic table",
+    "Paper labels on reagent bottles"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/4": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mortar and pestles on the bench.",
+    "Open notebook and pen.",
+    "Glass beakers, test tubes, cylinders and a handheld glass pipette.",
+    "Metal laboratory support stands, clamps, tripods and wire gauze.",
+    "Wooden reagent-bottle racks and shelving.",
+    "Labels on reagent bottles and symbol-like markings on the periodic-table chart."
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/5": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden stool at lower left",
+    "Glass-fronted storage cabinet on the left wall",
+    "Laboratory support stands with clamps and a tripod",
+    "Test tubes and test-tube rack",
+    "Additional glass flasks and upright glass tubes",
+    "Wooden reagent-bottle racks",
+    "Gas tap mounted on the bench",
+    "Small lettering and symbols on the periodic table chart"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/6": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden storage cabinet and shelving at the left containing additional bottles",
+    "Test tubes in a wooden test-tube rack",
+    "Metal laboratory support stands, clamps and tripod",
+    "Open notebook and writing implement",
+    "Wooden stool at lower right",
+    "Lettering and symbols on the periodic table chart",
+    "Labels on reagent bottles",
+    "Additional conical flasks on the bench"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/7": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden shelving cabinet with additional clear glass bottles at the left edge.",
+    "Metal laboratory support stands and clamps.",
+    "Tripod stand with wire gauze.",
+    "White ceramic bowl on the bench.",
+    "Additional glass beaker, flasks and upright glass tubes.",
+    "Wooden reagent-bottle racks.",
+    "Lettering and symbols within the periodic-table chart.",
+    "Dark neckties worn by the researchers."
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/8": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden stool beneath the bench",
+    "Wooden reagent shelving and rear storage cabinet/worktop",
+    "Laboratory support stands with clamps and a heating ring",
+    "Additional conical flasks and long vertical glass tubes",
+    "Open notebook and writing pencil used by the right researcher",
+    "Small glass implement held by the left researcher",
+    "Blank paper labels on reagent bottles"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-flare/9": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden storage cabinet with shelves at the left",
+    "Wooden stools under the bench",
+    "Test tubes in a wooden rack",
+    "White ceramic bowls",
+    "Laboratory support stands, clamps and tripod",
+    "Additional clear glass laboratory vessels and tall graduated glass tubes",
+    "Open notebook and writing implement",
+    "Lettering and symbols on the periodic table chart"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Glass-fronted wooden storage cabinet",
+    "Wall shelves",
+    "Wooden stool",
+    "Test tubes and wooden test-tube rack",
+    "Mortar and pestle",
+    "Small porcelain dish",
+    "Glass pipettes",
+    "Conical flasks, beakers and additional glass vessels",
+    "Metal retort stands and clamps",
+    "Tripod and wire gauze",
+    "Bottle labels and lettering on the periodic table",
+    "Sink taps beneath the window"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden stool",
+    "Wooden shelving holding additional bottles",
+    "Test tubes in a wooden rack",
+    "Mortar and pestle",
+    "Small shallow laboratory dish",
+    "Conical glass flasks and a glass pipette",
+    "Metal retort stands, clamps and support ring",
+    "Clear glass storage bottles",
+    "Lettering and numbers on the periodic table chart",
+    "Labels with text on reagent bottles"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mortar and pestle on a square base",
+    "Test tubes in a wooden rack",
+    "Conical flasks, including one held by the left researcher",
+    "Clear glass bottles",
+    "Small glass beakers",
+    "Metal laboratory support stands and clamps",
+    "Wooden reagent shelving behind the researchers",
+    "Lettering and symbols on the periodic-table chart",
+    "Labels on reagent bottles"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden stool",
+    "Open book on the bench",
+    "Test tubes in a wooden rack",
+    "Glass pipette held by the foreground researcher",
+    "Conical flask containing blue liquid",
+    "Clear glass reagent bottles",
+    "Metal laboratory support stands and clamps",
+    "Lettering and symbols on the periodic table chart",
+    "Additional wooden bench or cabinet along the back wall"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Microscope",
+    "Mortar and pestle",
+    "Wooden stools",
+    "Wooden shelving",
+    "Test tubes and wooden test-tube racks",
+    "Glass beaker and funnel",
+    "Conical flasks and clear glass bottles",
+    "Metal laboratory support stands and heating tripod",
+    "Notebook or papers beside the microscope",
+    "Lettering and symbols on the periodic-table chart",
+    "Labels on reagent bottles"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "A mortar and pestle",
+    "A closed book on the bench",
+    "A wooden stool",
+    "Test tubes in a wooden rack",
+    "Additional glass flasks held by the researchers and standing on the bench",
+    "Metal support stands, clamps, and a heating tripod",
+    "Wooden shelving behind the researchers",
+    "Clear reagent bottles on the shelving",
+    "Printed labels on reagent bottles",
+    "Lettering and numerals within the periodic-table chart"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Microscope",
+    "Wooden wall shelving",
+    "Retort stands and clamps",
+    "Glass condenser apparatus",
+    "Glass funnel",
+    "Test tubes in a wooden rack",
+    "White mortar and pestle",
+    "Clear glass stoppered bottles",
+    "Lettering and numbers on the periodic table chart",
+    "Labels on reagent bottles"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mortar and pestle",
+    "Closed book on the bench",
+    "Wooden stool",
+    "Radiator beneath the window",
+    "Reagent shelving behind the researchers",
+    "Test tubes and wooden test-tube racks",
+    "Laboratory support stands and clamps",
+    "Glass funnel",
+    "Pipettes and additional glass flasks",
+    "Lettering and symbols on the periodic chart",
+    "Labels on reagent bottles"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Mortar and pestle",
+    "Test tubes and wooden test-tube racks",
+    "Wooden block with circular wells",
+    "Wooden stool",
+    "Laboratory support stand with clamps and a tripod",
+    "Additional glass flasks, beakers, funnel and stirring rod",
+    "Wall shelving and additional rear work counters",
+    "Lettering and symbols on the periodic table chart",
+    "Labels on reagent bottles"
+   ]
+  },
+  "period-lab-1930s/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "white-coats": true,
+    "bunsen-glass": true,
+    "brass-balance": true,
+    "no-modern-kit": true,
+    "plain-window": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden shelving and rear storage cabinets",
+    "Test tubes in a wooden rack",
+    "Mortar and pestle",
+    "Clear glass bottles and small flasks",
+    "Glass condenser and receiving conical flask",
+    "Metal laboratory support stands, clamps and tripod",
+    "Wooden stool",
+    "Radiator below the window",
+    "Window roller blind",
+    "Bottle labels and markings on the periodic-table chart",
+    "Closed book or flat folder on the bench"
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/0": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches with bench vises",
+    "Wall-mounted racks of hand tools",
+    "Loose metal tools and parts on the foreground benches",
+    "Open wooden crate at lower right",
+    "Exterior industrial buildings and a tall chimney visible through the windows"
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/1": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Additional wooden workbenches with bench vises.",
+    "Racks of metal tools and drill bits.",
+    "Loose hand tools and metal parts on the benches.",
+    "Metal cylinders stored on shelving and in a wooden crate.",
+    "Town buildings visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/2": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches, including a foreground bench with a metal vise.",
+    "Loose hand tools and metal parts on benches and hanging on the wall.",
+    "Wooden crates and open bins containing metal stock and parts.",
+    "Town buildings visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/3": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches with bench vises.",
+    "Hand tools, including files, hammers and wrenches, on benches and wall-mounted racks.",
+    "Metal parts and machining shavings on work surfaces.",
+    "Open bins and trays containing metal parts beneath benches and beside the lathe.",
+    "Factory buildings, rooftops and chimneys visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/4": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbench with drawers and a bench vise in the foreground.",
+    "Hand tools on the bench and on a wall-mounted tool rack.",
+    "Wooden crates containing metal parts and shavings.",
+    "Wooden barrel containing metal shavings.",
+    "Industrial buildings and chimneys visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/5": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches.",
+    "Loose machined metal cylinders, shafts and other parts on the foreground bench.",
+    "Wooden storage crates containing metal parts and metal shavings.",
+    "Cloth draped over the foreground workbench.",
+    "Wall-mounted rack of hand tools.",
+    "Industrial buildings, rooftops and smoking chimneys visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/6": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Foreground wooden workbenches with drawers and a bench vise.",
+    "Loose hand tools, including hammers and files, on the foreground benches.",
+    "Wooden crates containing metal rods and parts.",
+    "Wall-mounted racks holding drill bits and other tools.",
+    "A small bucket beneath the drilling machine.",
+    "Industrial chimneys and buildings visible outside the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/7": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches with a bench vise.",
+    "Hand tools, including files and wrenches, on benches and hanging on the wall.",
+    "Open trays and a wooden drawer containing metal parts.",
+    "Shelving holding small metal parts and containers.",
+    "Town buildings and chimney stacks visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/8": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches in the foreground.",
+    "Wooden crate holding metal bars.",
+    "Loose metal parts and tools on the foreground workbenches.",
+    "Wall-mounted rack of tools.",
+    "Storage shelf with small containers.",
+    "Tray of metal shavings beneath the lathe.",
+    "Factory buildings and chimneys visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-flare/9": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches in the foreground and behind the machines.",
+    "Bench vise on the foreground workbench.",
+    "Loose hand tools, metal parts and trays or boxes on and beneath the workbenches.",
+    "Wall-mounted racks of tools behind the machinery.",
+    "Metal shavings scattered around the machines.",
+    "Industrial buildings and chimneys visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches with bench vises.",
+    "Wall-mounted rack holding drill bits and tools.",
+    "Loose tools and metal components on and under the benches.",
+    "Metal shavings scattered around the machines and floor.",
+    "Open metal bin filled with metal shavings."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden crates filled with metal parts and tools in the foreground.",
+    "Additional workbenches with a bench vise, metal cylinders, and loose components.",
+    "Wall-mounted racks of hand tools.",
+    "Metal floor grates beneath the workers.",
+    "Safety railing around the steam engine platform.",
+    "Industrial buildings and chimneys visible through the windows.",
+    "Metal shavings scattered around the machinery."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbench with bench vises and assorted hand tools and metal components.",
+    "Wooden crates holding metal rods, gears and metal shavings.",
+    "Metal shavings scattered across the floor and machines.",
+    "Iron safety railing around the steam engine.",
+    "Industrial rooftops and smokestacks visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": false,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Iron safety railing around the steam engine.",
+    "Wooden workbenches in the foreground.",
+    "Loose machined metal shafts, cylinders and other components on the workbenches.",
+    "Metal shavings scattered around the machines."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Foreground wooden workbench with multiple bench vises and loose hand tools.",
+    "Tool racks holding tools and metal rods along the back wall.",
+    "Metal bucket containing metal shavings beside the drilling machine.",
+    "Metal shavings scattered across the machines and floor.",
+    "Brick buildings visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches with storage drawers.",
+    "Loose hand tools and metal tubes and components on the workbenches.",
+    "Metal shavings on the machines and floor.",
+    "Iron safety railing around the steam engine."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches with bench vises and hand tools.",
+    "Open wooden crates holding metal rods and cylindrical stock.",
+    "A metal bin filled with metal shavings, and shavings scattered on the floor and machinery.",
+    "A raised engine platform with an iron safety railing.",
+    "Distant industrial buildings and chimney stacks visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Foreground wooden workbench with loose metal shafts, machine parts and hand tools",
+    "Wall-mounted rack of tools",
+    "Bins and wooden crates containing metal shavings",
+    "Metal shavings scattered on the floor",
+    "Iron safety railing around the raised engine platform",
+    "Industrial buildings and chimneys visible outside the windows"
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Wooden workbenches with bench vises.",
+    "Loose metal tools and machined components on benches.",
+    "Wooden crates containing metal parts and metal shavings.",
+    "Industrial buildings visible through the windows."
+   ]
+  },
+  "period-steam-workshop-1850s/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "overhead-shaft": true,
+    "flywheel-engine": true,
+    "flat-caps": true,
+    "brick-iron": true,
+    "gas-lamps": true,
+    "landmark-substituted": false
+   },
+   "inventions": [
+    "Foreground wooden workbench with a mounted vise",
+    "Hammer, spanner, loose gears and stacked metal rings on the workbench",
+    "Wooden storage crates",
+    "Wall-mounted rack of hand tools",
+    "Metal bucket beside the engine",
+    "Safety railing around the engine",
+    "Buildings and chimneys visible through the windows"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/0": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Chimney on the mill roof",
+    "Three glazed mill windows",
+    "Wooden fences in the background",
+    "Trees and shrubs",
+    "Grasses and reeds along the riverbanks",
+    "Rocks along the riverbanks and in the river",
+    "Distant hills and fields",
+    "Clouds",
+    "Stone boundary wall behind the cart"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/1": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Trees and bushes around the yard and riverbank",
+    "Grass and riverside reeds",
+    "Rocks and stones in the river",
+    "A chimney on the mill roof",
+    "Two glazed mill windows",
+    "A wooden elevated water chute feeding the wheel",
+    "A background wooden fence and gate with a stone wall",
+    "A dirt path leading behind the mill",
+    "Clouds in the sky"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/2": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "A chimney on the mill roof",
+    "Three glazed mill windows",
+    "Background trees",
+    "Clouds",
+    "Grass, reeds and small white flowers along the banks",
+    "Rocks and stones in the river and on its bank",
+    "A wooden sluice gate above the wheel"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/3": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "A fourth flour sack",
+    "A chimney with a terracotta chimney pot",
+    "Two mill windows",
+    "Trees and shrubs",
+    "Grasses, reeds and small flowers along the banks",
+    "Distant hills",
+    "Clouds",
+    "Wooden fences and gates",
+    "Stone boundary walls",
+    "Stones visible on the riverbed"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/4": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Trees and bushes surrounding the yard and in the background",
+    "Grasses and riverbank plants",
+    "Distant green fields and hills",
+    "Clouds",
+    "A chimney on the mill roof",
+    "Two mill windows",
+    "A rain gutter and downpipe",
+    "A wooden gate and fence behind the donkey",
+    "A stone boundary wall behind the cart",
+    "Stones visible in the river"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/5": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "A fourth flour sack",
+    "A chimney with a terracotta chimney pot",
+    "Two mill windows",
+    "Wooden fencing behind the mill",
+    "A wooden water-feed channel above the wheel",
+    "Trees and bushes",
+    "Distant hills and fields",
+    "Riverbank rocks and grasses",
+    "Clouds"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/6": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Trees and shrubs around the yard",
+    "Grass, reeds and small flowers along the riverbanks",
+    "Rocks and pebbles along the banks and riverbed",
+    "Wooden fence behind the cart",
+    "Stone boundary wall in the background",
+    "Chimney with a terracotta chimney pot",
+    "Three glazed mill windows",
+    "Clouds in the sky"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/7": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Trees and bushes around the yard and river banks",
+    "Wooden gate in a stone boundary wall behind the mill",
+    "Reeds along the river bank",
+    "Rocks and pebbles in the river and along its banks",
+    "Clouds in the sky"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/8": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "A fourth flour sack",
+    "A chimney on the mill roof",
+    "Two mill windows",
+    "Trees and shrubs",
+    "Distant green hills and fields",
+    "Grass and riverside reeds",
+    "Rocks in and beside the river",
+    "Clouds",
+    "A low stone boundary wall behind the cart"
+   ]
+  },
+  "retention-08/gpt-image-2.5-flare/9": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Trees and bushes",
+    "Grass and reeds along the riverbank",
+    "Rocks and pebbles in and beside the river",
+    "Clouds",
+    "Wooden yard fence behind the cart",
+    "Stone boundary wall behind the mill",
+    "Stone chimney",
+    "Two mill windows"
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Trees and bushes around the yard and in the background",
+    "Distant green hills",
+    "Riverbank reeds, grasses and wildflowers",
+    "Rocks in the river and along its banks",
+    "Clouds",
+    "Wooden elevated water flume feeding the wheel"
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "A fourth flour sack",
+    "A stone chimney with a terracotta chimney pot",
+    "Two glazed mill windows",
+    "A wooden sluice channel feeding water onto the wheel",
+    "Trees and shrubs",
+    "Distant grassy fields and hills",
+    "River and riverbank rocks",
+    "Riverbank grasses and white flowers",
+    "Clouds"
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Additional sacks loaded in the cart",
+    "Stone boundary wall behind the donkey and cart",
+    "Trees, shrubs and distant rolling fields",
+    "River boulders and stones",
+    "Yellow flowers and riverside reeds",
+    "Mill chimney and windows",
+    "Wooden railing above the wheel's water channel"
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Trees and distant wooded hills",
+    "Wooden fence behind the water wheel",
+    "Chimney on the mill roof",
+    "Two glazed mill windows",
+    "Riverbank reeds, grasses, and flowering plants",
+    "Large riverbank rocks and submerged stones",
+    "Clouds"
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Trees and shrubs",
+    "Grasses and white flowers along the riverbank",
+    "Distant hills and fields",
+    "Wooden fences in the background",
+    "Clouds",
+    "Rocks in the river and along its banks",
+    "Stone yard boundary wall",
+    "Two mill windows"
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Stone chimney on the mill roof",
+    "Two glazed mill windows",
+    "Trees and distant grassy hills",
+    "Wooden fences in the background",
+    "Stone boundary walls in the background",
+    "Riverbank rocks and pebbles",
+    "Riverbank reeds, grasses, shrubs and flowers",
+    "Clouds"
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "An extra flour sack (four rather than three).",
+    "A distant church with a tall spire.",
+    "Trees and bushes.",
+    "Reeds, grasses and yellow flowers along the riverbank.",
+    "Rocks and boulders in and beside the river.",
+    "Background green fields.",
+    "A stone boundary wall and wooden gate behind the donkey.",
+    "Clouds."
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": false,
+    "e06": true,
+    "e07": true,
+    "e08": false
+   },
+   "inventions": [
+    "Trees and shrubs",
+    "Distant grassy hills and fields",
+    "Clouds",
+    "Riverbank grasses and purple flowers",
+    "River rocks and boulders",
+    "Stone retaining wall along the yard",
+    "Wooden sluice above the water wheel",
+    "Mill windows",
+    "Stone chimney"
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "A stone chimney on the mill roof",
+    "Three glazed mill windows",
+    "A raised wooden water flume feeding the wheel",
+    "Wooden fences behind the mill",
+    "Trees and bushes",
+    "Distant rolling hills and fields",
+    "Clouds",
+    "Riverbank reeds, grasses and yellow flowers",
+    "Exposed rocks in the river and along the banks"
+   ]
+  },
+  "retention-08/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true
+   },
+   "inventions": [
+    "Trees and shrubs",
+    "Grassy hills and fields",
+    "Stone boundary walls in the background",
+    "River rocks and boulders",
+    "Flowers and riverbank vegetation",
+    "Clouds",
+    "Upper mill window",
+    "Wooden water chute above the wheel",
+    "Pale loose cargo in the cart"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/0": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Stone chimney on the mill roof",
+    "Wooden fences in the background",
+    "Trees in the background",
+    "Wooden sluice feeding the water wheel",
+    "Rocks along the riverbank",
+    "Grass, reeds, and small flowers along the riverbank"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/1": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Three additional flour sacks",
+    "A chimney on the mill roof",
+    "Background trees and shrubs",
+    "Distant hills",
+    "A low stone wall in the background",
+    "Riverbank rocks and reeds",
+    "Clouds"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/2": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Two additional flour sacks to the left of the door",
+    "An additional black cat on the window sill",
+    "A brick chimney with a chimney pot",
+    "Trees and bushes",
+    "Distant hills and fields",
+    "Clouds",
+    "Wildflowers and grasses",
+    "Rocks in the river"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/3": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Two additional flour sacks",
+    "Brick chimney on the mill roof",
+    "Trees and distant green hills",
+    "Background wooden fence and stone boundary wall",
+    "Clouds",
+    "Grass, riverside reeds, and shrubs",
+    "Loose rocks along the river bank and visible riverbed stones",
+    "Baskets and wooden cargo in the donkey cart"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/4": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Stone chimney with a terracotta chimney pot",
+    "Trees and bushes",
+    "Distant fields and hedgerows",
+    "Dry-stone boundary walls",
+    "Grass, reeds and small wildflowers",
+    "Rocks in the river",
+    "Clouds"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/5": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "A chimney on the mill roof",
+    "Trees and wooded hills in the background",
+    "Clouds",
+    "Grass, shrubs, and wildflowers along the river bank and yard",
+    "Rocks in the river and along its banks"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/6": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "A chimney on the mill roof",
+    "Trees and distant hedgerows",
+    "Rocks along the river bank and in the water",
+    "Pink flowering plants and riverbank reeds",
+    "Clouds in the sky"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/7": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Stone chimney on the mill roof",
+    "Trees and shrubs",
+    "Distant green hills and fields",
+    "Riverbank rocks",
+    "Reeds and small flowering plants",
+    "Clouds"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/8": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Two additional flour sacks",
+    "A stone chimney with a terracotta chimney pot",
+    "Background trees and hedgerows",
+    "Grassy fields and banks with shrubs and small flowers",
+    "Riverbank reeds and cattails",
+    "Scattered riverbank rocks",
+    "Clouds"
+   ]
+  },
+  "retention-15/gpt-image-2.5-flare/9": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "An additional stack of four sacks to the left of the door",
+    "A stone chimney with a terracotta chimney pot",
+    "Trees and bushes surrounding the mill",
+    "Distant hills and fields",
+    "Clouds",
+    "Rocks in the river and along its banks",
+    "Grass and small flowering plants along the banks and yard"
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "An extra flour sack beside the door.",
+    "A stone chimney with a terracotta chimney pot.",
+    "Trees and distant green hills.",
+    "Rocks in the river and along its banks.",
+    "Grass, shrubs, and white wildflowers.",
+    "A shovel in the cart."
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "An additional grey heron in the river.",
+    "A fourth flour sack beside the door.",
+    "Trees and distant grassy fields.",
+    "Bushes, grasses, and white wildflowers.",
+    "A low stone wall in the foreground.",
+    "Clouds in the sky."
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Two additional flour sacks",
+    "A flowerpot with red flowers on the window sill",
+    "A stone chimney",
+    "Trees and shrubs",
+    "Wildflowers and grasses",
+    "Distant green hills and fields",
+    "Rocks along and in the river",
+    "Clouds"
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Trees and distant wooded hills and fields",
+    "A foreground wooden fence",
+    "A foreground low stone boundary wall",
+    "Flowering plants, grasses and shrubs around the yard and river",
+    "A stone chimney with two chimney pots",
+    "Clouds"
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Wooden fence in the foreground",
+    "Trees and bushes",
+    "Grasses and white wildflowers",
+    "Distant fields and wooded hills",
+    "Clouds",
+    "Scattered riverbank rocks"
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "An extra flour sack (four total)",
+    "A distant church with a tower",
+    "A chimney on the mill",
+    "Wooden yard fencing",
+    "Stone boundary walls",
+    "Trees and shrubs",
+    "Grassy hills and fields",
+    "Flowers and ferns",
+    "Clouds"
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Additional flour sacks beyond the requested three",
+    "Stone chimney on the mill roof",
+    "Foreground stone boundary wall and wooden gate",
+    "Trees and bushes",
+    "Distant hills and fields",
+    "Grass and flowering plants",
+    "Clouds",
+    "Rocks along the riverbank"
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "Trees and shrubs around the yard and river",
+    "White wildflowers and grasses",
+    "Low stone boundary walls around the yard",
+    "Distant hills",
+    "Clouds",
+    "Stone chimney on the mill roof"
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "An additional flour sack (four sacks total).",
+    "A chimney on the mill roof.",
+    "Trees and shrubs around the yard and in the background.",
+    "Distant grassy fields and hills.",
+    "Rocks and boulders in and along the river.",
+    "Wildflowers, reeds, and other riverbank vegetation.",
+    "A low stone wall along the yard's riverbank.",
+    "Stone paving around the well and doorway."
+   ]
+  },
+  "retention-15/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": false,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true
+   },
+   "inventions": [
+    "A distant church with a tall steeple and adjacent buildings",
+    "Trees and distant wooded hills",
+    "Riverbank reeds, flowering plants, shrubs, and grass",
+    "Rocks in the river and along its banks",
+    "A low stone retaining wall along the yard",
+    "A stone chimney on the mill"
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/0": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "Additional leafy trees and distant green hills in the background",
+    "A long-handled garden tool leaning beside the ladder"
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/1": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "Two additional flour sacks",
+    "A second wicker basket carried by the woman",
+    "A wooden fence around the vegetable patch",
+    "Background trees and rolling hills",
+    "Clouds in the sky"
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/2": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": false,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "Three additional flour sacks",
+    "Wooden fencing around the vegetable patch",
+    "Additional trees and wooded hills in the background",
+    "Clouds",
+    "Reeds and flowering plants along the riverbank",
+    "Two terracotta chimney pots",
+    "A stone seat beneath the fishing boy"
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/3": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "Three additional flour sacks beside the door.",
+    "Additional leafy trees and wooded hills in the background.",
+    "Clouds in the sky.",
+    "Rocks in and along the river.",
+    "Reeds and bushes along the river bank."
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/4": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "A low wooden fence surrounding the vegetable patch.",
+    "Additional distant trees and hedgerows across fields.",
+    "Clouds in the sky.",
+    "A red-and-white fishing float in the river."
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/5": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": false,
+    "e16": false,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "An extra white goose beside the well.",
+    "Wooden fences around the vegetable patches and behind the scarecrow.",
+    "Additional non-fruiting trees and shrubs in the background and along the riverbank.",
+    "Distant rolling hills and fields.",
+    "Clouds in the sky.",
+    "Reeds, flowers, and exposed rocks along the river."
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/6": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": false,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "Wooden elevated water chute feeding the wheel",
+    "Distant trees and rolling fields",
+    "Background wooden fence",
+    "Clouds in the sky",
+    "Rocks along and within the river",
+    "Wild shrubs and small flowers along the riverbanks and yard edges"
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/7": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "Clouds in the sky",
+    "Additional background trees, hedges and fields",
+    "Wildflowers, shrubs and clumps of reeds along the river and yard edges",
+    "Loose rocks in the river and along its banks"
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/8": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "Additional trees and bushes in the background",
+    "Rolling green fields in the background",
+    "Clouds in the sky",
+    "Wildflowers along the riverbank and yard edges",
+    "Exposed rocks along the banks and in the river",
+    "Wooden fence around the vegetable patch",
+    "Wooden sluice structure above the water wheel"
+   ]
+  },
+  "retention-25/gpt-image-2.5-flare/9": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": false,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "An additional slender wooden ladder leaning against the wall left of the door.",
+    "A wooden fence and gate behind the vegetable patch.",
+    "Additional non-apple trees and distant wooded hills.",
+    "Clouds.",
+    "Rocks in the river and along the bank.",
+    "Wildflowers, shrubs, and reeds along the yard and riverbank."
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/0": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "An extra flour sack",
+    "An extra wooden ladder",
+    "Wooden fences around the vegetable patch and in the background",
+    "Additional non-apple trees and distant wooded hills",
+    "Clouds",
+    "Scattered riverbank rocks and boulders",
+    "Wildflowers along the riverbank"
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/1": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": false,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": false,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "A second hanging lantern beside the lantern above the door.",
+    "Two additional flour sacks.",
+    "A long wooden pole leaning against the mill beside the barrel.",
+    "Additional non-apple trees and distant wooded hills.",
+    "Rocks and boulders in and along the river.",
+    "Wildflowers, grass and ferns along the riverbank."
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/2": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "A second black cat on the ground-floor window sill.",
+    "Additional non-apple trees in the background.",
+    "Distant green hills.",
+    "Clouds in the sky.",
+    "A wooden fence bordering the vegetable patch.",
+    "Flowering plants along the yard wall and riverbank.",
+    "A small flowering shrub beside the woman.",
+    "An elevated wooden sluice supplying the water wheel."
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/3": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "A third white goose beside the well.",
+    "Additional non-apple trees and distant wooded hills and fields.",
+    "Wildflowers, shrubs, grasses, and reeds along the river banks.",
+    "Large rocks in the river.",
+    "A wooden fence around the vegetable patch.",
+    "Curtains in the mill windows."
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/4": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "A distant church with a tall steeple.",
+    "Additional non-apple trees and distant wooded hills and fields.",
+    "Wooden fencing around the vegetable patch.",
+    "Hay or straw carried in the cart.",
+    "Rocks and boulders in the river and along its banks.",
+    "Wildflowers, reeds, and other riverbank vegetation.",
+    "Ivy trailing over the yard wall.",
+    "Clouds in the sky."
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/5": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": false,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "Three additional flour sacks beside the door.",
+    "Wooden fences around the yard and vegetable patch and across the background.",
+    "Additional leafy trees in the background.",
+    "Distant rolling fields and hills.",
+    "Scattered riverbank rocks and boulders.",
+    "Wildflowers and shrubs along the riverbank.",
+    "Clouds in the sky."
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/6": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "A pot of flowers on the ground-floor window sill",
+    "Wooden fences in the background",
+    "Additional trees and distant wooded hills",
+    "Wildflowers, shrubs, and reeds along the riverbank",
+    "Large rocks in the river and a rock used as the boy's seat",
+    "An upstream sluice or water-control structure",
+    "Clouds in the sky",
+    "A red-and-white fishing float"
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/7": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "An additional stack of flour sacks to the right of the door",
+    "A second grey heron standing in the yard",
+    "A second wooden ladder",
+    "An additional blue upper-window shutter",
+    "A pot of red flowers on the ground-floor window sill",
+    "Non-apple trees and wooded hills in the background",
+    "Rocks along the river and in the water",
+    "Wildflowers, grasses and shrubs along the riverbank and yard wall"
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/8": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": false,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": true,
+    "e15": true,
+    "e16": false,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": false,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "An extra flour sack (four rather than three).",
+    "Additional non-apple trees and distant wooded hills.",
+    "A wooden picket fence behind the vegetable patch.",
+    "Rocks and boulders along the river bank and in the river.",
+    "Reeds, wildflowers, and bankside shrubs.",
+    "A red fishing float."
+   ]
+  },
+  "retention-25/gpt-image-2.5-sunburst/9": {
+   "answers": {
+    "e01": true,
+    "e02": true,
+    "e03": true,
+    "e04": true,
+    "e05": true,
+    "e06": true,
+    "e07": true,
+    "e08": true,
+    "e09": true,
+    "e10": true,
+    "e11": true,
+    "e12": true,
+    "e13": true,
+    "e14": false,
+    "e15": true,
+    "e16": true,
+    "e17": true,
+    "e18": true,
+    "e19": true,
+    "e20": true,
+    "e21": true,
+    "e22": true,
+    "e23": true,
+    "e24": true,
+    "e25": true
+   },
+   "inventions": [
+    "Background trees and wooded hills",
+    "Clouds",
+    "Yellow flowers and riverside reeds",
+    "Loose rocks in and beside the river",
+    "A pale loose load in the cart",
+    "A woven container hanging over the well"
+   ]
+  }
+ }
+}
