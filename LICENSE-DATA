@@ -1,0 +1,18 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+(c) 2026 Pavel Klinger
+
+This licence covers:
+  - everything in the `data/` directory (prompts, checklists, readings, human rulings, manifest),
+  - the generated images: the thumbnails in `thumbnails/` and the full-resolution images
+    published as release assets (`dataset-v2`).
+
+The reference readings and the judge readings in `data/` are model outputs; they are included
+as part of the dataset and are covered by the same licence.
+
+The code (`benchmark/`, `tests/`, `scripts/`) is under the MIT licence, see `LICENSE`.
+
+Full licence text (the canonical, legally binding version):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/

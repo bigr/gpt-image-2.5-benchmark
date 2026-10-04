@@ -177,12 +177,23 @@ def render_tables(r: dict[str, Any]) -> str:
     s = r["settled_rows"]
     L += [
         "",
-        f"## Agreement on the {s['rows']} settled rows",
+        f"## Agreement on the {s['rows']} settled rows (the definition used in the article)",
         "",
         "| Reader | Agree | Counted | % |",
         "|---|---|---|---|",
     ]
     for n, a in s["agreement"].items():
+        L.append(f"| {n} | {a['agree']} | {a['counted']} | {_f(a['pct'])} |")
+    st = s["strict"]
+    L += [
+        "",
+        f"## Stricter variant: {st['agreement']['reference']['counted']} questions "
+        "(excluded items and unknown rows dropped)",
+        "",
+        "| Reader | Agree | Counted | % |",
+        "|---|---|---|---|",
+    ]
+    for n, a in st["agreement"].items():
         L.append(f"| {n} | {a['agree']} | {a['counted']} | {_f(a['pct'])} |")
     return "\n".join(L) + "\n"
 

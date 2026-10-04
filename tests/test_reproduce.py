@@ -90,6 +90,13 @@ class Reproduce(unittest.TestCase):
         ag = s["agreement"]
         self.assertEqual(ag["reference"]["pct"], 87.2)
         self.assertEqual(ag["gpt-6.1-sol"]["pct"], 84.6)
+        # the headline above matches the article; the stricter variant drops the two excluded
+        # items and the unknown rows (249 questions counted)
+        strict = s["strict"]["agreement"]
+        self.assertEqual(strict["reference"]["counted"], 249)
+        self.assertEqual(strict["reference"]["pct"], 87.1)
+        self.assertEqual(strict["gpt-6.1-sol"]["counted"], 249)
+        self.assertEqual(strict["gpt-6.1-sol"]["pct"], 85.1)
 
     def test_cli_writes_outputs_and_refuses_data_dir(self):
         with tempfile.TemporaryDirectory() as tmp, contextlib.redirect_stdout(io.StringIO()):

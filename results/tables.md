@@ -33,7 +33,7 @@ Images: 300; with an addition in the corrected reference: 279; checklist answers
 | gpt-6.1-sol (medium effort) | 99.0% | 99.3% | 99.6% |
 | always yes | 93.0% | 93.0% | 100.0% |
 
-## Agreement on the 273 settled rows
+## Agreement on the 273 settled rows (the definition used in the article)
 
 | Reader | Agree | Counted | % |
 |---|---|---|---|
@@ -42,3 +42,13 @@ Images: 300; with an addition in the corrected reference: 279; checklist answers
 | gpt-6-sol | 159 | 273 | 58.2% |
 | gpt-6-luna | 82 | 273 | 30.0% |
 | gpt-6.1-sol (medium effort) | 231 | 273 | 84.6% |
+
+## Stricter variant: 249 questions (excluded items and unknown rows dropped)
+
+| Reader | Agree | Counted | % |
+|---|---|---|---|
+| reference | 217 | 249 | 87.1% |
+| gpt-6.1-sol | 212 | 249 | 85.1% |
+| gpt-6-sol | 153 | 249 | 61.4% |
+| gpt-6-luna | 72 | 249 | 28.9% |
+| gpt-6.1-sol (medium effort) | 215 | 249 | 86.3% |
