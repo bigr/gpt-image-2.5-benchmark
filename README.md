@@ -12,6 +12,17 @@ were settled by a person.
 Earlier rounds are part of this data (they are applied first), but earlier published numbers are not
 reproduced here; later rounds re-checked the reference, and that is part of the finding.
 
+## Part 2: counting and out-of-place details
+
+The follow-up compares gpt-6-luna and Claude Haiku 5.5 with gpt-6.1-sol as the bar.
+See [part2/](part2/README.md) for 240 new images, anonymized counting inputs,
+all effort configurations and offline scoring.
+
+```sh
+python3 part2/analyze.py
+python3 -m unittest discover -s part2/tests
+```
+
 ## What was tested
 
 - 15 prompts x 2 variants of `gpt-image-2.5` (`sunburst`, `flare`) x 10 images = **300 images**

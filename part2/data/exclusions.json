@@ -1,0 +1,127 @@
+{
+  "count_ladders": [
+    "retention-25/gpt-image-2.5-flare/6",
+    "retention-25/gpt-image-2.5-flare/9",
+    "retention-25/gpt-image-2.5-sunburst/0",
+    "retention-25/gpt-image-2.5-sunburst/7"
+  ],
+  "misfit_items": [
+    [
+      "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/2",
+      "chain (metal-looking links) hanging in a sag between the wooden bollards along the quay wall"
+    ],
+    [
+      "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/2",
+      "chain draped between the mooring post and the quay edge"
+    ],
+    [
+      "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/0",
+      "metal chain linking the boats to the mooring posts"
+    ],
+    [
+      "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/0",
+      "metal chain linking the mooring posts"
+    ],
+    [
+      "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/0",
+      "knitting work in the woman's hands"
+    ],
+    [
+      "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/1",
+      "cable-knit textile"
+    ],
+    [
+      "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/1",
+      "cable-knit textile"
+    ],
+    [
+      "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/1",
+      "knitting with two needles"
+    ],
+    [
+      "misfit-scriptorium-medieval-clean/gpt-image-2.5-sunburst/2",
+      "bookshelf with modern-looking hardcover books"
+    ],
+    [
+      "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/0",
+      "shelved books with uniform colored spines"
+    ],
+    [
+      "misfit-village-1350-clean/gpt-image-2.5-flare/1",
+      "brick chimney on the right-hand cottage"
+    ],
+    [
+      "misfit-village-1350-clean/gpt-image-2.5-flare/1",
+      "chimney stack on the right cottage"
+    ],
+    [
+      "misfit-village-1350-clean/gpt-image-2.5-flare/2",
+      "brick or stone chimney with smoke rising from a thatched cottage roof"
+    ],
+    [
+      "misfit-village-1350-clean/gpt-image-2.5-flare/2",
+      "stone chimney with rising smoke on the thatched cottage at upper right"
+    ],
+    [
+      "misfit-village-1350-clean/gpt-image-2.5-flare/2",
+      "tall brick chimney stack with smoke on the right-hand thatched cottage"
+    ],
+    [
+      "misfit-village-1350-clean/gpt-image-2.5-flare/2",
+      "tall brick chimney stack with smoke on the right-hand thatched cottage"
+    ],
+    [
+      "misfit-village-1350-clean/gpt-image-2.5-sunburst/0",
+      "brick chimney on the thatched cottage"
+    ],
+    [
+      "misfit-village-1350-clean/gpt-image-2.5-sunburst/1",
+      "tall pink flowering plant (possibly hollyhock) growing beside the left house"
+    ],
+    [
+      "misfit-village-1350-seeded/gpt-image-2.5-sunburst/0",
+      "chimney on the thatched roof of the foreground house"
+    ],
+    [
+      "misfit-village-1350-seeded/gpt-image-2.5-sunburst/0",
+      "chimney on the thatched roof of the left house"
+    ],
+    [
+      "misfit-village-1350-seeded/gpt-image-2.5-sunburst/0",
+      "chimney on the thatched roof of the left house"
+    ],
+    [
+      "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2",
+      "brick chimneys"
+    ],
+    [
+      "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2",
+      "brick chimneys on the thatched cottages"
+    ],
+    [
+      "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2",
+      "red brick chimney stacks"
+    ],
+    [
+      "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2",
+      "red brick chimneys"
+    ],
+    [
+      "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2",
+      "brick chimneys"
+    ]
+  ],
+  "misfit_rounds": [
+    "founder-round1",
+    "founder-round2-corrections",
+    "claude-round3-belonging",
+    "founder-round4-solmed",
+    "claude-round5-solmed-belonging",
+    "claude-round6-haiku-planted",
+    "founder-round7-haiku",
+    "claude-round8-haiku-belonging",
+    "claude-round9-haiku-efforts",
+    "founder-round10-haiku-efforts-presence",
+    "claude-round11-haiku-efforts-belonging"
+  ]
+}

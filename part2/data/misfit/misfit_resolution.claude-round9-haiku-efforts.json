@@ -1,0 +1,356 @@
+{
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "Steel electricity transmission tower with power lines": true,
+      "Steel electricity transmission pylon with power lines": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "Steel electricity transmission tower with power lines": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "Steel lattice electricity pylon with power lines": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "Steel electricity pylon with power lines": true,
+      "Second, smaller distant electricity pylon": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "High-voltage electricity transmission tower with power lines": true,
+      "High-voltage electricity pylon with power lines": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "High-voltage electricity pylon with power lines": true,
+      "Steel electricity pylon with power lines": true
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-flare/2": {
+    "items": {
+      "Pine cone": false
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "Clear plastic water bottle with blue cap": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "Clear plastic water bottle with blue screw cap": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "clear plastic water bottle with blue screw cap": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "Stacked grain sacks with a coarse burlap-like weave": false,
+      "Triangular lateen-style sail on the distant boat": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/2": {
+    "items": {
+      "stacked sacks with tied tops, looking like burlap or jute": false
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "Corrugated metal roof on the storehouse": true,
+      "Corrugated metal roof sheets on the storehouse": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "Corrugated metal roof on the storehouse": true,
+      "Corrugated metal sheet roof": true,
+      "Corrugated metal roof sheeting on the warehouse": true,
+      "Stacked burlap-style sacks of coarse woven fiber": false
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "Corrugated metal roof sheeting": true,
+      "Corrugated metal roof on the mudbrick storehouse": true,
+      "Stone temple with pylon architecture on the far bank": false
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "Corrugated blue-gray metal roof on the storehouse": true,
+      "Corrugated blue metal roof": true,
+      "Burlap-style sacks with tied tops": false,
+      "Blue corrugated metal roof": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "Corrugated gray metal roof on the warehouse": true,
+      "Corrugated metal roof": true,
+      "Corrugated grey metal-looking roof on the warehouse": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Corrugated metal sheet roof on the warehouse": true,
+      "Corrugated sheet-metal roof": true
+    }
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Yellow plastic ear tag on the cow's ear": true,
+      "Yellow ear tag on the cow": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "Border collie-style dog lying down": false,
+      "Bright blue bucket with a wire handle": true
+    }
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "Rectangular skylight opening in the roof": false,
+      "Striped, patterned flatweave rugs on the floor": false
+    }
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "Rectangular skylight-style opening in the roof": false
+    }
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Rectangular glazed skylight in the roof": false,
+      "Glass skylight with a metal frame in the roof": false,
+      "Glazed skylight with a rectangular frame, showing blue sky": false
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "Multi-paned window with a white frame": true,
+      "Multi-pane window with a white-framed glass grid": true,
+      "Window with a white-framed grid of small glass panes": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "Glass window with multiple small rectangular panes and a wooden frame": true,
+      "Skylight opening in the roof showing sky": false,
+      "Multi-pane window with a grid of glazing bars": true,
+      "Glazed skylight opening in the roof": false,
+      "Multi-pane glazed window with a grid of small glass panes and a framed sash": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "Multi-pane glazed window with a wooden grid": true,
+      "Multi-pane window with a grid of small rectangular panes": true,
+      "Striped, geometric-patterned flatweave rug": false,
+      "Striped geometric flatweave rug (kilim-style)": false
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "Glass window with multi-pane wooden sash frame": true,
+      "Smoke hole skylight with glazed/framed opening": false,
+      "Wire-like metal tripod cooking stand with iron chain and hook": false,
+      "Multi-pane glazed window with a wooden grid frame": true,
+      "Multi-pane window with a wooden grid of mullions": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "Multi-pane window with a wooden grid and clear glass-looking panes": true,
+      "Window with multi-pane glass": true,
+      "Multi-pane window with glazed panes": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Window with a multi-pane grid of clear glass": true,
+      "Window with a multi-pane grid frame and clear glass-like panes": true,
+      "Multi-pane window with a grid of glass-looking panes": true
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "Ornate scrolled wrought-iron lantern bracket": false
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "Wall-mounted hanging oil lamp with ornate wrought-iron bracket and chain": false,
+      "Ornate scrolled wrought-iron bracket with chain holding the hanging oil lamp": false
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Hanging wall lantern with glass panes and chain": true,
+      "Hanging glass-walled lantern with an open flame": true,
+      "Wall-mounted hanging lantern with a glass enclosure on a scrolled wrought-iron bracket": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "Modern metal street lamp with a glowing lamp head": true,
+      "Modern metal street lamp with a glowing enclosed light head": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "Modern street lamp with a dark metal pole and enclosed electric-style light fixture": true,
+      "Street lamp": true,
+      "Black metal street lamp with a modern-style lamp head and glowing light fixture": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "Modern-style metal street lamp with a dome shade and electric-looking glowing bulb": true,
+      "Metal awning or canvas awning supported by a metal bracket frame": false,
+      "Modern street lamp with glowing electric-style bulb": true,
+      "Metal street lamp base and pole": true,
+      "Metal street lamp with a dome shade and electric-style bulb": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "Black metal street lamp with a glass globe": true,
+      "Tiled red roof edge with wooden window shutters and whitewashed walls": false,
+      "Street lamp with a metal pole and a glowing electric-style bulb under a dome shade": true,
+      "Street lamp with a metal pole and dome-shaped electric-style lamp housing with a glowing bulb": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "Metal street lamp with glass lantern head": true,
+      "Smooth white canvas awnings over the shop fronts": false,
+      "Modern metal street lamp with a glass-shade light fixture": true,
+      "Tall grey metal street lamppost with a modern-looking enclosed lamp head": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Black iron street lamp with a glass-enclosed electric-style light bulb": true,
+      "Wooden shop awning and shutters with modern-looking construction": false,
+      "Smooth, large rectangular stone paving slabs with a neat grid pattern": false,
+      "Black metal street lamp with a glowing electric-style bulb": true,
+      "Black metal street lamp with a glowing enclosed bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Round-bottomed rustic clay jug on top of bookshelf": false
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "Black metal pendant lamp with a glowing light bulb": true,
+      "black metal pendant ceiling lamp with a glowing electric-style bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "Electric pendant lamp with a glowing light bulb": true,
+      "Pendant ceiling lamp with a glowing light bulb": true,
+      "Metal pendant lamp with an incandescent light bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "Electric light bulb with metal pendant lamp shade hanging from ceiling": true,
+      "Electric light bulb with metal pendant shade": true,
+      "Electric light bulb with a metal dome shade hanging from the ceiling": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "Hanging pendant lamp with a dark metal dome shade and a bare glowing light bulb": true,
+      "Black dome pendant lamp with a glowing electric-style bulb": true,
+      "Black dome pendant lamp with a bare light bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "Hanging pendant lamp with a metal dome shade and light bulb": true,
+      "Dark metal industrial-style pendant ceiling lamp with a light bulb": true,
+      "Electric pendant ceiling lamp with a bare light bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Hanging pendant lamp with a glass globe bulb": true,
+      "Hanging pendant lamp with a dark metal dome shade and a clear glass light bulb": true,
+      "Hanging pendant lamp with a metal shade and a clear glass light bulb": true
+    }
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "Hens with modern-looking plumage (reddish-brown and blue-speckled birds)": false
+    }
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "White hen with red comb among the chickens": false
+    }
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "White church tower with red pointed roof and cross on top": false
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "Paved asphalt road with white dashed lane markings": true,
+      "Paved asphalt road surface": true,
+      "White dashed lane markings": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "Asphalt road with modern white painted lane markings (solid and dashed center lines)": true,
+      "Asphalt road surface with painted white lane markings": true,
+      "Asphalt road surface": true,
+      "White painted lane markings (dashed center line and solid edge line)": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "Paved asphalt road with white dashed lane markings": true,
+      "Asphalt road with white dashed center lane markings": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "Paved asphalt road with white dashed center lane markings": true,
+      "Asphalt road surface": true,
+      "White dashed lane markings": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "Asphalt road with white dashed and solid lane markings": true,
+      "Smooth grey asphalt road surface": true,
+      "White painted dashed and solid lane markings": true,
+      "Asphalt road surface": true,
+      "White painted dashed center and edge lane markings": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Paved asphalt road with white dashed lane markings": true,
+      "Asphalt paved road": true,
+      "Asphalt road with white dashed lane markings": true
+    }
+  }
+}

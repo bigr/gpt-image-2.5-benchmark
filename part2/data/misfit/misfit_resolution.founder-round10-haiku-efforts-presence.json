@@ -1,0 +1,33 @@
+{
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/1": {
+    "presence": {
+      "Glowing wall lantern in the shop doorway and oil-lit lamp shapes": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/2": {
+    "presence": {
+      "Chain draped between the mooring post and the quay edge": true,
+      "Chain (metal-looking links) hanging in a sag between the wooden bollards along the quay wall": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/1": {
+    "presence": {
+      "Curb stones along the road edge": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/0": {
+    "presence": {
+      "Shelved books with uniform colored spines": true
+    }
+  },
+  "misfit-scriptorium-medieval-clean/gpt-image-2.5-sunburst/2": {
+    "presence": {
+      "Bookshelf with modern-looking hardcover books": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/2": {
+    "presence": {
+      "Chain links connecting boats to the mooring posts": false
+    }
+  }
+}

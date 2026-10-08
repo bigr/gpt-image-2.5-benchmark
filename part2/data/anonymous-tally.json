@@ -1,0 +1,1010 @@
+[
+  {
+    "image": "04ed839a",
+    "key": "tally-apples-05-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/04ed839a.png",
+    "sha256": "aba1311f53580ba84035c7712d505ad6dbf094eee05aea324c2d5ee0648797ba",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "05052708",
+    "key": "tally-birds-05-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/05052708.png",
+    "sha256": "8d817b6d9dd1fe2b16c60cffc752a5e1cf37ddd79931e6d1ec2dca214a9ca4dd",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "06c7598f",
+    "key": "tally-boats-07-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/06c7598f.png",
+    "sha256": "3b358fa7f96e7e4c67f51f7504dd0324b3ed3d571c1c2caed8c9745db45f0bb9",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "074e7fff",
+    "key": "tally-barrels-10-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/074e7fff.png",
+    "sha256": "54153c0b1ae7bea2a1e42b0f172778d426dd9ab9b5dffe38e59bfdd34abcc010",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "07bb2c5e",
+    "key": "tally-queue-15-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/07bb2c5e.png",
+    "sha256": "436a5618805df12042246f8390aa6c49a526d1b00b938cf3d66023c4a26c9254",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "0a814b37",
+    "key": "tally-apples-03-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/0a814b37.png",
+    "sha256": "06fdfa190ba16753b3b8b31688374e3c1e321ae2a81f21c8d46c88e0d9cdda4f",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "0ae7b475",
+    "key": "tally-boats-07-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/0ae7b475.png",
+    "sha256": "29860749c7c7691076197f3af5468b8ddee8a8ff82339970ab928a41247f2883",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "0c936e58",
+    "key": "tally-boats-10-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/0c936e58.png",
+    "sha256": "4d6a0846e104906ff934943602128584ffea30d7b3040d42a0a7134bd87e9588",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "0d303f50",
+    "key": "tally-queue-07-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/0d303f50.png",
+    "sha256": "443b2aff2c8e320fa693b24a86f1bbda9492a721a0db5685a3d8cf78bfc6211f",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "0e805f72",
+    "key": "tally-boats-03-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/0e805f72.png",
+    "sha256": "468fa45cd0a05dfe7ea39a577951f5041551cd1a8e0a90110740af87c4292d84",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "0fb94138",
+    "key": "tally-birds-15-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/0fb94138.png",
+    "sha256": "50827904cc22e368f2eec84e85bbf4e8d5e6aa9c30a832ef54baee054063ce22",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "130fbcfb",
+    "key": "tally-birds-02-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/130fbcfb.png",
+    "sha256": "ee525fe7c3be42f84053f8dac82fd72b541ac9637907944075c28c1eb654f383",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "1c23dda1",
+    "key": "tally-apples-15-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/1c23dda1.png",
+    "sha256": "26774f1beded24e8ab1548acbe80ae5215b8059830531bcf60bbc3b85ec8a4bc",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "1c7d0e60",
+    "key": "tally-sheep-03-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/1c7d0e60.png",
+    "sha256": "92c6c48da5910f19b80aa7501c6ea9b29779b1d90951e6d5449806cc89cbcc32",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "1dd872e5",
+    "key": "tally-birds-02-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/1dd872e5.png",
+    "sha256": "86be7c7ae9af86a9f49e9b855272340596d008552432b34ebe01aafe88d11cd7",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "23382324",
+    "key": "tally-queue-02-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/23382324.png",
+    "sha256": "4455ee19c473c58d76560209ca6445051c4fd0efdeccbfe811a4cfb7a9e9af93",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "25c9cc03",
+    "key": "tally-apples-07-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/25c9cc03.png",
+    "sha256": "7614434c3b6eeb075628c288602e3ada2999e9dc14b3a546d1e81192538c22c5",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "29ae00b3",
+    "key": "tally-boats-05-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/29ae00b3.png",
+    "sha256": "cc045839d80e531c910c1db8ea3bbe364b606d722a50a74fc18d4cd0e867a217",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "2d1fcccb",
+    "key": "tally-boats-05-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/2d1fcccb.png",
+    "sha256": "99005b3be032859b67c8a177ab0a820a584fab5f6d8b4da63e5227ac1f3c2f3d",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "2d26be16",
+    "key": "tally-apples-15-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/2d26be16.png",
+    "sha256": "ef14613b76158043f66e1e3dce59e58bfc45768b27d716a66ca7abbaf66ccac8",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "31830253",
+    "key": "tally-boats-05-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/31830253.png",
+    "sha256": "0439c903b360c32543cfc52131248550d6e071e2ef7024c5f7639f06d57dd4f6",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "31fee3eb",
+    "key": "tally-queue-05-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/31fee3eb.png",
+    "sha256": "c6b01d933b22e43918e6c035cb03835e40e293ff6af3f4c74e94cc039aa7cdae",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "326ce4b8",
+    "key": "tally-queue-05-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/326ce4b8.png",
+    "sha256": "f6f2576ef32fea5eca1d6bdc34fbc497d14b1c91e535cb2143d047dad71e172b",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "3280d861",
+    "key": "tally-queue-15-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/3280d861.png",
+    "sha256": "66f73399f11cb54ef5a5df27e547860a9f9b9f752ade4eff636115188b4e8869",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "34367bf5",
+    "key": "tally-birds-03-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/34367bf5.png",
+    "sha256": "47bb0cf8d12f5f1a4026577a276813162e2674b429de4f6d34d449a7c438066f",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "3568c694",
+    "key": "tally-apples-02-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/3568c694.png",
+    "sha256": "0c2ba1f47d2f948b82d039f0c7ecdeb94ab51549bf19f9907a9c6ed1919b2903",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "3752a0ac",
+    "key": "tally-barrels-05-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/3752a0ac.png",
+    "sha256": "bb8a8fba1901c169f38d3b2d1ee71187217f2d87979321a91a89924345e4621f",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "395917b4",
+    "key": "tally-apples-05-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/395917b4.png",
+    "sha256": "fa2c6846944fedba767ebe50785246564b19ad91f3432af3af495ce75cb53702",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "3a6c1fd9",
+    "key": "tally-birds-02-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/3a6c1fd9.png",
+    "sha256": "8f54fce0c9eb9198d2e18460bd4ef636868bac4697823d4144eac7dac756ae3e",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "3ab5bf20",
+    "key": "tally-queue-15-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/3ab5bf20.png",
+    "sha256": "ebe51d3a5b11f81dc5e78c0eecbd8c7961f6666fe8855895ab509f3516a223e0",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "3fa5f0e4",
+    "key": "tally-sheep-10-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/3fa5f0e4.png",
+    "sha256": "56131efbd9e19b390f79d4d514329e21378a7323dc00b9c089340e3d10e08085",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "40b7b3e2",
+    "key": "tally-birds-07-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/40b7b3e2.png",
+    "sha256": "248eb472f9a34021ef656e7da7ea106fd319baafa48d905d9cb8800277a638b9",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "41a9ee86",
+    "key": "tally-boats-15-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/41a9ee86.png",
+    "sha256": "02cf172b0a86ffd6da86f17f41766e49360ea66fdd7557e3bdbf1219b287a799",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "457e258e",
+    "key": "tally-barrels-15-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/457e258e.png",
+    "sha256": "1b2ab84388d6a03a08ff0f385511427c9676649476912ff68f91acbc56e4b7e7",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "4cd934ee",
+    "key": "tally-queue-02-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/4cd934ee.png",
+    "sha256": "29f0e2f0a9e62200e6ff39f219310ecb01e3b1b04f0609a08414396189487c67",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "4d5e7c00",
+    "key": "tally-barrels-07-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/4d5e7c00.png",
+    "sha256": "70ee916e6ac11e4973e99226d048f89d0c737ac93876860e92df0c48191672f3",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "5286d91c",
+    "key": "tally-barrels-15-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/5286d91c.png",
+    "sha256": "c9c636836425f0e11f196043afe4ae008f2f40e7c5fc045de68e1703eeea4a64",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "53348d10",
+    "key": "tally-apples-10-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/53348d10.png",
+    "sha256": "811447fef722bfe37f3d84d442da4f1a0a10f9ab475b38be873274ccc52fd4b3",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "540a1001",
+    "key": "tally-apples-02-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/540a1001.png",
+    "sha256": "13914bd9fb9ea479c8266560506df20613d939358600931420bfcf4bd5fbc1a6",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "55224fb1",
+    "key": "tally-boats-03-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/55224fb1.png",
+    "sha256": "5e80bdaec1cea0c93dbb8f658f6b163a69921192572e0a9a20d66a0e38f62c01",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "55650949",
+    "key": "tally-boats-02-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/55650949.png",
+    "sha256": "8e253e044c829a90753ad3a4ce58e9117897263bcab9026faef7424761e52214",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "557366c5",
+    "key": "tally-apples-03-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/557366c5.png",
+    "sha256": "d49857b22d2a2d28b9132f788feb600028dfa3feb954dc200a006537a42c5e61",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "57e48d01",
+    "key": "tally-birds-10-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/57e48d01.png",
+    "sha256": "858428ac2fc9cd4c16f601502e4372341d307b5bfb3d10d8b633983a6ba8add6",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "58464e39",
+    "key": "tally-birds-10-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/58464e39.png",
+    "sha256": "99254ffb170c7683fceeedc03bdb56d63cd5e3407ded90bbbb62da696dbd0c03",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "58befbf6",
+    "key": "tally-apples-02-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/58befbf6.png",
+    "sha256": "132e6ff5769bdd8977f523991c85ec6a62b99153137e5d7b7d69f81428451e4e",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "5af2a7c2",
+    "key": "tally-birds-03-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/5af2a7c2.png",
+    "sha256": "1bb41c990fe56898f77a71f9692b029b8c399817150610a7b04a7598448ab9b5",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "5c79ffff",
+    "key": "tally-boats-15-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/5c79ffff.png",
+    "sha256": "94d1ebd22fd0614e820bcfcb4c714af43fff1646c63dc5a3c72373d0d7bf77e7",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "5ce8f63d",
+    "key": "tally-sheep-02-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/5ce8f63d.png",
+    "sha256": "897359cc301b85766bcfcff9ef5c82d0cd1e1b3a31078809243a6c889ccb845e",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "5d0fcc24",
+    "key": "tally-barrels-15-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/5d0fcc24.png",
+    "sha256": "a3c3250a8adb7779b95c2062569a9d637c6cc7f1e6190bdaec1dbda67323f909",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "5d610b20",
+    "key": "tally-barrels-03-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/5d610b20.png",
+    "sha256": "b33348fbed8fc9c9b60cce382416ac4972e5efc6ce87e11cf15351f9396b3e7d",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "6167384e",
+    "key": "tally-barrels-02-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/6167384e.png",
+    "sha256": "b8b1cb02f892aee6f545ba6af6d6822a89847bd4b212b45be851ac560878f921",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "61ce512b",
+    "key": "tally-apples-07-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/61ce512b.png",
+    "sha256": "2f23a04198c824d64ee4fc370fbf3938822c2cd0c763abcf1b472cb74514c943",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "63161248",
+    "key": "tally-barrels-05-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/63161248.png",
+    "sha256": "b1d24968f5c8bbd7c9f53d452e4665afdd19c65ad705dc28c587751a050cfbf1",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "657cb810",
+    "key": "tally-queue-10-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/657cb810.png",
+    "sha256": "bcce4f92e7ded06c6623fb9e8ade4838d82ca73a1dc7b795b5902c08648cdfe2",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "699f4774",
+    "key": "tally-apples-07-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/699f4774.png",
+    "sha256": "779c33b85925901f13d9e5cdddfbfb690163f36cf731cae16cf1f1acaea3eac4",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "69ec1a71",
+    "key": "tally-birds-07-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/69ec1a71.png",
+    "sha256": "ab233c167f8be9219f2f48ad9d9d7ccd36c6cc673b6283bf315faa18a89dc43f",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "6a3979ab",
+    "key": "tally-birds-07-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/6a3979ab.png",
+    "sha256": "7912797531fd61f5e3d8445c420aff27d5b1dd75350343eab6d6aae2c91b51ba",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "6aadf675",
+    "key": "tally-barrels-03-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/6aadf675.png",
+    "sha256": "be8699640fc2c8a19871b01746e1f9fc8d4fa840cde8bedde87e777bb05976ce",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "6b5f3119",
+    "key": "tally-boats-02-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/6b5f3119.png",
+    "sha256": "f906fa24a591dcf4d5534ac25ba2bd23f647086d874316f3d46516b7b0798b8a",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "6eabd42e",
+    "key": "tally-sheep-10-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/6eabd42e.png",
+    "sha256": "89761410f02c8233d47fa8c715982f64386cd51f93320ad047d125c41728e469",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "6f631088",
+    "key": "tally-apples-03-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/6f631088.png",
+    "sha256": "f386aa8bb249d0c88af4663b76695a2de0ff3524ff2979789bb9e76812ea256c",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "71159683",
+    "key": "tally-barrels-07-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/71159683.png",
+    "sha256": "905e85028066fc92ffa8f6f3f23253f1e180035b6acec3a2326b7fe84ea19f13",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "76ee11e3",
+    "key": "tally-sheep-02-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/76ee11e3.png",
+    "sha256": "3be5d0d7d1526e36cfbbd0c97eb17c9768eb2515b3006e50f0fc1b90c5362b04",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "773028a1",
+    "key": "tally-apples-15-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/773028a1.png",
+    "sha256": "7ce50390792a438054bf804738be3d14c56d15b48e773baf06e91e402d403d95",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "7a64f898",
+    "key": "tally-queue-02-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/7a64f898.png",
+    "sha256": "e332ccf6f08575abbe18ecb00415ef092c8370baaa41817481ee57906241368d",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "7bca1cf6",
+    "key": "tally-birds-10-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/7bca1cf6.png",
+    "sha256": "5839d48f678b844be12121f87f0546295ee4106c8d041a9d0c5010ca90df8458",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "7c7e1729",
+    "key": "tally-apples-05-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/7c7e1729.png",
+    "sha256": "508be55143421f0cbc594af2fe07123927bf856dd1f8fa71885f33907f05c6c9",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "7f7eaa76",
+    "key": "tally-barrels-03-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/7f7eaa76.png",
+    "sha256": "6be96eda8571259019b66eff0ace6671f7036502379528b60481acea5ee101fa",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "827d92a5",
+    "key": "tally-queue-02-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/827d92a5.png",
+    "sha256": "9db7d0b72c8040e587b3ae1ab93b4a0845d634ab2408e7f023b87ab15124cb7a",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "8289e63a",
+    "key": "tally-queue-03-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/8289e63a.png",
+    "sha256": "c89214edd1b3eb5c249a3145262a67ef6db2669bf26a643865321fe31b1f737e",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "833029bc",
+    "key": "tally-barrels-10-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/833029bc.png",
+    "sha256": "958de6a7215c9d4ff47b39dd215db440d66e90c02fb61fce569f2fb7ff267eb1",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "875d2572",
+    "key": "tally-boats-15-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/875d2572.png",
+    "sha256": "76220db6984565f4f92930e4f5322146776b5a95213d5b31fe9f5c28a18514ad",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "87d604c2",
+    "key": "tally-sheep-02-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/87d604c2.png",
+    "sha256": "ca01f4af968513572d44684765c629859f74edb12699d56fce7732a401f474dc",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "8852bf27",
+    "key": "tally-sheep-15-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/8852bf27.png",
+    "sha256": "8666eaaf27674aa1247e419c8377ceb55b8c6e45df1a64326c69207768931952",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "89877fa0",
+    "key": "tally-birds-05-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/89877fa0.png",
+    "sha256": "b79dbd2fd0eeb1b20a507bc1644ca84fbc74f3e39dc1c394ccf2aebd94810341",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "8cfe7a1d",
+    "key": "tally-apples-10-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/8cfe7a1d.png",
+    "sha256": "9105314d4e616b42be64617d57e486bcc796fe216ac16dfb1b525bb5d5b01cf1",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "92f91531",
+    "key": "tally-sheep-03-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/92f91531.png",
+    "sha256": "a3876205643b26c2c86def0b5895ccbac6f463f8a7c28f3790b75f5f8df6da75",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "95862a7a",
+    "key": "tally-queue-05-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/95862a7a.png",
+    "sha256": "699204f6df2274496eea7fe931c4488e0a3c7993477c4d1bb36d64ff33e8903f",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "a0790501",
+    "key": "tally-boats-07-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/a0790501.png",
+    "sha256": "d1f8efe9ca9f00936ce111fa2e0c1bbb9da4890d539ac631932133acbcbd38f3",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "a3d0dc2c",
+    "key": "tally-birds-15-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/a3d0dc2c.png",
+    "sha256": "3176c59651260aaba532212f4027455c13f51173e401111227e26bb88b1e6569",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "a9f32bd7",
+    "key": "tally-sheep-07-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/a9f32bd7.png",
+    "sha256": "5373aae2d6535926ff0f60eef8f851ba0912814ee6ffec864451a473c3165574",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "aa9825dc",
+    "key": "tally-queue-07-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/aa9825dc.png",
+    "sha256": "e0520eb08c805f8b2777db3bc25f10e0011b9c5b16e6d5b5e89f8a370d7f6738",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "ab2b63fa",
+    "key": "tally-sheep-05-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/ab2b63fa.png",
+    "sha256": "c90792162e6783593bd6d1920def15dfdb571762cb62030065fd0eda8a25aa97",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "abb9fe00",
+    "key": "tally-apples-10-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/abb9fe00.png",
+    "sha256": "fa90e3ccc105f9a1e21f37943d69be8cea7d939fd2a792a7c3397260c0e91a59",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "abe679c1",
+    "key": "tally-boats-03-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/abe679c1.png",
+    "sha256": "f840743f620a0c31dc8707a9a38bc6b7cfdc2af4be7c84a527b9ce46bb27a82f",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "b3b9be41",
+    "key": "tally-birds-03-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/b3b9be41.png",
+    "sha256": "8054269ffafd05dd7f26f45678eb3521590c014c32fc502c8e74fb6cf1af5787",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "b427b627",
+    "key": "tally-queue-07-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/b427b627.png",
+    "sha256": "7f50bde80e870c298188fbcdd548174081002ab5f3d0d0442cb12878491046bf",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "b516bcf7",
+    "key": "tally-sheep-05-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/b516bcf7.png",
+    "sha256": "77e9930a817fcfb953a4185245dabea1ff0df6678f73ba0389c5326e5075727a",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "b539d0ca",
+    "key": "tally-barrels-02-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/b539d0ca.png",
+    "sha256": "8c03cc49c6cc846d68fa82936424da12346f3ee56e454d6000a04de3599087f8",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "bab3cbe8",
+    "key": "tally-birds-05-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/bab3cbe8.png",
+    "sha256": "92c7e8fb952867cdb15130839dd0cc1677d04fc6252dcdaa1cf93750de9959ee",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "bbf60d13",
+    "key": "tally-sheep-15-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/bbf60d13.png",
+    "sha256": "4b424070832711bf66807998b87c6fe01b7335afa5a885ce2fe537ce77ff5cf4",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "bc75055c",
+    "key": "tally-boats-05-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/bc75055c.png",
+    "sha256": "ca3bf924016f05f54459b2877b86fcec5946cba115ed098fa20f0f82ba1ccd3f",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "be09aedb",
+    "key": "tally-boats-02-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/be09aedb.png",
+    "sha256": "de8221c6a81e73f6d4e573e60fd40564a40d90ce42c424c06172018a23db8806",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "be131624",
+    "key": "tally-sheep-03-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/be131624.png",
+    "sha256": "247fc46fe14f146b0fa722930a7c8ad11f8cbb1a340d2df9aef11b9a93b419fb",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "c0703df4",
+    "key": "tally-apples-02-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/c0703df4.png",
+    "sha256": "5b7edac8fe7df9ecb7fce0f81719b7049235182572b7cf4185716a577a251e6b",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "c2a2fedc",
+    "key": "tally-birds-05-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/c2a2fedc.png",
+    "sha256": "eada1a52b897f363645aaf6e1a47dcfbf43385c9d4fa5b7c78117d3ab07684c6",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "c48504e9",
+    "key": "tally-barrels-15-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/c48504e9.png",
+    "sha256": "45ac694520b7029c13a516b4507ec2309914955030aacbe44f5d2e093304d016",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "c6c60c5f",
+    "key": "tally-boats-15-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/c6c60c5f.png",
+    "sha256": "2d9f35257e120c1381e5b5621426d226c0c1f331ecf1e8ab96d07e3afd425d26",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "c79bc527",
+    "key": "tally-sheep-07-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/c79bc527.png",
+    "sha256": "03ee4b13bd9c371186411841936a262f1c847a7e4824cd838f974a2294ebbff9",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "c7edcf5c",
+    "key": "tally-apples-03-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/c7edcf5c.png",
+    "sha256": "59999491e56470edb2afd8d83f79c4597536fd699598a2ca6c001c757b19079c",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "c835f132",
+    "key": "tally-birds-07-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/c835f132.png",
+    "sha256": "58564587514ed9d6e553e588373cd645bf07260faed95f02b5ccd60aab2aae4a",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "c84fcc69",
+    "key": "tally-barrels-07-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/c84fcc69.png",
+    "sha256": "01af627d26cfdd0528ab671bec53567e8220165ef44bd973c5ebe30ee0027d7e",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "c8804588",
+    "key": "tally-queue-03-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/c8804588.png",
+    "sha256": "93a62c52fc586d6105e643e9cbeb65ff7851c1d8a79c176cab8168c05b2db23d",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "c8c6b763",
+    "key": "tally-barrels-07-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/c8c6b763.png",
+    "sha256": "676103b7bdf06b965697b3ce92029ff97a48e973001bb581930727d61d179e9d",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "c952dac6",
+    "key": "tally-barrels-02-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/c952dac6.png",
+    "sha256": "205baf38a34827128bb034e7fc20524e5d323abbeac04f5ca9c16300d8f56d93",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "cdfabbeb",
+    "key": "tally-barrels-02-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/cdfabbeb.png",
+    "sha256": "d9ebe6c1ac8051f528c5df2c236e67b19fbb5db4c65c8a859cba7b394bb4a5e4",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "ce69912a",
+    "key": "tally-boats-10-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/ce69912a.png",
+    "sha256": "77259d70fb3c89f8e2c6791f24759ad5823b9c1df0d524a51375eb8e0b294c43",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "cec05166",
+    "key": "tally-birds-15-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/cec05166.png",
+    "sha256": "ff05c368c4a2e39a30d30107772ba91f8d431c9b56d0fbbda252f4545d1de9c2",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "cf84d75b",
+    "key": "tally-boats-02-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/cf84d75b.png",
+    "sha256": "682e1084f5fcc4ad26e912dc53a6ed068b41e1e61bb67db893316d83e7bd45d1",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "d048ddf7",
+    "key": "tally-birds-02-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/d048ddf7.png",
+    "sha256": "61af60f5e28f1b7c8a5c2fa29e9aa768103c252a1dc9d72c914b83d3c31da78a",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "d151d290",
+    "key": "tally-sheep-05-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/d151d290.png",
+    "sha256": "25e10b00195ee88e43bd31ff6bc57fc35ea890ad0caa77a6aaf3c88619596a8f",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "d2608d59",
+    "key": "tally-boats-10-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/d2608d59.png",
+    "sha256": "b5d82504431ae6d939d571b8c3eab9edfc1e71a8e6eeecc5d9912fc852adc0f2",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "d3720928",
+    "key": "tally-birds-15-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/d3720928.png",
+    "sha256": "ca5f74f14655f9014e9fae4c46db0a787072b732622f5644d013896e11ce6036",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "d551091e",
+    "key": "tally-sheep-02-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/d551091e.png",
+    "sha256": "9a846f1bba7302a4afbf518761a5894914c83afc30ed426acc805cc28371ae14",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "d5c9f8d4",
+    "key": "tally-sheep-07-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/d5c9f8d4.png",
+    "sha256": "9de3c5f0e22325a5b4237eb5bfb339f33d54cf319f67d6a8b36717f7b5ded35f",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "d6abcc08",
+    "key": "tally-queue-10-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/d6abcc08.png",
+    "sha256": "439ebfbfbb4d96a3735dd9f4bdd5d6736e65233f7bc7d7341969ac9680a36878",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "db73cfba",
+    "key": "tally-apples-07-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/db73cfba.png",
+    "sha256": "1a5cf9ff2563dbbc2c38881a07cc41d9af60bd1f35503e1c865a6f34460007d8",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "dbad33e9",
+    "key": "tally-queue-07-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/dbad33e9.png",
+    "sha256": "1325ffe4dd22ca6a9a5f493d1607375e3148043d694dd6e42a3a0407fa94c27b",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "e41397f0",
+    "key": "tally-birds-03-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/e41397f0.png",
+    "sha256": "8d345df10e5c0ed405a0325c2aae619f748e2934ff89ab052db47746b3b6cfa1",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "e65c97fe",
+    "key": "tally-sheep-05-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/e65c97fe.png",
+    "sha256": "acee1bcad35172832a36ed286b0cc733cb88d032fbe0495a559daa2fabe9d53d",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "e966e866",
+    "key": "tally-sheep-03-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/e966e866.png",
+    "sha256": "df1f558611ba49ff5b58b3c20c1687da36d62986e800eb0a25623e1c5cc92eb4",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "ec078e69",
+    "key": "tally-queue-15-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/ec078e69.png",
+    "sha256": "959e46652f9a89eb75b23f0891c5f8d883008980d8dac4f2ce9df41b1b54d678",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "ed69ac26",
+    "key": "tally-boats-07-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/ed69ac26.png",
+    "sha256": "b3b114b5c584f21ece4afbfc5aa22b4f2c9a32514744d819023159ccc49c277a",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "ed9659bb",
+    "key": "tally-queue-03-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/ed9659bb.png",
+    "sha256": "3c961ebf94643c31f84e4ba90187bafd152522e888fcd6fe9470cd8a525c7429",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "eeaccafa",
+    "key": "tally-barrels-03-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/eeaccafa.png",
+    "sha256": "e90f95d12e22a446fb6a433f94f1aaf2915d350b5a38bdc0118c8dfd014e968c",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "efca65f2",
+    "key": "tally-barrels-10-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/efca65f2.png",
+    "sha256": "b975da0b4cebcde0a71fab2585e5004d6739fda566f5ae90d1ac59b0687ee751",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "f0a72dc9",
+    "key": "tally-sheep-15-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/f0a72dc9.png",
+    "sha256": "76a38637b445e1a7fa19fdf66509ef4f59c64ae12bfb3b234a2fcb45f0c85778",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "f1727202",
+    "key": "tally-boats-10-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/f1727202.png",
+    "sha256": "b18c806326aa01e3897955e091009a90fdcca1846a89b9a393940d10d6010930",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "f20a7d0e",
+    "key": "tally-boats-03-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/f20a7d0e.png",
+    "sha256": "878fe9fbb05cdf0ce7f4ce7f863680d6cdfc65417e2229e8e6e7810de70e8b27",
+    "prompt": "Count these things in the image (answer every id):\n- boats: small boats. Looks like: small rowing boats with plain hulls."
+  },
+  {
+    "image": "f27e21c9",
+    "key": "tally-barrels-05-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/f27e21c9.png",
+    "sha256": "4017e1a79416e804525669bb5ff7d54775e1daaa2dbb3ad578e9bfd7ee05a1f7",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "f345ab39",
+    "key": "tally-queue-10-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/f345ab39.png",
+    "sha256": "2c0d4c18de5e282a7897732327ffe30ab19938673ef93d1f7e4b2be99674459c",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "f40222f3",
+    "key": "tally-apples-15-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/f40222f3.png",
+    "sha256": "b2a0b1b435a48f457a196a5693bfb86ad150924a00bcebd18d8372f93829294c",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "f4a3183b",
+    "key": "tally-sheep-15-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/f4a3183b.png",
+    "sha256": "8d2801cac2b3ebe7b3342eb1a2381d22eec2e8108e51d1ee79aab492a81ef6ba",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "f730f167",
+    "key": "tally-sheep-10-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/f730f167.png",
+    "sha256": "97f42436120376b64509a1026e2c3bd6711e4a54b00b39948f7177fdebbe9af6",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "f7b0f2f8",
+    "key": "tally-birds-10-overlap/gpt-image-2.5-flare/0",
+    "filename": "anon/f7b0f2f8.png",
+    "sha256": "9479a239d54408afb6a9e407c4d915b8f6286a9eca0e32a68c17cb6e999563de",
+    "prompt": "Count these things in the image (answer every id):\n- birds: birds. Looks like: small round dark birds with short tails."
+  },
+  {
+    "image": "f7ea0b39",
+    "key": "tally-barrels-10-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/f7ea0b39.png",
+    "sha256": "61c1726dbd63fbea0bb13abe3d1934f5f5d1e699bc58b64a28273503019fee4a",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "f8363b7c",
+    "key": "tally-sheep-10-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/f8363b7c.png",
+    "sha256": "ec9e5de1af90849e8169438775000314628c22767c1c6278684b03b99460a800",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "f9d07d27",
+    "key": "tally-apples-10-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/f9d07d27.png",
+    "sha256": "d2d48d1213e191b45fb2435e660e7c435c560dd876748d49406982d2e7a9d733",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "fa87b240",
+    "key": "tally-apples-05-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/fa87b240.png",
+    "sha256": "1faca35683b7c9a24a73d2131b9f237a305755c1f50fd8a4754a73dbd1f066e7",
+    "prompt": "Count these things in the image (answer every id):\n- apples: red apples. Looks like: round shiny red apples."
+  },
+  {
+    "image": "fc17141c",
+    "key": "tally-sheep-07-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/fc17141c.png",
+    "sha256": "51cc70192e372fbf24024893752659f96227eeaab3435211f5c22e1487259033",
+    "prompt": "Count these things in the image (answer every id):\n- sheep: sheep. Looks like: white woolly sheep with dark faces."
+  },
+  {
+    "image": "febdb958",
+    "key": "tally-queue-10-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/febdb958.png",
+    "sha256": "0dda9ad7c5b7c84070f3625ac767dbd18df2215e15d60f3459bf54e08bd050bd",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "fec36706",
+    "key": "tally-queue-05-separate/gpt-image-2.5-flare/0",
+    "filename": "anon/fec36706.png",
+    "sha256": "28178e55948261d4b16052454af6cbe10f1de1155894a7b28fedad4b9725ad7a",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  },
+  {
+    "image": "ff1a97c3",
+    "key": "tally-barrels-05-separate/gpt-image-2.5-flare/1",
+    "filename": "anon/ff1a97c3.png",
+    "sha256": "e9f7cb892635d9fef1a7b949cfa17ddf71a9e101e5c3b02b023f464e213e015b",
+    "prompt": "Count these things in the image (answer every id):\n- barrels: wooden barrels. Looks like: round brown wooden barrels with dark metal hoops."
+  },
+  {
+    "image": "ffb19507",
+    "key": "tally-queue-03-overlap/gpt-image-2.5-flare/1",
+    "filename": "anon/ffb19507.png",
+    "sha256": "2027f6733feaa63e324b8c70b682c4792a6a5f11e812dbb422b2e6453ce8411f",
+    "prompt": "Count these things in the image (answer every id):\n- queue: people. Looks like: standing people in plain everyday clothes."
+  }
+]

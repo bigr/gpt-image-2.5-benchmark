@@ -1,0 +1,17 @@
+Round 9 (Claude, 2026-10-08): items listed by claude-haiku-5.5 at reasoning effort low / medium /
+high that no earlier round covers by exact text.
+
+How each verdict was reached (from the text only; no image was re-judged by Claude):
+- SAME THING as an item already settled on the same image (asphalt road / lane markings, pylon,
+  plastic bottle, corrugated roof, electric street lamp, electric pendant lamp, glazed window,
+  blue bucket, ear tag, lateen sail, glass lantern, pine cone, border collie, iron bracket):
+  the settled verdict is copied.
+- BELONGS in the period, so rejected whether or not it is visible (same rulings as rounds 3/5/8):
+  sacks, flatweave rugs, hens, wooden shutters/awnings, roof tiles, rectangular paving slabs,
+  a clay jug, an Egyptian pylon temple, a village church tower, an iron cauldron tripod with chain.
+- LONGHOUSE ROOF OPENINGS called skylights: rejected under the founder's rule (2026-10-08) that
+  smoke passes through the opening in every picture, so it cannot be glazed.
+Excluded (recount_misfit.EXCLUDED): chimneys in the 1350 village, knitting in the longhouse, and
+the mooring chain on egypt seeded/flare/0 that the founder answered "unsure" in round 7.
+Left to the founder (presence): chains on two other Egypt images, a glowing wall lantern in a
+Roman doorway, upright shelved books in two scriptorium images, curb stones by the planted road.

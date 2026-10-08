@@ -1,0 +1,83 @@
+{
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "triangular lateen-style sail on the distant boat": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "stacked sacks with a coarse woven, burlap-like texture": false
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "burlap-like sacks with stitched seams": false
+    }
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "black-and-white barred hen (barred plymouth rock-type chicken)": false
+    }
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "black-and-white barred hen resembling a plymouth rock": false,
+      "tricolor black, white, and tan dog resembling a bernese mountain dog": false
+    }
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "yellow plastic ear tag on the brown-and-white cow": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "black-and-white border collie lying in the yard": false
+    }
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "husky-like dog held by the girl on the right": false
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "striped, patterned flatweave rug": false
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "ornate scrolled wrought-iron wall bracket holding the hanging lamp": false
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "ornate scrolled wrought-iron wall bracket": false
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "canvas awning/retractable shade over the shop entrance": false
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "white canvas awning with a wooden valance and metal-looking brackets over the shop entrance": false
+    }
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-flare/2": {
+    "items": {
+      "tall brick chimney stack with smoke on the right-hand thatched cottage": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "chimney on the thatched roof of the left house": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "brick chimneys": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "misfit-roman-street-1st-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "an extra sandal-clad foot on the foreground woman": true
+    }
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "cable-knit textile": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "modern sneakers": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "windmill with rotating sails": false,
+      "triangular lateen-style sails": true
+    }
+  }
+}

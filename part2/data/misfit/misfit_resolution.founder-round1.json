@@ -1,0 +1,732 @@
+{
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": true,
+    "items": {
+      "paved asphalt road with painted white lane markings": true,
+      "modern asphalt road": true,
+      "painted white dashed road markings": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-flare/0": {
+    "seeded_visible": false
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-flare/0": {
+    "seeded_visible": true,
+    "items": {
+      "discarded clear plastic bottle with a blue cap": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": false
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": false
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-flare/2": {
+    "seeded_visible": false
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": true,
+    "items": {
+      "four-pane glass window": false,
+      "second faint shield-like object": false,
+      "six-pane glazed window": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": true,
+    "items": {
+      "hanging electric light with a glowing bulb": true,
+      "electric pendant lamp with a glowing light bulb and power cord": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": false
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": false
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/0": {
+    "seeded_visible": true,
+    "items": {
+      "modern paved road with painted white center markings": true,
+      "asphalt-paved road": true,
+      "white dashed road centerline": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": true,
+    "items": {
+      "discarded clear plastic bottle with a blue cap": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": false,
+    "items": {
+      "mast-and-sail rig on the boat at left": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": true,
+    "items": {
+      "high-voltage transmission tower and power lines": true,
+      "electricity transmission tower and power lines": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-flare/1": {
+    "seeded_visible": true,
+    "items": {
+      "discarded clear plastic bottle with a blue cap": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-flare/1": {
+    "seeded_visible": false
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-flare/1": {
+    "seeded_visible": false
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": false
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": false,
+    "items": {
+      "glass-chimney oil lamp": true
+    }
+  },
+  "misfit-scriptorium-medieval-clean/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": false
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": true,
+    "items": {
+      "high-voltage transmission tower and overhead power lines": true,
+      "electricity transmission pylons and overhead power lines": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": true,
+    "items": {
+      "electric hanging lamp": true,
+      "electric pendant light with a glowing light bulb": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/2": {
+    "seeded_visible": true,
+    "items": {
+      "high-voltage transmission tower and power lines": true,
+      "electricity transmission pylon and overhead power lines": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-alpine-meadow-clean/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": false
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": false
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/2": {
+    "seeded_visible": true,
+    "items": {
+      "modern streetlamp with an electric-looking illuminated bulb": true,
+      "modern electric streetlamp with a glowing light bulb": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": false
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-flare/2": {
+    "seeded_visible": false
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-flare/2": {
+    "seeded_visible": false,
+    "items": {
+      "a large terracotta storage jar supported by a modern-looking metal stand": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": true,
+    "items": {
+      "bright blue plastic bucket": true,
+      "blue plastic bucket": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-farmyard-1850-clean/gpt-image-2.5-flare/0": {
+    "seeded_visible": false
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/0": {
+    "seeded_visible": true,
+    "items": {
+      "electrical transmission tower and overhead power lines": true,
+      "high-voltage electricity pylon and overhead power lines": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": false,
+    "items": {
+      "pine cone": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/1": {
+    "seeded_visible": false,
+    "items": {
+      "windmill": false
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/1": {
+    "seeded_visible": true,
+    "items": {
+      "corrugated metal roof": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/2": {
+    "seeded_visible": true,
+    "items": {
+      "large multi-pane glass window": true,
+      "multi-pane glazed window": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/1": {
+    "seeded_visible": true,
+    "items": {
+      "modern streetlamp with electric light": true,
+      "modern electric streetlight": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": true,
+    "items": {
+      "electric hanging lamp with a glowing bulb": true,
+      "electric pendant lamp with a glowing light bulb": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": false,
+    "items": {
+      "pine cone": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": true,
+    "items": {
+      "modern electric streetlamp with glowing bulb": true,
+      "electric streetlamp with a glowing bulb and metal pole": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/2": {
+    "seeded_visible": true,
+    "items": {
+      "hanging electric lamp with exposed bulb": true,
+      "electric pendant lamp with a glowing light bulb and power cord": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": true,
+    "items": {
+      "modern streetlamp with a glowing electric bulb": true,
+      "modern electric streetlight": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-alpine-meadow-clean/gpt-image-2.5-flare/1": {
+    "seeded_visible": false,
+    "items": {
+      "hay-drying rack with a roof": true,
+      "three domestic cows": true
+    }
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-flare/0": {
+    "seeded_visible": false
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": false,
+    "items": {
+      "knitting with two needles": false
+    }
+  },
+  "misfit-alpine-meadow-clean/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": false,
+    "items": {
+      "hay rack with a roof": true,
+      "small cluster of buildings": true,
+      "bell and collar on the nearest cow": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/1": {
+    "seeded_visible": true,
+    "items": {
+      "large glass-paned window": true,
+      "striped floor rug": true,
+      "multi-pane glass window": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/2": {
+    "seeded_visible": true,
+    "items": {
+      "bright blue plastic bucket": true,
+      "blue-painted wagon sides": true,
+      "blue plastic bucket": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-scriptorium-medieval-clean/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": false,
+    "items": {
+      "a modern-looking towel or cloth with two blue stripes": true
+    }
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": false
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-flare/1": {
+    "seeded_visible": true
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-flare/1": {
+    "seeded_visible": false
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/1": {
+    "seeded_visible": true,
+    "items": {
+      "electric pendant light with an exposed bulb": true,
+      "electric pendant lamp with a glowing light bulb and power cable": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/0": {
+    "seeded_visible": true,
+    "items": {
+      "corrugated metal roof": true,
+      "ladder": true,
+      "corrugated metal roofing": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": true,
+    "items": {
+      "large multi-pane glass window": true
+    },
+    "matched": {
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/2": {
+    "seeded_visible": true,
+    "items": {
+      "corrugated metal roof": true,
+      "corrugated metal roofing": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/0": {
+    "seeded_visible": true,
+    "items": {
+      "electric pendant lamp with a glowing bulb": true,
+      "electric pendant lamp with a glowing light bulb and power cord": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-flare/0": {
+    "seeded_visible": false
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": true,
+    "items": {
+      "paved asphalt road with white dashed center markings": true,
+      "asphalt-paved road": true,
+      "white dashed road centerline": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": true,
+    "items": {
+      "modern streetlamp with a glowing electric bulb": true,
+      "electric streetlamp with a glowing light bulb": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/0": {
+    "seeded_visible": true,
+    "items": {
+      "multi-pane glazed window": true,
+      "modern multi-pane glazed window": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-flare/2": {
+    "seeded_visible": false,
+    "items": {
+      "large conifer cone": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/1": {
+    "seeded_visible": true,
+    "items": {
+      "high-voltage transmission tower and power lines": true,
+      "cows with bells/collars": true,
+      "electricity transmission pylon and overhead power lines": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-alpine-meadow-clean/gpt-image-2.5-flare/2": {
+    "seeded_visible": false
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": false
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-flare/2": {
+    "seeded_visible": false
+  },
+  "misfit-scriptorium-medieval-clean/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": false
+  },
+  "misfit-longhouse-900-clean/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": false,
+    "items": {
+      "knitting with needles": false
+    }
+  },
+  "misfit-alpine-meadow-clean/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": false,
+    "items": {
+      "two-headed cow": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": true,
+    "items": {
+      "blue plastic bucket": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": true,
+    "items": {
+      "four-paned glass window": true,
+      "multi-pane glazed window": true,
+      "knitting with needles": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": true,
+    "items": {
+      "corrugated metal roofing": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/0": {
+    "seeded_visible": false,
+    "items": {
+      "triangular lateen-style sail": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/2": {
+    "seeded_visible": false,
+    "items": {
+      "triangular lateen-style sails": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": true,
+    "items": {
+      "discarded clear plastic bottle with a blue cap": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": true,
+    "items": {
+      "high-voltage transmission tower and power lines": true,
+      "electricity transmission pylons and overhead power lines": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": true,
+    "items": {
+      "discarded clear plastic bottle with a blue cap": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": false,
+    "items": {
+      "pine cone": true
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-flare/0": {
+    "seeded_visible": false,
+    "items": {
+      "pine cone": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": true,
+    "items": {
+      "corrugated metal roof": true,
+      "wooden handcart with spoked wheels": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-scriptorium-medieval-clean/gpt-image-2.5-flare/0": {
+    "seeded_visible": false
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/0": {
+    "seeded_visible": true,
+    "items": {
+      "bright blue plastic bucket": true,
+      "blue plastic bucket": true,
+      "modern lace-up shoes with thick molded soles": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/1": {
+    "seeded_visible": true,
+    "items": {
+      "bright blue plastic bucket": true,
+      "blue plastic bucket": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/1": {
+    "seeded_visible": true,
+    "items": {
+      "modern paved road with a white dashed center line": true,
+      "asphalt-paved road": true,
+      "white dashed road centerline": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-scriptorium-medieval-clean/gpt-image-2.5-flare/1": {
+    "seeded_visible": false
+  },
+  "misfit-scriptorium-medieval-clean/gpt-image-2.5-flare/2": {
+    "seeded_visible": false
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-flare/1": {
+    "seeded_visible": false
+  },
+  "misfit-village-1350-clean/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": false
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": true,
+    "items": {
+      "modern paved road with painted white center markings": true,
+      "asphalt-paved road": true,
+      "white dashed road centerline": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/2": {
+    "seeded_visible": true,
+    "items": {
+      "paved asphalt road with painted white dashed center lines": true,
+      "asphalt-paved road": true,
+      "white dashed road centerline": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-flare/2": {
+    "seeded_visible": true,
+    "items": {
+      "discarded clear plastic bottle with a blue cap": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/0": {
+    "seeded_visible": true,
+    "items": {
+      "modern streetlamp with a glowing electric light": true,
+      "modern electric streetlamp": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-alpine-meadow-clean/gpt-image-2.5-flare/0": {
+    "seeded_visible": false
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-sunburst/2": {
+    "seeded_visible": true,
+    "items": {
+      "bright blue plastic bucket": true,
+      "blue plastic bucket": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/1": {
+    "seeded_visible": false,
+    "items": {
+      "triangular lateen sails on the riverboats": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/0": {
+    "seeded_visible": true,
+    "items": {
+      "corrugated metal roofing": true
+    },
+    "matched": {
+      "gpt-6-luna": true,
+      "gpt-6.1-sol": true
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "retention-25/gpt-image-2.5-sunburst/2": {
+    "e04": 5
+  },
+  "retention-08/gpt-image-2.5-flare/9": {
+    "e04": 4
+  },
+  "retention-25/gpt-image-2.5-sunburst/6": {
+    "e04": 3
+  },
+  "retention-25/gpt-image-2.5-flare/0": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-flare/4": {
+    "e04": 3
+  },
+  "retention-25/gpt-image-2.5-flare/4": {
+    "e04": 3
+  },
+  "retention-08/gpt-image-2.5-flare/0": {
+    "e04": 3
+  },
+  "retention-08/gpt-image-2.5-flare/6": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-flare/2": {
+    "e15": 6
+  },
+  "retention-08/gpt-image-2.5-flare/4": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-flare/0": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-sunburst/2": {
+    "e15": 2
+  },
+  "retention-25/gpt-image-2.5-sunburst/9": {
+    "e04": 3
+  },
+  "retention-25/gpt-image-2.5-flare/3": {
+    "e15": 4
+  },
+  "retention-08/gpt-image-2.5-flare/1": {
+    "e04": 3
+  },
+  "retention-25/gpt-image-2.5-flare/7": {
+    "e15": 2
+  },
+  "retention-25/gpt-image-2.5-sunburst/3": {
+    "e04": 3
+  }
+}

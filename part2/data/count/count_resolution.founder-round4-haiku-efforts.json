@@ -1,0 +1,20 @@
+{
+  "retention-15/gpt-image-2.5-flare/7": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-sunburst/4": {
+    "e04": 3
+  },
+  "retention-25/gpt-image-2.5-sunburst/3": {
+    "e10": 1
+  },
+  "retention-25/gpt-image-2.5-sunburst/0": {
+    "e15": 2
+  },
+  "retention-15/gpt-image-2.5-flare/1": {
+    "e04": 6
+  },
+  "retention-25/gpt-image-2.5-sunburst/8": {
+    "e15": 2
+  }
+}

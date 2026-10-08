@@ -1,0 +1,140 @@
+{
+  "retention-08/gpt-image-2.5-flare/3": {
+    "e04": 4
+  },
+  "retention-08/gpt-image-2.5-flare/5": {
+    "e04": 6
+  },
+  "retention-08/gpt-image-2.5-flare/7": {
+    "e04": 3
+  },
+  "retention-08/gpt-image-2.5-flare/8": {
+    "e04": 4
+  },
+  "retention-08/gpt-image-2.5-sunburst/0": {
+    "e04": 4
+  },
+  "retention-08/gpt-image-2.5-sunburst/1": {
+    "e04": 4
+  },
+  "retention-08/gpt-image-2.5-sunburst/2": {
+    "e04": 3
+  },
+  "retention-08/gpt-image-2.5-sunburst/3": {
+    "e04": 4
+  },
+  "retention-08/gpt-image-2.5-sunburst/5": {
+    "e04": 3
+  },
+  "retention-08/gpt-image-2.5-sunburst/6": {
+    "e04": 6
+  },
+  "retention-08/gpt-image-2.5-sunburst/7": {
+    "e04": 3
+  },
+  "retention-08/gpt-image-2.5-sunburst/8": {
+    "e04": 5
+  },
+  "retention-08/gpt-image-2.5-sunburst/9": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-flare/2": {
+    "e04": 6
+  },
+  "retention-15/gpt-image-2.5-flare/3": {
+    "e04": 5
+  },
+  "retention-15/gpt-image-2.5-flare/5": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-flare/6": {
+    "e04": 6
+  },
+  "retention-15/gpt-image-2.5-flare/8": {
+    "e04": 4
+  },
+  "retention-15/gpt-image-2.5-flare/9": {
+    "e04": 10
+  },
+  "retention-15/gpt-image-2.5-sunburst/0": {
+    "e04": 4
+  },
+  "retention-15/gpt-image-2.5-sunburst/1": {
+    "e04": 4
+  },
+  "retention-15/gpt-image-2.5-sunburst/2": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-sunburst/3": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-sunburst/5": {
+    "e04": 6
+  },
+  "retention-15/gpt-image-2.5-sunburst/6": {
+    "e04": 5
+  },
+  "retention-15/gpt-image-2.5-sunburst/7": {
+    "e04": 3
+  },
+  "retention-15/gpt-image-2.5-sunburst/8": {
+    "e04": 4
+  },
+  "retention-15/gpt-image-2.5-sunburst/9": {
+    "e04": 3
+  },
+  "retention-25/gpt-image-2.5-flare/1": {
+    "e04": 6
+  },
+  "retention-25/gpt-image-2.5-flare/2": {
+    "e04": 6
+  },
+  "retention-25/gpt-image-2.5-flare/3": {
+    "e04": 4
+  },
+  "retention-25/gpt-image-2.5-flare/5": {
+    "e04": 3
+  },
+  "retention-25/gpt-image-2.5-flare/6": {
+    "e04": 3,
+    "e16": 3
+  },
+  "retention-25/gpt-image-2.5-flare/7": {
+    "e04": 3
+  },
+  "retention-25/gpt-image-2.5-flare/8": {
+    "e04": 3
+  },
+  "retention-25/gpt-image-2.5-flare/9": {
+    "e04": 3,
+    "e16": 3
+  },
+  "retention-25/gpt-image-2.5-sunburst/0": {
+    "e04": 4,
+    "e16": 4
+  },
+  "retention-25/gpt-image-2.5-sunburst/1": {
+    "e04": 7
+  },
+  "retention-25/gpt-image-2.5-sunburst/4": {
+    "e04": 3,
+    "e20": 4
+  },
+  "retention-25/gpt-image-2.5-sunburst/5": {
+    "e04": 6
+  },
+  "retention-25/gpt-image-2.5-sunburst/7": {
+    "e04": 5,
+    "e08": 5,
+    "e16": 5
+  },
+  "retention-25/gpt-image-2.5-sunburst/8": {
+    "e04": 7
+  },
+  "retention-25/gpt-image-2.5-sunburst/2": {
+    "e10": 4
+  },
+  "retention-25/gpt-image-2.5-sunburst/3": {
+    "e15": 3
+  }
+}

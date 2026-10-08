@@ -1,0 +1,10 @@
+Round 11 (Claude, 2026-10-08): period judgement for the items the founder settled as VISIBLE in
+round 10 (presence only). Founder "not visible" -> rejected (the Egypt chain on seeded/flare/2).
+- Glowing wall lantern with glass in a 1st-century Roman doorway: does not belong (same ruling as
+  the glass-chimney lamp on roman clean/sunburst/2).
+- Kerb stones along the planted asphalt road (village 1350): do not belong (part of the planted
+  modern road).
+- Metal chain between mooring posts (Egypt clean/sunburst/2) and books shelved upright spine-out
+  (scriptorium clean/sunburst/2, seeded/flare/0): excluded as undecidable for the period, like the
+  1350 chimneys - metal chains existed in New Kingdom Egypt and medieval books were mostly but not
+  always stored flat - so neither can be called impossible. Listed in recount_misfit.EXCLUDED.

@@ -1,0 +1,144 @@
+{"key": "tally-sheep-02-separate/gpt-image-2.5-flare/0", "counts": {"sheep": 2}, "notes": {"sheep": "Two white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-02-separate/gpt-image-2.5-flare/1", "counts": {"sheep": 2}, "notes": {"sheep": "Two white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-02-overlap/gpt-image-2.5-flare/0", "counts": {"sheep": 2}, "notes": {"sheep": "Two white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-02-overlap/gpt-image-2.5-flare/1", "counts": {"sheep": 2}, "notes": {"sheep": "Two white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-03-separate/gpt-image-2.5-flare/0", "counts": {"sheep": 3}, "notes": {"sheep": "Three white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-03-separate/gpt-image-2.5-flare/1", "counts": {"sheep": 3}, "notes": {"sheep": "Three white, dark-faced sheep are visible grazing in the field."}, "cost": 0.0002874}
+{"key": "tally-sheep-03-overlap/gpt-image-2.5-flare/0", "counts": {"sheep": 3}, "notes": {"sheep": "Three sheep are visible in the field."}, "cost": 0.00028490000000000004}
+{"key": "tally-sheep-03-overlap/gpt-image-2.5-flare/1", "counts": {"sheep": 3}, "notes": {"sheep": "Three white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-05-separate/gpt-image-2.5-flare/0", "counts": {"sheep": 5}, "notes": {"sheep": "Five white, dark-faced sheep are visible in the field."}, "cost": 0.00028690000000000003}
+{"key": "tally-sheep-05-separate/gpt-image-2.5-flare/1", "counts": {"sheep": 5}, "notes": {"sheep": "Five white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-05-overlap/gpt-image-2.5-flare/0", "counts": {"sheep": 5}, "notes": {"sheep": "Five white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-05-overlap/gpt-image-2.5-flare/1", "counts": {"sheep": 5}, "notes": {"sheep": "Five white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-07-separate/gpt-image-2.5-flare/0", "counts": {"sheep": 7}, "notes": {"sheep": "Seven white, dark-faced sheep are visible across the field."}, "cost": 0.00028690000000000003}
+{"key": "tally-sheep-07-separate/gpt-image-2.5-flare/1", "counts": {"sheep": 7}, "notes": {"sheep": "Seven white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-07-overlap/gpt-image-2.5-flare/0", "counts": {"sheep": 7}, "notes": {"sheep": "Seven white woolly sheep with dark faces are visible."}, "cost": 0.0003284}
+{"key": "tally-sheep-07-overlap/gpt-image-2.5-flare/1", "counts": {"sheep": 7}, "notes": {"sheep": "Seven distinct white-woolly, dark-faced sheep are visible."}, "cost": 0.0002874}
+{"key": "tally-sheep-10-separate/gpt-image-2.5-flare/0", "counts": {"sheep": 10}, "notes": {"sheep": "Ten white woolly sheep are visible in the field."}, "cost": 0.0002864}
+{"key": "tally-sheep-10-separate/gpt-image-2.5-flare/1", "counts": {"sheep": 10}, "notes": {"sheep": "Ten white woolly sheep with dark faces are visible."}, "cost": 0.0002864}
+{"key": "tally-sheep-10-overlap/gpt-image-2.5-flare/0", "counts": {"sheep": 10}, "notes": {"sheep": "Ten sheep with white woolly bodies and dark faces are visible, including one partly obscured near the lower center-right."}, "cost": 0.0003899}
+{"key": "tally-sheep-10-overlap/gpt-image-2.5-flare/1", "counts": {"sheep": 10}, "notes": {"sheep": "Ten distinct sheep are visible, including the partially overlapping grazing sheep."}, "cost": 0.0005694000000000001}
+{"key": "tally-sheep-15-separate/gpt-image-2.5-flare/0", "counts": {"sheep": 15}, "notes": {"sheep": "Fifteen sheep are visible across the field."}, "cost": 0.0002859}
+{"key": "tally-sheep-15-separate/gpt-image-2.5-flare/1", "counts": {"sheep": 14}, "notes": {"sheep": "Fourteen white woolly sheep with dark faces are visible across the field."}, "cost": 0.0003334}
+{"key": "tally-sheep-15-overlap/gpt-image-2.5-flare/0", "counts": {"sheep": 13}, "notes": {"sheep": "Thirteen white woolly sheep with dark faces are visible."}, "cost": 0.0004234}
+{"key": "tally-sheep-15-overlap/gpt-image-2.5-flare/1", "counts": {"sheep": 14}, "notes": {"sheep": "Fourteen white woolly sheep with dark faces are visible across the pasture."}, "cost": 0.00042040000000000003}
+{"key": "tally-barrels-02-separate/gpt-image-2.5-flare/0", "counts": {"barrels": 2}, "notes": {"barrels": "Two wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-02-separate/gpt-image-2.5-flare/1", "counts": {"barrels": 2}, "notes": {"barrels": "Two wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-02-overlap/gpt-image-2.5-flare/0", "counts": {"barrels": 2}, "notes": {"barrels": "Two wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-02-overlap/gpt-image-2.5-flare/1", "counts": {"barrels": 2}, "notes": {"barrels": "Two wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-03-separate/gpt-image-2.5-flare/0", "counts": {"barrels": 3}, "notes": {"barrels": "Three wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-03-separate/gpt-image-2.5-flare/1", "counts": {"barrels": 3}, "notes": {"barrels": "Three wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-03-overlap/gpt-image-2.5-flare/0", "counts": {"barrels": 3}, "notes": {"barrels": "Three wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-03-overlap/gpt-image-2.5-flare/1", "counts": {"barrels": 3}, "notes": {"barrels": "Three wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-05-separate/gpt-image-2.5-flare/0", "counts": {"barrels": 5}, "notes": {"barrels": "Five wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-05-separate/gpt-image-2.5-flare/1", "counts": {"barrels": 5}, "notes": {"barrels": "Five wooden barrels with dark metal hoops are visible."}, "cost": 0.0002861}
+{"key": "tally-barrels-05-overlap/gpt-image-2.5-flare/0", "counts": {"barrels": 5}, "notes": {"barrels": "Five wooden barrels are visible."}, "cost": 0.0002841}
+{"key": "tally-barrels-05-overlap/gpt-image-2.5-flare/1", "counts": {"barrels": 5}, "notes": {"barrels": "Five wooden barrels are visible."}, "cost": 0.0002841}
+{"key": "tally-barrels-07-separate/gpt-image-2.5-flare/0", "counts": {"barrels": 8}, "notes": {"barrels": "Eight wooden barrels with dark hoops are visible."}, "cost": 0.0002856}
+{"key": "tally-barrels-07-separate/gpt-image-2.5-flare/1", "counts": {"barrels": 7}, "notes": {"barrels": "Seven wooden barrels are visible."}, "cost": 0.0002841}
+{"key": "tally-barrels-07-overlap/gpt-image-2.5-flare/0", "counts": {"barrels": 7}, "notes": {"barrels": "Seven wooden barrels with dark metal hoops are visible."}, "cost": 0.00031360000000000003}
+{"key": "tally-barrels-07-overlap/gpt-image-2.5-flare/1", "counts": {"barrels": 6}, "notes": {"barrels": "Six wooden barrels with dark metal hoops are visible."}, "cost": 0.0003151}
+{"key": "tally-barrels-10-separate/gpt-image-2.5-flare/0", "counts": {"barrels": 10}, "notes": {"barrels": "Ten wooden barrels are visible."}, "cost": 0.0002841}
+{"key": "tally-barrels-10-separate/gpt-image-2.5-flare/1", "counts": {"barrels": 10}, "notes": {"barrels": "Ten wooden barrels with dark hoops are visible."}, "cost": 0.0002856}
+{"key": "tally-barrels-10-overlap/gpt-image-2.5-flare/0", "counts": {"barrels": 9}, "notes": {"barrels": "Nine wooden barrels with dark metal hoops are visible, including partly obscured ones."}, "cost": 0.0003966}
+{"key": "tally-barrels-10-overlap/gpt-image-2.5-flare/1", "counts": {"barrels": 9}, "notes": {"barrels": "Nine wooden barrels are visible in the stack."}, "cost": 0.0002856}
+{"key": "tally-barrels-15-separate/gpt-image-2.5-flare/0", "counts": {"barrels": 15}, "notes": {"barrels": "Three in the top row, five in the next, four in the third, and three in the bottom row."}, "cost": 0.00030710000000000004}
+{"key": "tally-barrels-15-separate/gpt-image-2.5-flare/1", "counts": {"barrels": 15}, "notes": {"barrels": "Three rows of five wooden barrels."}, "cost": 0.00028460000000000003}
+{"key": "tally-barrels-15-overlap/gpt-image-2.5-flare/0", "counts": {"barrels": 15}, "notes": {"barrels": "Four in the back row, four in each of the next two rows, and three in front."}, "cost": 0.0003541}
+{"key": "tally-barrels-15-overlap/gpt-image-2.5-flare/1", "counts": {"barrels": 13}, "notes": {"barrels": "Thirteen brown wooden barrels with dark metal hoops are visible."}, "cost": 0.00040510000000000003}
+{"key": "tally-boats-02-separate/gpt-image-2.5-flare/0", "counts": {"boats": 2}, "notes": {"boats": "Two small rowboats are visible in the water."}, "cost": 0.0002855}
+{"key": "tally-boats-02-separate/gpt-image-2.5-flare/1", "counts": {"boats": 2}, "notes": {"boats": "Two small rowing boats are visible on the water."}, "cost": 0.0002855}
+{"key": "tally-boats-02-overlap/gpt-image-2.5-flare/0", "counts": {"boats": 2}, "notes": {"boats": "Two small rowing boats are visible in the foreground."}, "cost": 0.0002855}
+{"key": "tally-boats-02-overlap/gpt-image-2.5-flare/1", "counts": {"boats": 2}, "notes": {"boats": "Two small rowing boats are visible in the foreground."}, "cost": 0.0002855}
+{"key": "tally-boats-03-separate/gpt-image-2.5-flare/0", "counts": {"boats": 3}, "notes": {"boats": "Three small rowing boats are visible on the water."}, "cost": 0.0002855}
+{"key": "tally-boats-03-separate/gpt-image-2.5-flare/1", "counts": {"boats": 3}, "notes": {"boats": "Three small rowing boats are visible: red, green, and white."}, "cost": 0.0002875}
+{"key": "tally-boats-03-overlap/gpt-image-2.5-flare/0", "counts": {"boats": 3}, "notes": {"boats": "Three small rowing boats are visible."}, "cost": 0.000284}
+{"key": "tally-boats-03-overlap/gpt-image-2.5-flare/1", "counts": {"boats": 3}, "notes": {"boats": "Three small rowing boats are visible in the foreground."}, "cost": 0.0002855}
+{"key": "tally-boats-05-separate/gpt-image-2.5-flare/0", "counts": {"boats": 5}, "notes": {"boats": "Five small rowing boats are visible in the water."}, "cost": 0.0002855}
+{"key": "tally-boats-05-separate/gpt-image-2.5-flare/1", "counts": {"boats": 5}, "notes": {"boats": "Five small rowing boats are visible in the water."}, "cost": 0.0002855}
+{"key": "tally-boats-05-overlap/gpt-image-2.5-flare/0", "counts": {"boats": 5}, "notes": {"boats": "Five small rowing boats are visible."}, "cost": 0.000284}
+{"key": "tally-boats-05-overlap/gpt-image-2.5-flare/1", "counts": {"boats": 5}, "notes": {"boats": "Five small rowing boats are visible in the foreground."}, "cost": 0.0002855}
+{"key": "tally-boats-07-separate/gpt-image-2.5-flare/0", "counts": {"boats": 7}, "notes": {"boats": "Seven small rowing boats are visible on the water."}, "cost": 0.0002855}
+{"key": "tally-boats-07-separate/gpt-image-2.5-flare/1", "counts": {"boats": 7}, "notes": {"boats": "Seven small rowing boats are visible."}, "cost": 0.00030500000000000004}
+{"key": "tally-boats-07-overlap/gpt-image-2.5-flare/0", "counts": {"boats": 7}, "notes": {"boats": "Seven small rowing boats are visible."}, "cost": 0.000284}
+{"key": "tally-boats-07-overlap/gpt-image-2.5-flare/1", "counts": {"boats": 7}, "notes": {"boats": "Seven small rowing boats are visible."}, "cost": 0.000284}
+{"key": "tally-boats-10-separate/gpt-image-2.5-flare/0", "counts": {"boats": 10}, "notes": {"boats": "Ten small rowing boats are visible on the water."}, "cost": 0.000313}
+{"key": "tally-boats-10-separate/gpt-image-2.5-flare/1", "counts": {"boats": 10}, "notes": {"boats": "Ten small rowing boats are visible on the water."}, "cost": 0.0002855}
+{"key": "tally-boats-10-overlap/gpt-image-2.5-flare/0", "counts": {"boats": 11}, "notes": {"boats": "Eleven small rowing boats are visible in the harbor."}, "cost": 0.000337}
+{"key": "tally-boats-10-overlap/gpt-image-2.5-flare/1", "counts": {"boats": 10}, "notes": {"boats": "Ten small rowing boats are visible in the harbor."}, "cost": 0.0002855}
+{"key": "tally-boats-15-separate/gpt-image-2.5-flare/0", "counts": {"boats": 14}, "notes": {"boats": "Fourteen small rowing boats are visible on the water."}, "cost": 0.000334}
+{"key": "tally-boats-15-separate/gpt-image-2.5-flare/1", "counts": {"boats": 16}, "notes": {"boats": "Sixteen small rowing boats are visible."}, "cost": 0.0003325}
+{"key": "tally-boats-15-overlap/gpt-image-2.5-flare/0", "counts": {"boats": 16}, "notes": {"boats": "Sixteen small rowing boats are visible in the harbor."}, "cost": 0.00035400000000000004}
+{"key": "tally-boats-15-overlap/gpt-image-2.5-flare/1", "counts": {"boats": 15}, "notes": {"boats": "Fifteen small rowing boats are visible in the harbor."}, "cost": 0.0003545}
+{"key": "tally-birds-02-separate/gpt-image-2.5-flare/0", "counts": {"birds": 2}, "notes": {"birds": "Two dark birds are perched on the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-02-separate/gpt-image-2.5-flare/1", "counts": {"birds": 2}, "notes": {"birds": "Two dark birds perched on the wire."}, "cost": 0.00028440000000000003}
+{"key": "tally-birds-02-overlap/gpt-image-2.5-flare/0", "counts": {"birds": 2}, "notes": {"birds": "Two dark birds perched together on the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-02-overlap/gpt-image-2.5-flare/1", "counts": {"birds": 2}, "notes": {"birds": "Two dark birds perched together on the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-03-separate/gpt-image-2.5-flare/0", "counts": {"birds": 3}, "notes": {"birds": "Three dark birds are perched along the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-03-separate/gpt-image-2.5-flare/1", "counts": {"birds": 3}, "notes": {"birds": "Three dark birds perched on the wire."}, "cost": 0.00028440000000000003}
+{"key": "tally-birds-03-overlap/gpt-image-2.5-flare/0", "counts": {"birds": 3}, "notes": {"birds": "Three dark birds perched together on the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-03-overlap/gpt-image-2.5-flare/1", "counts": {"birds": 3}, "notes": {"birds": "Three dark birds are perched together on the wire."}, "cost": 0.0002854}
+{"key": "tally-birds-05-separate/gpt-image-2.5-flare/0", "counts": {"birds": 5}, "notes": {"birds": "Five dark birds perched along the wire."}, "cost": 0.00028440000000000003}
+{"key": "tally-birds-05-separate/gpt-image-2.5-flare/1", "counts": {"birds": 5}, "notes": {"birds": "Five dark birds are perched along the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-05-overlap/gpt-image-2.5-flare/0", "counts": {"birds": 5}, "notes": {"birds": "Five dark birds perched together on the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-05-overlap/gpt-image-2.5-flare/1", "counts": {"birds": 5}, "notes": {"birds": "Five dark birds perched together on the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-07-separate/gpt-image-2.5-flare/0", "counts": {"birds": 7}, "notes": {"birds": "Seven dark birds perched along the wire."}, "cost": 0.00028440000000000003}
+{"key": "tally-birds-07-separate/gpt-image-2.5-flare/1", "counts": {"birds": 7}, "notes": {"birds": "Seven dark birds perched along the wire."}, "cost": 0.00028440000000000003}
+{"key": "tally-birds-07-overlap/gpt-image-2.5-flare/0", "counts": {"birds": 7}, "notes": {"birds": "Seven dark birds are perched along the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-07-overlap/gpt-image-2.5-flare/1", "counts": {"birds": 7}, "notes": {"birds": "Seven dark birds are perched along the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-10-separate/gpt-image-2.5-flare/0", "counts": {"birds": 10}, "notes": {"birds": "Ten dark birds perched along the wire."}, "cost": 0.00028440000000000003}
+{"key": "tally-birds-10-separate/gpt-image-2.5-flare/1", "counts": {"birds": 10}, "notes": {"birds": "Ten dark birds are perched along the wire."}, "cost": 0.00028490000000000004}
+{"key": "tally-birds-10-overlap/gpt-image-2.5-flare/0", "counts": {"birds": 10}, "notes": {"birds": "Ten dark birds are perched along the wire."}, "cost": 0.0003524}
+{"key": "tally-birds-10-overlap/gpt-image-2.5-flare/1", "counts": {"birds": 10}, "notes": {"birds": "Ten dark birds are perched in a row on the wire."}, "cost": 0.0002864}
+{"key": "tally-birds-15-separate/gpt-image-2.5-flare/0", "counts": {"birds": 15}, "notes": {"birds": "Fifteen dark birds perched along the wire."}, "cost": 0.0003104}
+{"key": "tally-birds-15-separate/gpt-image-2.5-flare/1", "counts": {"birds": 14}, "notes": {"birds": "Fourteen birds perched along the wire."}, "cost": 0.00028440000000000003}
+{"key": "tally-birds-15-overlap/gpt-image-2.5-flare/0", "counts": {"birds": 16}, "notes": {"birds": "Sixteen small dark birds are perched along the wire."}, "cost": 0.0003679}
+{"key": "tally-birds-15-overlap/gpt-image-2.5-flare/1", "counts": {"birds": 15}, "notes": {"birds": "Fifteen dark birds are perched along the wire."}, "cost": 0.0003499}
+{"key": "tally-apples-02-separate/gpt-image-2.5-flare/0", "counts": {"apples": 2}, "notes": {"apples": "Two shiny red apples are visible on the table."}, "cost": 0.0002857}
+{"key": "tally-apples-02-separate/gpt-image-2.5-flare/1", "counts": {"apples": 2}, "notes": {"apples": "Two shiny red apples are visible."}, "cost": 0.0002842}
+{"key": "tally-apples-02-overlap/gpt-image-2.5-flare/0", "counts": {"apples": 2}, "notes": {"apples": "Two shiny red apples are visible on the table."}, "cost": 0.0002857}
+{"key": "tally-apples-02-overlap/gpt-image-2.5-flare/1", "counts": {"apples": 2}, "notes": {"apples": "Two shiny red apples are visible."}, "cost": 0.0002842}
+{"key": "tally-apples-03-separate/gpt-image-2.5-flare/0", "counts": {"apples": 3}, "notes": {"apples": "Three shiny red apples are visible on the tabletop."}, "cost": 0.0002857}
+{"key": "tally-apples-03-separate/gpt-image-2.5-flare/1", "counts": {"apples": 3}, "notes": {"apples": "Three shiny red apples are visible on the table."}, "cost": 0.0002857}
+{"key": "tally-apples-03-overlap/gpt-image-2.5-flare/0", "counts": {"apples": 3}, "notes": {"apples": "Three red apples are visible on the table."}, "cost": 0.0002852}
+{"key": "tally-apples-03-overlap/gpt-image-2.5-flare/1", "counts": {"apples": 3}, "notes": {"apples": "Three shiny red apples are visible."}, "cost": 0.0002842}
+{"key": "tally-apples-05-separate/gpt-image-2.5-flare/0", "counts": {"apples": 5}, "notes": {"apples": "Five red apples are visible on the table."}, "cost": 0.0002852}
+{"key": "tally-apples-05-separate/gpt-image-2.5-flare/1", "counts": {"apples": 5}, "notes": {"apples": "Five red apples are visible on the table."}, "cost": 0.0002852}
+{"key": "tally-apples-05-overlap/gpt-image-2.5-flare/0", "counts": {"apples": 5}, "notes": {"apples": "Five red apples are visible."}, "cost": 0.0002837}
+{"key": "tally-apples-05-overlap/gpt-image-2.5-flare/1", "counts": {"apples": 5}, "notes": {"apples": "Five red apples are visible."}, "cost": 0.0002837}
+{"key": "tally-apples-07-separate/gpt-image-2.5-flare/0", "counts": {"apples": 7}, "notes": {"apples": "Seven red apples are visible on the table."}, "cost": 0.0002852}
+{"key": "tally-apples-07-separate/gpt-image-2.5-flare/1", "counts": {"apples": 7}, "notes": {"apples": "Seven shiny red apples are visible on the table."}, "cost": 0.0002857}
+{"key": "tally-apples-07-overlap/gpt-image-2.5-flare/0", "counts": {"apples": 7}, "notes": {"apples": "Seven red apples are visible in the pile."}, "cost": 0.0002852}
+{"key": "tally-apples-07-overlap/gpt-image-2.5-flare/1", "counts": {"apples": 7}, "notes": {"apples": "Seven red apples are visible."}, "cost": 0.0002837}
+{"key": "tally-apples-10-separate/gpt-image-2.5-flare/0", "counts": {"apples": 10}, "notes": {"apples": "Ten red apples are visible on the tabletop."}, "cost": 0.0002852}
+{"key": "tally-apples-10-separate/gpt-image-2.5-flare/1", "counts": {"apples": 10}, "notes": {"apples": "Ten red apples are visible on the table."}, "cost": 0.0002852}
+{"key": "tally-apples-10-overlap/gpt-image-2.5-flare/0", "counts": {"apples": 10}, "notes": {"apples": "Ten shiny red apples are visible."}, "cost": 0.0002842}
+{"key": "tally-apples-10-overlap/gpt-image-2.5-flare/1", "counts": {"apples": 10}, "notes": {"apples": "Ten red apples are visible."}, "cost": 0.0002837}
+{"key": "tally-apples-15-separate/gpt-image-2.5-flare/0", "counts": {"apples": 14}, "notes": {"apples": "Fourteen red apples are visible on the table."}, "cost": 0.0002857}
+{"key": "tally-apples-15-separate/gpt-image-2.5-flare/1", "counts": {"apples": 15}, "notes": {"apples": "Fifteen red apples arranged in five rows of three."}, "cost": 0.00028670000000000003}
+{"key": "tally-apples-15-overlap/gpt-image-2.5-flare/0", "counts": {"apples": 15}, "notes": {"apples": "15 shiny red apples are visible in the pile."}, "cost": 0.0004542}
+{"key": "tally-apples-15-overlap/gpt-image-2.5-flare/1", "counts": {"apples": 14}, "notes": {"apples": "Fourteen red apples are visible in the pile."}, "cost": 0.0003482}
+{"key": "tally-queue-02-separate/gpt-image-2.5-flare/0", "counts": {"queue": 2}, "notes": {"queue": "Two standing people are visible."}, "cost": 0.0002833}
+{"key": "tally-queue-02-separate/gpt-image-2.5-flare/1", "counts": {"queue": 2}, "notes": {"queue": "Two standing people are visible."}, "cost": 0.0002833}
+{"key": "tally-queue-02-overlap/gpt-image-2.5-flare/0", "counts": {"queue": 2}, "notes": {"queue": "Two standing people in everyday clothes."}, "cost": 0.0002838}
+{"key": "tally-queue-02-overlap/gpt-image-2.5-flare/1", "counts": {"queue": 2}, "notes": {"queue": "Two standing people in everyday clothes are visible."}, "cost": 0.0002848}
+{"key": "tally-queue-03-separate/gpt-image-2.5-flare/0", "counts": {"queue": 3}, "notes": {"queue": "Three standing people are visible in line."}, "cost": 0.0002843}
+{"key": "tally-queue-03-separate/gpt-image-2.5-flare/1", "counts": {"queue": 3}, "notes": {"queue": "Three standing people are visible."}, "cost": 0.0002833}
+{"key": "tally-queue-03-overlap/gpt-image-2.5-flare/0", "counts": {"queue": 3}, "notes": {"queue": "Three standing people are visible."}, "cost": 0.0002833}
+{"key": "tally-queue-03-overlap/gpt-image-2.5-flare/1", "counts": {"queue": 3}, "notes": {"queue": "Three standing people are visible."}, "cost": 0.0002833}
+{"key": "tally-queue-05-separate/gpt-image-2.5-flare/0", "counts": {"queue": 5}, "notes": {"queue": "Five standing people are visible in a line."}, "cost": 0.0002848}
+{"key": "tally-queue-05-separate/gpt-image-2.5-flare/1", "counts": {"queue": 5}, "notes": {"queue": "Five standing people are visible in the line."}, "cost": 0.0002848}
+{"key": "tally-queue-05-overlap/gpt-image-2.5-flare/0", "counts": {"queue": 5}, "notes": {"queue": "Five standing people are visible in the line."}, "cost": 0.0002848}
+{"key": "tally-queue-05-overlap/gpt-image-2.5-flare/1", "counts": {"queue": 5}, "notes": {"queue": "Five standing people are visible in the line."}, "cost": 0.0002848}
+{"key": "tally-queue-07-separate/gpt-image-2.5-flare/0", "counts": {"queue": 7}, "notes": {"queue": "Seven standing people are visible in line."}, "cost": 0.0002843}
+{"key": "tally-queue-07-separate/gpt-image-2.5-flare/1", "counts": {"queue": 7}, "notes": {"queue": "Seven standing people are visible in the line."}, "cost": 0.0002848}
+{"key": "tally-queue-07-overlap/gpt-image-2.5-flare/0", "counts": {"queue": 7}, "notes": {"queue": "Seven standing people are visible in the line."}, "cost": 0.00030480000000000004}
+{"key": "tally-queue-07-overlap/gpt-image-2.5-flare/1", "counts": {"queue": 8}, "notes": {"queue": "Eight standing people are visible in line."}, "cost": 0.0002843}
+{"key": "tally-queue-10-separate/gpt-image-2.5-flare/0", "counts": {"queue": 10}, "notes": {"queue": "Ten standing people are visible in the line."}, "cost": 0.0002848}
+{"key": "tally-queue-10-separate/gpt-image-2.5-flare/1", "counts": {"queue": 10}, "notes": {"queue": "Ten standing people are visible in the line."}, "cost": 0.0002848}
+{"key": "tally-queue-10-overlap/gpt-image-2.5-flare/0", "counts": {"queue": 10}, "notes": {"queue": "Ten people are visible in the line."}, "cost": 0.0003403}
+{"key": "tally-queue-10-overlap/gpt-image-2.5-flare/1", "counts": {"queue": 9}, "notes": {"queue": "Nine standing people are visible in the line."}, "cost": 0.0003578}
+{"key": "tally-queue-15-separate/gpt-image-2.5-flare/0", "counts": {"queue": 13}, "notes": {"queue": "Thirteen standing people are visible in the line."}, "cost": 0.0003593}
+{"key": "tally-queue-15-separate/gpt-image-2.5-flare/1", "counts": {"queue": 14}, "notes": {"queue": "Fourteen standing people are visible in the line."}, "cost": 0.0002853}
+{"key": "tally-queue-15-overlap/gpt-image-2.5-flare/0", "counts": {"queue": 16}, "notes": {"queue": "Sixteen standing people are visible in the line."}, "cost": 0.0004288}
+{"key": "tally-queue-15-overlap/gpt-image-2.5-flare/1", "counts": {"queue": 14}, "notes": {"queue": "Fourteen standing people are visible in the line."}, "cost": 0.0003443}

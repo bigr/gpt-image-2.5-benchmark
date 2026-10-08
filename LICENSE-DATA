@@ -5,12 +5,14 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 This licence covers:
   - everything in the `data/` directory (prompts, checklists, readings, human rulings, manifest),
   - the generated images: the thumbnails in `thumbnails/` and the full-resolution images
-    published as release assets (`dataset-v2`).
+    published as release assets (`dataset-v2`),
+  - everything in `part2/data/` and `part2/thumbnails/`, and the full-resolution images
+    and anonymous copies published in `dataset-part2`.
 
 The reference readings and the judge readings in `data/` are model outputs; they are included
 as part of the dataset and are covered by the same licence.
 
-The code (`benchmark/`, `tests/`, `scripts/`) is under the MIT licence, see `LICENSE`.
+The code (`benchmark/`, `tests/`, `scripts/`, and Python files in `part2/`) is under the MIT licence, see `LICENSE`.
 
 Full licence text (the canonical, legally binding version):
 https://creativecommons.org/licenses/by/4.0/legalcode

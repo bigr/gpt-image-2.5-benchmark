@@ -1,0 +1,154 @@
+{
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "asphalt-paved road": true,
+      "white dashed road markings": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "electric streetlamp with a glowing light bulb and metal pole": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "modern electric streetlamp": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "modern electric streetlamp": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "electric streetlamp with a glowing light bulb": true
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "glass-chimney hanging lamp": true
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "an extra sandal-clad foot on the foreground woman": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "large multi-pane glazed window": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "multi-pane glass window": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "glazed, six-pane window": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "modern glazed window with multiple glass panes and a latch": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "large, multi-pane glass window": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "modern sneakers": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "electric pendant lamp with a glowing light bulb and power cable": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "electric pendant lamp with a glowing light bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "electric pendant lamp with a glowing light bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "electric pendant lamp with a glowing light bulb and power cord": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "electric pendant light with a glowing light bulb and power cord": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "discarded plastic bottle with a blue cap": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "discarded plastic bottle with a blue cap": true
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-flare/0": {
+    "items": {
+      "large conifer cone": false
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "pine cone": false
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "electricity transmission pylon and overhead power lines": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "electricity transmission pylon and overhead power lines": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "electricity transmission tower and overhead power lines": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "corrugated metal roof": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "corrugated metal roofing": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "triangular lateen-style sails": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "windmill with rotating sails": false,
+      "triangular lateen-style sails": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/2": {
+    "items": {
+      "triangular, lateen-style sail": true
+    }
+  }
+}

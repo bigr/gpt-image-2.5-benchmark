@@ -1,0 +1,35 @@
+{
+  "tally-barrels-07-separate/gpt-image-2.5-flare/0": {
+    "barrels": 7
+  },
+  "tally-queue-07-overlap/gpt-image-2.5-flare/0": {
+    "queue": 7
+  },
+  "tally-queue-07-separate/gpt-image-2.5-flare/1": {
+    "queue": 7
+  },
+  "tally-apples-15-overlap/gpt-image-2.5-flare/1": {
+    "apples": 15
+  },
+  "tally-barrels-15-overlap/gpt-image-2.5-flare/0": {
+    "barrels": 15
+  },
+  "tally-boats-15-separate/gpt-image-2.5-flare/1": {
+    "boats": 16
+  },
+  "tally-boats-07-separate/gpt-image-2.5-flare/0": {
+    "boats": 7
+  },
+  "tally-sheep-10-overlap/gpt-image-2.5-flare/0": {
+    "sheep": 10
+  },
+  "tally-queue-15-overlap/gpt-image-2.5-flare/1": {
+    "queue": 14
+  },
+  "tally-boats-15-overlap/gpt-image-2.5-flare/1": {
+    "boats": 15
+  },
+  "tally-sheep-07-overlap/gpt-image-2.5-flare/0": {
+    "sheep": 8
+  }
+}

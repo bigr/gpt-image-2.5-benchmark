@@ -1,0 +1,391 @@
+{
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Asphalt road with white dashed center lane markings": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Paved asphalt road with white dashed center lane markings": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-sunburst/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Asphalt road surface": true,
+      "White dashed lane markings": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Paved asphalt road with white dashed center lines": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Asphalt road surface with painted white dashed and solid lane markings": true
+    }
+  },
+  "misfit-village-1350-seeded/gpt-image-2.5-flare/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Paved asphalt road with white dashed center lane markings": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Modern-style street lamp with an electric-looking glowing bulb on a tall dark metal pole": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Modern metal street lamp with a glass-look lantern head": true,
+      "Glowing electric-looking light fixture": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-sunburst/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Black metal street lamp with a curved arm and glowing bulb": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Modern metal street lamp with an enclosed light fixture": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Modern-style street lamp with a metal pole and enclosed lamp fixture": true
+    }
+  },
+  "misfit-roman-street-1st-seeded/gpt-image-2.5-flare/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Modern street lamp with metal pole and dome lantern": true
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "Glass-enclosed hanging lantern with a metal frame": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Multi-pane window with a grid of clear glass panes": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Multi-pane window with a grid of glazing bars": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Window with a six-pane grid that looks like glazed glass": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Window with a multi-pane grid of glass panes and a white painted frame": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Window with a multi-pane grid of glass panes": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Multi-pane window with a grid of small panes": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-sunburst/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Blue plastic bucket with a molded handle": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-sunburst/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Bright blue bucket with a molded plastic look": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-sunburst/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Blue plastic bucket with a wire handle": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Blue plastic bucket": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Blue plastic bucket": true
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Bright blue plastic bucket with a molded handle": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Black metal dome pendant lamp with a bare light bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Black metal dome pendant lamp with a glowing electric-style bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-sunburst/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Hanging pendant lamp with a glowing electric-style light bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Black metal pendant lamp with a glowing light bulb hanging from the ceiling": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Electric pendant ceiling lamp with a glowing light bulb": true
+    }
+  },
+  "misfit-scriptorium-medieval-seeded/gpt-image-2.5-flare/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Electric light bulb with metal dome shade": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Clear plastic water bottle with blue cap": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Clear plastic water bottle with blue screw cap": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-sunburst/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "clear plastic water bottle with blue cap": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-flare/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Clear plastic water bottle with blue screw cap": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-flare/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "clear plastic water bottle with blue screw cap": true
+    }
+  },
+  "misfit-beech-floor-seeded/gpt-image-2.5-flare/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "clear plastic water bottle with blue screw cap": true
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-flare/2": {
+    "items": {
+      "large pine cone": false
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/0": {
+    "matched": {
+      "claude-haiku-5.5": false
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/1": {
+    "matched": {
+      "claude-haiku-5.5": false
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-sunburst/2": {
+    "matched": {
+      "claude-haiku-5.5": false
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Steel electricity pylon with power lines": true
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/1": {
+    "matched": {
+      "claude-haiku-5.5": false
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Steel electricity pylon with power lines": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Corrugated blue metal roof on the storehouse": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Corrugated grey roofing on the storehouse": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Corrugated metal roof": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/0": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Corrugated metal roof on the warehouse": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/1": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Corrugated metal roof": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/2": {
+    "matched": {
+      "claude-haiku-5.5": true
+    },
+    "items": {
+      "Corrugated metal roof": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "Small sailboat with a triangular lateen-style sail on the river": true
+    }
+  }
+}

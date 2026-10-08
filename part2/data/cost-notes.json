@@ -1,0 +1,10 @@
+{
+  "image_generation_usd": 1.27,
+  "reasoning_probes_usd_approx": 0.003,
+  "probes_have_raw_usage": false,
+  "generation_detail": {
+    "tally": 0.76,
+    "misfit": 0.51
+  },
+  "generation_cost_source": "Rounded experiment totals in the article; not independently checked against a billing ledger."
+}

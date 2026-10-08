@@ -1,0 +1,115 @@
+{
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "mast-and-sail rig on the boat at left": false
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "glass-chimney oil lamp": true
+    }
+  },
+  "misfit-roman-street-1st-clean/gpt-image-2.5-flare/2": {
+    "items": {
+      "a large terracotta storage jar supported by a modern-looking metal stand": false
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "pine cone": false
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "pine cone": false
+    }
+  },
+  "misfit-alpine-meadow-clean/gpt-image-2.5-flare/1": {
+    "items": {
+      "hay-drying rack with a roof": false,
+      "three domestic cows": false
+    }
+  },
+  "misfit-alpine-meadow-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "hay rack with a roof": false,
+      "small cluster of buildings": false,
+      "bell and collar on the nearest cow": false
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "striped floor rug": false
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/2": {
+    "items": {
+      "blue-painted wagon sides": false
+    }
+  },
+  "misfit-scriptorium-medieval-clean/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "a modern-looking towel or cloth with two blue stripes": false
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "ladder": false
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-flare/2": {
+    "items": {
+      "large conifer cone": false
+    }
+  },
+  "misfit-alpine-meadow-seeded/gpt-image-2.5-flare/1": {
+    "items": {
+      "cows with bells/collars": false
+    }
+  },
+  "misfit-alpine-meadow-clean/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "two-headed cow": true
+    }
+  },
+  "misfit-longhouse-900-seeded/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "knitting with needles": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/0": {
+    "items": {
+      "triangular lateen-style sail": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/2": {
+    "items": {
+      "triangular lateen-style sails": true
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-sunburst/0": {
+    "items": {
+      "pine cone": false
+    }
+  },
+  "misfit-beech-floor-clean/gpt-image-2.5-flare/0": {
+    "items": {
+      "pine cone": false
+    }
+  },
+  "misfit-egypt-quay-1400bc-seeded/gpt-image-2.5-sunburst/2": {
+    "items": {
+      "wooden handcart with spoked wheels": false
+    }
+  },
+  "misfit-farmyard-1850-seeded/gpt-image-2.5-flare/0": {
+    "items": {
+      "modern lace-up shoes with thick molded soles": true
+    }
+  },
+  "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/1": {
+    "items": {
+      "triangular lateen sails on the riverboats": true
+    }
+  }
+}

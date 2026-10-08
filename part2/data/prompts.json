@@ -1,0 +1,307 @@
+{
+  "count": [
+    {
+      "element": "e04",
+      "thing": "flour sacks",
+      "looks": "pale cloth sacks of flour, stacked",
+      "where": "beside the mill door",
+      "required": 3
+    },
+    {
+      "element": "e05",
+      "thing": "donkey",
+      "looks": "a donkey harnessed to a two-wheeled cart",
+      "where": "in the mill yard, harnessed to a cart",
+      "required": 1
+    },
+    {
+      "element": "e06",
+      "thing": "miller",
+      "looks": "a man in a white floured apron",
+      "where": "standing at the mill door",
+      "required": 1
+    },
+    {
+      "element": "e08",
+      "thing": "grey heron",
+      "looks": "a tall grey wading bird",
+      "where": "standing in the shallows of the river",
+      "required": 1
+    },
+    {
+      "element": "e10",
+      "thing": "black cat",
+      "looks": "a black cat",
+      "where": "sitting on a ground-floor window sill",
+      "required": 1
+    },
+    {
+      "element": "e13",
+      "thing": "woman with an egg basket",
+      "looks": "a woman carrying a wicker basket of eggs",
+      "where": "in the mill yard",
+      "required": 1
+    },
+    {
+      "element": "e15",
+      "thing": "white geese",
+      "looks": "white geese",
+      "where": "beside the round stone well",
+      "required": 2
+    },
+    {
+      "element": "e16",
+      "thing": "wooden ladder",
+      "looks": "a wooden ladder",
+      "where": "leaning against the right wall of the mill",
+      "required": 1
+    },
+    {
+      "element": "e19",
+      "thing": "scarecrow",
+      "looks": "a scarecrow made of sticks and old clothes",
+      "where": "in the vegetable patch",
+      "required": 1
+    },
+    {
+      "element": "e20",
+      "thing": "small brown dog",
+      "looks": "a small brown dog, asleep",
+      "where": "lying in the sun in the yard",
+      "required": 1
+    },
+    {
+      "element": "e23",
+      "thing": "boy fishing",
+      "looks": "a boy holding a long fishing rod",
+      "where": "on the river bank",
+      "required": 1
+    }
+  ],
+  "tally": {
+    "counts": [
+      2,
+      3,
+      5,
+      7,
+      10,
+      15
+    ],
+    "things": [
+      {
+        "id": "sheep",
+        "thing": "sheep",
+        "looks": "white woolly sheep with dark faces",
+        "scene": "Sheep grazing on a green meadow, flat-colour storybook illustration, soft daylight.",
+        "layouts": {
+          "separate": "each one clearly separate, none touching or overlapping",
+          "overlap": "partly overlapping one another, as in a natural flock"
+        }
+      },
+      {
+        "id": "barrels",
+        "thing": "wooden barrels",
+        "looks": "round brown wooden barrels with dark metal hoops",
+        "scene": "Wooden barrels standing by a stone wall, flat-colour storybook illustration, soft daylight.",
+        "layouts": {
+          "separate": "each one clearly separate, none touching or overlapping",
+          "overlap": "partly overlapping one another, as in a natural stack"
+        }
+      },
+      {
+        "id": "boats",
+        "thing": "small boats",
+        "looks": "small rowing boats with plain hulls",
+        "scene": "Small boats on the water of a harbour, flat-colour storybook illustration, soft daylight.",
+        "layouts": {
+          "separate": "each one clearly separate, none touching or overlapping",
+          "overlap": "partly overlapping one another, as in a natural cluster at the quay"
+        }
+      },
+      {
+        "id": "birds",
+        "thing": "birds",
+        "looks": "small round dark birds with short tails",
+        "scene": "Birds perched on a wire, flat-colour storybook illustration, soft daylight.",
+        "layouts": {
+          "separate": "each one clearly separate, none touching or overlapping",
+          "overlap": "partly overlapping one another, as in a natural row of birds huddled together"
+        }
+      },
+      {
+        "id": "apples",
+        "thing": "red apples",
+        "looks": "round shiny red apples",
+        "scene": "Red apples on a wooden table, flat-colour storybook illustration, soft daylight.",
+        "layouts": {
+          "separate": "each one clearly separate, none touching or overlapping",
+          "overlap": "partly overlapping one another, as in a natural heap"
+        }
+      },
+      {
+        "id": "queue",
+        "thing": "people",
+        "looks": "standing people in plain everyday clothes",
+        "scene": "People standing in a queue on a pavement, flat-colour storybook illustration, soft daylight.",
+        "layouts": {
+          "separate": "each one clearly separate, none touching or overlapping",
+          "overlap": "partly overlapping one another, as in a natural tight queue"
+        }
+      }
+    ]
+  },
+  "misfit": [
+    {
+      "id": "village-1350",
+      "setting": "A Bohemian village around the year 1350.",
+      "scene": "A Bohemian village street around the year 1350, flat-colour storybook illustration, midday.",
+      "subject": "The village street with its houses and villagers.",
+      "details": [
+        "Low timber houses with thatched roofs line the street.",
+        "Two villagers in coarse wool tunics walk past a wooden fence.",
+        "A few hens scratch beside the fence."
+      ],
+      "constraints": [
+        "No text, no lettering, no captions."
+      ],
+      "seeded": {
+        "thing": "asphalt road",
+        "modern": "A modern asphalt road with a white painted centre line runs down the street.",
+        "fitting": "A rutted dirt track runs down the street."
+      }
+    },
+    {
+      "id": "roman-street-1st",
+      "setting": "A Roman street in the 1st century AD.",
+      "scene": "A Roman street in the 1st century AD at dusk, flat-colour storybook illustration.",
+      "subject": "The street with shopfronts and passers-by.",
+      "details": [
+        "Plastered brick shopfronts with wooden shutters line the street.",
+        "Two people in togas and tunics walk along the paving stones.",
+        "A clay amphora stands beside a shop door."
+      ],
+      "constraints": [
+        "No text, no lettering, no captions."
+      ],
+      "seeded": {
+        "thing": "electric street lamp",
+        "modern": "A modern electric street lamp on a steel pole stands beside the shop, lit.",
+        "fitting": "An oil lamp hangs on an iron bracket beside the shop, lit."
+      }
+    },
+    {
+      "id": "longhouse-900",
+      "setting": "The interior of a Viking longhouse around the year 900.",
+      "scene": "The interior of a Viking longhouse around the year 900, flat-colour storybook illustration.",
+      "subject": "The great hall with a central hearth and a family.",
+      "details": [
+        "A long central hearth glows under a smoke hole in the plank roof.",
+        "A family in wool clothing sits on a wooden bench.",
+        "Shields and a spear hang on the timber wall."
+      ],
+      "constraints": [
+        "No text, no lettering, no captions."
+      ],
+      "seeded": {
+        "thing": "glazed window panes",
+        "modern": "A modern window with glazed glass panes is set in the wall behind the bench.",
+        "fitting": "An open wooden shutter is set in the wall behind the bench."
+      }
+    },
+    {
+      "id": "farmyard-1850",
+      "setting": "A farmyard in the 1850s.",
+      "scene": "A farmyard in the 1850s, flat-colour storybook illustration, morning.",
+      "subject": "The farmyard with a farmer and animals.",
+      "details": [
+        "A timber barn with a shingled roof stands at the back.",
+        "A farmer in a linen shirt and a straw hat feeds chickens.",
+        "A horse-drawn hay cart stands near the barn."
+      ],
+      "constraints": [
+        "No text, no lettering, no captions."
+      ],
+      "seeded": {
+        "thing": "blue plastic bucket",
+        "modern": "A blue plastic bucket stands next to the farmer.",
+        "fitting": "A wooden pail stands next to the farmer."
+      }
+    },
+    {
+      "id": "scriptorium-medieval",
+      "setting": "A medieval monastery scriptorium.",
+      "scene": "The scriptorium of a medieval monastery, flat-colour storybook illustration.",
+      "subject": "Monks copying manuscripts at their desks.",
+      "details": [
+        "Three monks in brown habits sit at sloped wooden desks copying manuscripts.",
+        "Stone walls with small arched windows enclose the room.",
+        "Parchment sheets and quills lie on the desks."
+      ],
+      "constraints": [
+        "No text, no lettering, no captions."
+      ],
+      "seeded": {
+        "thing": "electric ceiling light",
+        "modern": "A modern electric ceiling light with a lit bulb hangs from the ceiling.",
+        "fitting": "Candles in holders stand on the desks, lit."
+      }
+    },
+    {
+      "id": "beech-floor",
+      "setting": "A present-day nature scene: an autumn beech forest floor.",
+      "scene": "An autumn beech forest floor, flat-colour storybook illustration.",
+      "subject": "The forest floor with fallen leaves and mushrooms.",
+      "details": [
+        "Copper-coloured beech leaves cover the ground.",
+        "A cluster of brown mushrooms grows beside a mossy root.",
+        "Grey beech trunks rise in the background."
+      ],
+      "constraints": [
+        "No text, no lettering, no captions."
+      ],
+      "seeded": {
+        "thing": "plastic drink bottle",
+        "modern": "A plastic drink bottle lies on the leaves next to the mushrooms.",
+        "fitting": "A pine cone lies on the leaves next to the mushrooms."
+      }
+    },
+    {
+      "id": "alpine-meadow",
+      "setting": "A present-day nature scene: an alpine meadow.",
+      "scene": "An alpine meadow with grazing cows, flat-colour storybook illustration, summer.",
+      "subject": "The meadow with cows and distant peaks.",
+      "details": [
+        "Three brown cows graze on the green meadow.",
+        "Snow-capped peaks rise in the distance.",
+        "Wildflowers grow in the grass."
+      ],
+      "constraints": [
+        "No text, no lettering, no captions."
+      ],
+      "seeded": {
+        "thing": "steel power-line pylon",
+        "modern": "A steel power-line pylon with cables stands in the meadow.",
+        "fitting": "A wooden hay rack stands in the meadow."
+      }
+    },
+    {
+      "id": "egypt-quay-1400bc",
+      "setting": "An ancient Egyptian river quay around 1400 BC.",
+      "scene": "An ancient Egyptian river quay on the Nile around 1400 BC, flat-colour storybook illustration.",
+      "subject": "The quay with boats, workers and a storehouse.",
+      "details": [
+        "Reed boats are moored along the mud-brick quay.",
+        "Workers in white linen kilts carry grain jars.",
+        "Date palms stand behind the storehouse."
+      ],
+      "constraints": [
+        "No text, no lettering, no captions."
+      ],
+      "seeded": {
+        "thing": "corrugated iron roof",
+        "modern": "The storehouse has a corrugated iron roof.",
+        "fitting": "The storehouse has a reed-mat roof."
+      }
+    }
+  ]
+}

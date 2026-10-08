@@ -1,0 +1,784 @@
+{
+  "count": {
+    "gpt-6.1-sol": {
+      "all": {
+        "correct": 418,
+        "n": 434,
+        "percent": 96.31336405529954
+      },
+      "sacks": {
+        "correct": 45,
+        "n": 58,
+        "percent": 77.58620689655173
+      }
+    },
+    "gpt-6-luna": {
+      "all": {
+        "correct": 397,
+        "n": 434,
+        "percent": 91.47465437788019
+      },
+      "sacks": {
+        "correct": 27,
+        "n": 58,
+        "percent": 46.55172413793103
+      }
+    },
+    "gpt-6-luna.low-rep1": {
+      "all": {
+        "correct": 402,
+        "n": 434,
+        "percent": 92.62672811059907
+      },
+      "sacks": {
+        "correct": 29,
+        "n": 58,
+        "percent": 50.0
+      }
+    },
+    "gpt-6-luna.low-rep2": {
+      "all": {
+        "correct": 401,
+        "n": 434,
+        "percent": 92.3963133640553
+      },
+      "sacks": {
+        "correct": 29,
+        "n": 58,
+        "percent": 50.0
+      }
+    },
+    "gpt-6-luna@medium": {
+      "all": {
+        "correct": 397,
+        "n": 434,
+        "percent": 91.47465437788019
+      },
+      "sacks": {
+        "correct": 27,
+        "n": 58,
+        "percent": 46.55172413793103
+      }
+    },
+    "gpt-6-luna@high": {
+      "all": {
+        "correct": 396,
+        "n": 434,
+        "percent": 91.2442396313364
+      },
+      "sacks": {
+        "correct": 25,
+        "n": 58,
+        "percent": 43.10344827586207
+      }
+    },
+    "claude-haiku-5.5": {
+      "all": {
+        "correct": 386,
+        "n": 434,
+        "percent": 88.94009216589862
+      },
+      "sacks": {
+        "correct": 16,
+        "n": 58,
+        "percent": 27.586206896551722
+      }
+    },
+    "claude-haiku-5.5@low": {
+      "all": {
+        "correct": 386,
+        "n": 434,
+        "percent": 88.94009216589862
+      },
+      "sacks": {
+        "correct": 17,
+        "n": 58,
+        "percent": 29.310344827586206
+      }
+    },
+    "claude-haiku-5.5@medium": {
+      "all": {
+        "correct": 387,
+        "n": 434,
+        "percent": 89.17050691244239
+      },
+      "sacks": {
+        "correct": 17,
+        "n": 58,
+        "percent": 29.310344827586206
+      }
+    },
+    "claude-haiku-5.5@high": {
+      "all": {
+        "correct": 384,
+        "n": 434,
+        "percent": 88.47926267281106
+      },
+      "sacks": {
+        "correct": 15,
+        "n": 58,
+        "percent": 25.862068965517242
+      }
+    }
+  },
+  "tally": {
+    "gpt-6.1-sol": {
+      "all": {
+        "correct": 139,
+        "n": 144,
+        "percent": 96.52777777777777
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 67,
+        "n": 72,
+        "percent": 93.05555555555556
+      },
+      "layout:separate": {
+        "correct": 72,
+        "n": 72,
+        "percent": 100.0
+      },
+      "count:5-7": {
+        "correct": 46,
+        "n": 48,
+        "percent": 95.83333333333333
+      },
+      "count:10": {
+        "correct": 22,
+        "n": 24,
+        "percent": 91.66666666666667
+      },
+      "count:15": {
+        "correct": 23,
+        "n": 24,
+        "percent": 95.83333333333333
+      }
+    },
+    "gpt-6-luna": {
+      "all": {
+        "correct": 129,
+        "n": 144,
+        "percent": 89.58333333333333
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 61,
+        "n": 72,
+        "percent": 84.72222222222223
+      },
+      "layout:separate": {
+        "correct": 68,
+        "n": 72,
+        "percent": 94.44444444444444
+      },
+      "count:5-7": {
+        "correct": 45,
+        "n": 48,
+        "percent": 93.75
+      },
+      "count:10": {
+        "correct": 19,
+        "n": 24,
+        "percent": 79.16666666666667
+      },
+      "count:15": {
+        "correct": 17,
+        "n": 24,
+        "percent": 70.83333333333333
+      }
+    },
+    "gpt-6-luna.low-rep1": {
+      "all": {
+        "correct": 129,
+        "n": 144,
+        "percent": 89.58333333333333
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 60,
+        "n": 72,
+        "percent": 83.33333333333333
+      },
+      "layout:separate": {
+        "correct": 69,
+        "n": 72,
+        "percent": 95.83333333333333
+      },
+      "count:5-7": {
+        "correct": 43,
+        "n": 48,
+        "percent": 89.58333333333333
+      },
+      "count:10": {
+        "correct": 20,
+        "n": 24,
+        "percent": 83.33333333333333
+      },
+      "count:15": {
+        "correct": 18,
+        "n": 24,
+        "percent": 75.0
+      }
+    },
+    "gpt-6-luna.low-rep2": {
+      "all": {
+        "correct": 130,
+        "n": 144,
+        "percent": 90.27777777777777
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 62,
+        "n": 72,
+        "percent": 86.11111111111111
+      },
+      "layout:separate": {
+        "correct": 68,
+        "n": 72,
+        "percent": 94.44444444444444
+      },
+      "count:5-7": {
+        "correct": 44,
+        "n": 48,
+        "percent": 91.66666666666667
+      },
+      "count:10": {
+        "correct": 22,
+        "n": 24,
+        "percent": 91.66666666666667
+      },
+      "count:15": {
+        "correct": 16,
+        "n": 24,
+        "percent": 66.66666666666667
+      }
+    },
+    "gpt-6-luna@medium": {
+      "all": {
+        "correct": 136,
+        "n": 144,
+        "percent": 94.44444444444444
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 64,
+        "n": 72,
+        "percent": 88.88888888888889
+      },
+      "layout:separate": {
+        "correct": 72,
+        "n": 72,
+        "percent": 100.0
+      },
+      "count:5-7": {
+        "correct": 46,
+        "n": 48,
+        "percent": 95.83333333333333
+      },
+      "count:10": {
+        "correct": 21,
+        "n": 24,
+        "percent": 87.5
+      },
+      "count:15": {
+        "correct": 21,
+        "n": 24,
+        "percent": 87.5
+      }
+    },
+    "gpt-6-luna@high": {
+      "all": {
+        "correct": 137,
+        "n": 144,
+        "percent": 95.13888888888889
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 65,
+        "n": 72,
+        "percent": 90.27777777777777
+      },
+      "layout:separate": {
+        "correct": 72,
+        "n": 72,
+        "percent": 100.0
+      },
+      "count:5-7": {
+        "correct": 46,
+        "n": 48,
+        "percent": 95.83333333333333
+      },
+      "count:10": {
+        "correct": 21,
+        "n": 24,
+        "percent": 87.5
+      },
+      "count:15": {
+        "correct": 22,
+        "n": 24,
+        "percent": 91.66666666666667
+      }
+    },
+    "claude-haiku-5.5": {
+      "all": {
+        "correct": 125,
+        "n": 144,
+        "percent": 86.80555555555556
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 63,
+        "n": 72,
+        "percent": 87.5
+      },
+      "layout:separate": {
+        "correct": 62,
+        "n": 72,
+        "percent": 86.11111111111111
+      },
+      "count:5-7": {
+        "correct": 42,
+        "n": 48,
+        "percent": 87.5
+      },
+      "count:10": {
+        "correct": 18,
+        "n": 24,
+        "percent": 75.0
+      },
+      "count:15": {
+        "correct": 17,
+        "n": 24,
+        "percent": 70.83333333333333
+      }
+    },
+    "claude-haiku-5.5@low": {
+      "all": {
+        "correct": 111,
+        "n": 144,
+        "percent": 77.08333333333333
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 53,
+        "n": 72,
+        "percent": 73.61111111111111
+      },
+      "layout:separate": {
+        "correct": 58,
+        "n": 72,
+        "percent": 80.55555555555556
+      },
+      "count:5-7": {
+        "correct": 38,
+        "n": 48,
+        "percent": 79.16666666666667
+      },
+      "count:10": {
+        "correct": 16,
+        "n": 24,
+        "percent": 66.66666666666667
+      },
+      "count:15": {
+        "correct": 9,
+        "n": 24,
+        "percent": 37.5
+      }
+    },
+    "claude-haiku-5.5@medium": {
+      "all": {
+        "correct": 122,
+        "n": 144,
+        "percent": 84.72222222222223
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 62,
+        "n": 72,
+        "percent": 86.11111111111111
+      },
+      "layout:separate": {
+        "correct": 60,
+        "n": 72,
+        "percent": 83.33333333333333
+      },
+      "count:5-7": {
+        "correct": 41,
+        "n": 48,
+        "percent": 85.41666666666667
+      },
+      "count:10": {
+        "correct": 17,
+        "n": 24,
+        "percent": 70.83333333333333
+      },
+      "count:15": {
+        "correct": 16,
+        "n": 24,
+        "percent": 66.66666666666667
+      }
+    },
+    "claude-haiku-5.5@high": {
+      "all": {
+        "correct": 133,
+        "n": 144,
+        "percent": 92.36111111111111
+      },
+      "count:2-3": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "layout:overlap": {
+        "correct": 66,
+        "n": 72,
+        "percent": 91.66666666666667
+      },
+      "layout:separate": {
+        "correct": 67,
+        "n": 72,
+        "percent": 93.05555555555556
+      },
+      "count:5-7": {
+        "correct": 41,
+        "n": 48,
+        "percent": 85.41666666666667
+      },
+      "count:10": {
+        "correct": 22,
+        "n": 24,
+        "percent": 91.66666666666667
+      },
+      "count:15": {
+        "correct": 22,
+        "n": 24,
+        "percent": 91.66666666666667
+      }
+    }
+  },
+  "misfit": {
+    "gpt-6.1-sol": {
+      "planted": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "model_added": {
+        "correct": 5,
+        "n": 8,
+        "percent": 62.5
+      },
+      "false_alarms": {
+        "correct": 7,
+        "n": 40,
+        "percent": 17.5
+      },
+      "rejected": {
+        "correct": 8,
+        "n": 69,
+        "percent": 11.594202898550725
+      },
+      "found_image_keys": [
+        "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2",
+        "misfit-alpine-meadow-clean/gpt-image-2.5-sunburst/0",
+        "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/1",
+        "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/0",
+        "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/2"
+      ],
+      "unresolved_items": []
+    },
+    "gpt-6-luna": {
+      "planted": {
+        "correct": 47,
+        "n": 48,
+        "percent": 97.91666666666667
+      },
+      "model_added": {
+        "correct": 0,
+        "n": 8,
+        "percent": 0.0
+      },
+      "false_alarms": {
+        "correct": 5,
+        "n": 40,
+        "percent": 12.5
+      },
+      "rejected": {
+        "correct": 15,
+        "n": 61,
+        "percent": 24.59016393442623
+      },
+      "found_image_keys": [],
+      "unresolved_items": []
+    },
+    "gpt-6.1-sol@medium": {
+      "planted": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "model_added": {
+        "correct": 5,
+        "n": 8,
+        "percent": 62.5
+      },
+      "false_alarms": {
+        "correct": 7,
+        "n": 40,
+        "percent": 17.5
+      },
+      "rejected": {
+        "correct": 8,
+        "n": 68,
+        "percent": 11.764705882352942
+      },
+      "found_image_keys": [
+        "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2",
+        "misfit-roman-street-1st-clean/gpt-image-2.5-flare/1",
+        "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-sunburst/1",
+        "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/1",
+        "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/2"
+      ],
+      "unresolved_items": []
+    },
+    "claude-haiku-5.5": {
+      "planted": {
+        "correct": 44,
+        "n": 48,
+        "percent": 91.66666666666667
+      },
+      "model_added": {
+        "correct": 3,
+        "n": 8,
+        "percent": 37.5
+      },
+      "false_alarms": {
+        "correct": 7,
+        "n": 40,
+        "percent": 17.5
+      },
+      "rejected": {
+        "correct": 16,
+        "n": 66,
+        "percent": 24.242424242424242
+      },
+      "found_image_keys": [
+        "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2",
+        "misfit-farmyard-1850-clean/gpt-image-2.5-sunburst/2",
+        "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/1"
+      ],
+      "unresolved_items": []
+    },
+    "claude-haiku-5.5@low": {
+      "planted": {
+        "correct": 48,
+        "n": 48,
+        "percent": 100.0
+      },
+      "model_added": {
+        "correct": 1,
+        "n": 8,
+        "percent": 12.5
+      },
+      "false_alarms": {
+        "correct": 13,
+        "n": 40,
+        "percent": 32.5
+      },
+      "rejected": {
+        "correct": 23,
+        "n": 75,
+        "percent": 30.666666666666668
+      },
+      "found_image_keys": [
+        "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2"
+      ],
+      "unresolved_items": []
+    },
+    "claude-haiku-5.5@medium": {
+      "planted": {
+        "correct": 45,
+        "n": 48,
+        "percent": 93.75
+      },
+      "model_added": {
+        "correct": 3,
+        "n": 8,
+        "percent": 37.5
+      },
+      "false_alarms": {
+        "correct": 3,
+        "n": 40,
+        "percent": 7.5
+      },
+      "rejected": {
+        "correct": 7,
+        "n": 60,
+        "percent": 11.666666666666666
+      },
+      "found_image_keys": [
+        "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2",
+        "misfit-farmyard-1850-clean/gpt-image-2.5-sunburst/2",
+        "misfit-egypt-quay-1400bc-clean/gpt-image-2.5-flare/1"
+      ],
+      "unresolved_items": []
+    },
+    "claude-haiku-5.5@high": {
+      "planted": {
+        "correct": 44,
+        "n": 48,
+        "percent": 91.66666666666667
+      },
+      "model_added": {
+        "correct": 2,
+        "n": 8,
+        "percent": 25.0
+      },
+      "false_alarms": {
+        "correct": 7,
+        "n": 40,
+        "percent": 17.5
+      },
+      "rejected": {
+        "correct": 11,
+        "n": 61,
+        "percent": 18.0327868852459
+      },
+      "found_image_keys": [
+        "misfit-roman-street-1st-clean/gpt-image-2.5-sunburst/2",
+        "misfit-farmyard-1850-clean/gpt-image-2.5-sunburst/2"
+      ],
+      "unresolved_items": []
+    }
+  },
+  "agents": {
+    "Claude Opus 5.5 (medium)": {
+      "correct": 140,
+      "n": 144,
+      "percent": 97.22222222222223
+    },
+    "Claude Sonnet 5.5 (low)": {
+      "correct": 139,
+      "n": 144,
+      "percent": 96.52777777777777
+    },
+    "Claude Haiku 4.5 (low)": {
+      "correct": 115,
+      "n": 144,
+      "percent": 79.86111111111111
+    }
+  },
+  "generator": {
+    "2": {
+      "correct": 24,
+      "n": 24,
+      "percent": 100.0
+    },
+    "overlap": {
+      "correct": 56,
+      "n": 72,
+      "percent": 77.77777777777777
+    },
+    "separate": {
+      "correct": 68,
+      "n": 72,
+      "percent": 94.44444444444444
+    },
+    "3": {
+      "correct": 24,
+      "n": 24,
+      "percent": 100.0
+    },
+    "5": {
+      "correct": 23,
+      "n": 24,
+      "percent": 95.83333333333333
+    },
+    "7": {
+      "correct": 22,
+      "n": 24,
+      "percent": 91.66666666666667
+    },
+    "10": {
+      "correct": 20,
+      "n": 24,
+      "percent": 83.33333333333333
+    },
+    "15": {
+      "correct": 11,
+      "n": 24,
+      "percent": 45.833333333333336
+    }
+  },
+  "cost": {
+    "scored_calls_by_label": {
+      "claude-haiku-5.5": 0.1257528,
+      "claude-haiku-5.5@high": 0.1354248,
+      "claude-haiku-5.5@low": 0.11976180000000002,
+      "claude-haiku-5.5@medium": 0.1255773,
+      "gpt-6-luna": 0.0938379,
+      "gpt-6-luna.low-rep1": 0.0659866,
+      "gpt-6-luna.low-rep2": 0.06579360000000001,
+      "gpt-6-luna@high": 0.0764216,
+      "gpt-6-luna@medium": 0.07209209999999999,
+      "gpt-6.1-sol": 1.8832879999999999,
+      "gpt-6.1-sol@medium": 0.596366
+    },
+    "scored_calls_total": 3.3603025,
+    "discarded_format_calls": {
+      "n": 19,
+      "usd": 0.0071841000000000006
+    },
+    "image_generation_usd": 1.27,
+    "reasoning_probes_usd_approx": 0.003,
+    "probes_have_raw_usage": false,
+    "generation_detail": {
+      "tally": 0.76,
+      "misfit": 0.51
+    },
+    "generation_cost_source": "Rounded experiment totals in the article; not independently checked against a billing ledger.",
+    "judges_usd_including_approx_probes": 3.3704866,
+    "total_usd_including_approx_probes": 4.6404866
+  },
+  "combined_misfits": {
+    "sol_low_and_haiku_default": 7,
+    "plus_sol_medium": 8
+  }
+}
