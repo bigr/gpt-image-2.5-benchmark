@@ -1,0 +1,21 @@
+{
+  "instruction": "You answer ONE counting question about ONE image. Count what is visible in the pixels; count every instance anywhere in the image, never answer from what such a scene usually holds. If none is visible the count is 0. Return an integer count and a short note.",
+  "discarded_probe_usd": 0.1680163,
+  "judges": {
+    "gpt-6.1-sol@low": {
+      "provider": "OpenAI Responses API",
+      "model": "gpt-6.1-sol",
+      "reasoning_effort": "low"
+    },
+    "gpt-6-luna@low": {
+      "provider": "OpenAI Responses API",
+      "model": "gpt-6-luna",
+      "reasoning_effort": "low"
+    },
+    "claude-haiku-5.5@high": {
+      "provider": "OpenRouter",
+      "model": "anthropic/claude-haiku-5.5",
+      "reasoning_effort": "high"
+    }
+  }
+}

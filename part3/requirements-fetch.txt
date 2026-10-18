@@ -1,0 +1,2 @@
+# Optional; only needed to download/extract CountQA, never for offline scoring.
+pyarrow==26.0.0

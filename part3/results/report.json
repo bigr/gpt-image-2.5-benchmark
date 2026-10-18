@@ -1,0 +1,769 @@
+{
+  "seed": 20261013,
+  "datasets": {
+    "countqa": {
+      "all": {
+        "gpt-6.1-sol@low": {
+          "n": 400,
+          "exact": 289,
+          "percent": 72.25,
+          "within1": 344,
+          "within1_percent": 86.0,
+          "over": 84,
+          "under": 27,
+          "key_zero": 0,
+          "positive_when_key_zero": 0,
+          "zero_when_key_positive": 4,
+          "wilson95_percent": [
+            67.66612653345575,
+            76.41057636866807
+          ]
+        },
+        "claude-haiku-5.5@high": {
+          "n": 1528,
+          "exact": 972,
+          "percent": 63.61256544502618,
+          "within1": 1274,
+          "within1_percent": 83.37696335078535,
+          "over": 299,
+          "under": 257,
+          "key_zero": 1,
+          "positive_when_key_zero": 0,
+          "zero_when_key_positive": 37,
+          "wilson95_percent": [
+            61.16890086396034,
+            65.98795649908963
+          ]
+        },
+        "gpt-6-luna@low": {
+          "n": 1528,
+          "exact": 683,
+          "percent": 44.69895287958115,
+          "within1": 1107,
+          "within1_percent": 72.44764397905759,
+          "over": 484,
+          "under": 361,
+          "key_zero": 1,
+          "positive_when_key_zero": 0,
+          "zero_when_key_positive": 28,
+          "wilson95_percent": [
+            42.2224564912078,
+            47.20203655491215
+          ]
+        }
+      },
+      "shared": {
+        "gpt-6.1-sol@low": {
+          "n": 400,
+          "exact": 289,
+          "percent": 72.25,
+          "within1": 344,
+          "within1_percent": 86.0,
+          "over": 84,
+          "under": 27,
+          "key_zero": 0,
+          "positive_when_key_zero": 0,
+          "zero_when_key_positive": 4,
+          "wilson95_percent": [
+            67.66612653345575,
+            76.41057636866807
+          ]
+        },
+        "claude-haiku-5.5@high": {
+          "n": 400,
+          "exact": 233,
+          "percent": 58.25,
+          "within1": 325,
+          "within1_percent": 81.25,
+          "over": 95,
+          "under": 72,
+          "key_zero": 0,
+          "positive_when_key_zero": 0,
+          "zero_when_key_positive": 8,
+          "wilson95_percent": [
+            53.36117391164401,
+            62.981873231840105
+          ]
+        },
+        "gpt-6-luna@low": {
+          "n": 400,
+          "exact": 183,
+          "percent": 45.75,
+          "within1": 286,
+          "within1_percent": 71.5,
+          "over": 128,
+          "under": 89,
+          "key_zero": 0,
+          "positive_when_key_zero": 0,
+          "zero_when_key_positive": 8,
+          "wilson95_percent": [
+            40.93135795917928,
+            50.64949654266224
+          ]
+        }
+      },
+      "shared_questions": 400,
+      "shared_photo_rows": 258,
+      "buckets": {
+        "0-5": {
+          "gpt-6.1-sol@low": {
+            "n": 94,
+            "exact": 68,
+            "percent": 72.3404255319149,
+            "within1": 79,
+            "within1_percent": 84.04255319148936,
+            "over": 24,
+            "under": 2,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              62.55660780959044,
+              80.36998027100012
+            ]
+          },
+          "claude-haiku-5.5@high": {
+            "n": 94,
+            "exact": 60,
+            "percent": 63.829787234042556,
+            "within1": 82,
+            "within1_percent": 87.23404255319149,
+            "over": 26,
+            "under": 8,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 1,
+            "wilson95_percent": [
+              53.750520790601705,
+              72.82308135452578
+            ]
+          },
+          "gpt-6-luna@low": {
+            "n": 94,
+            "exact": 51,
+            "percent": 54.25531914893617,
+            "within1": 73,
+            "within1_percent": 77.65957446808511,
+            "over": 34,
+            "under": 9,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 2,
+            "wilson95_percent": [
+              44.21544766623873,
+              63.96104530149279
+            ]
+          }
+        },
+        "6-10": {
+          "gpt-6.1-sol@low": {
+            "n": 147,
+            "exact": 104,
+            "percent": 70.74829931972789,
+            "within1": 126,
+            "within1_percent": 85.71428571428571,
+            "over": 31,
+            "under": 12,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 2,
+            "wilson95_percent": [
+              62.94095751017774,
+              77.49885292185405
+            ]
+          },
+          "claude-haiku-5.5@high": {
+            "n": 147,
+            "exact": 84,
+            "percent": 57.14285714285714,
+            "within1": 122,
+            "within1_percent": 82.99319727891157,
+            "over": 34,
+            "under": 29,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 3,
+            "wilson95_percent": [
+              49.06152577613192,
+              64.86037617587901
+            ]
+          },
+          "gpt-6-luna@low": {
+            "n": 147,
+            "exact": 73,
+            "percent": 49.65986394557823,
+            "within1": 110,
+            "within1_percent": 74.82993197278911,
+            "over": 39,
+            "under": 35,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 3,
+            "wilson95_percent": [
+              41.68953578770951,
+              57.647516500289974
+            ]
+          }
+        },
+        "11-20": {
+          "gpt-6.1-sol@low": {
+            "n": 126,
+            "exact": 91,
+            "percent": 72.22222222222221,
+            "within1": 108,
+            "within1_percent": 85.71428571428571,
+            "over": 24,
+            "under": 11,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 1,
+            "wilson95_percent": [
+              63.832593390940495,
+              79.29692818762845
+            ]
+          },
+          "claude-haiku-5.5@high": {
+            "n": 126,
+            "exact": 71,
+            "percent": 56.34920634920635,
+            "within1": 95,
+            "within1_percent": 75.39682539682539,
+            "over": 31,
+            "under": 24,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 2,
+            "wilson95_percent": [
+              47.628657044780056,
+              64.69406340623965
+            ]
+          },
+          "gpt-6-luna@low": {
+            "n": 126,
+            "exact": 47,
+            "percent": 37.301587301587304,
+            "within1": 82,
+            "within1_percent": 65.07936507936508,
+            "over": 43,
+            "under": 36,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 2,
+            "wilson95_percent": [
+              29.35052383830541,
+              46.00403525965518
+            ]
+          }
+        },
+        "21+": {
+          "gpt-6.1-sol@low": {
+            "n": 33,
+            "exact": 26,
+            "percent": 78.78787878787878,
+            "within1": 31,
+            "within1_percent": 93.93939393939394,
+            "over": 5,
+            "under": 2,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 1,
+            "wilson95_percent": [
+              62.24835500784931,
+              89.3239784669792
+            ]
+          },
+          "claude-haiku-5.5@high": {
+            "n": 33,
+            "exact": 18,
+            "percent": 54.54545454545454,
+            "within1": 26,
+            "within1_percent": 78.78787878787878,
+            "over": 4,
+            "under": 11,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 2,
+            "wilson95_percent": [
+              37.98593853621745,
+              70.15706148612388
+            ]
+          },
+          "gpt-6-luna@low": {
+            "n": 33,
+            "exact": 12,
+            "percent": 36.36363636363637,
+            "within1": 21,
+            "within1_percent": 63.63636363636363,
+            "over": 12,
+            "under": 9,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 1,
+            "wilson95_percent": [
+              22.18717823524236,
+              53.383821697733616
+            ]
+          }
+        }
+      },
+      "cost_usd": {
+        "gpt-6.1-sol@low": 4.841456,
+        "claude-haiku-5.5@high": 1.0666744000000001,
+        "gpt-6-luna@low": 1.0623214
+      },
+      "cost_per1000_usd": {
+        "gpt-6.1-sol@low": 12.10364,
+        "claude-haiku-5.5@high": 0.6980853403141362,
+        "gpt-6-luna@low": 0.6952365183246073
+      },
+      "subset_questions": {
+        "CountQA": 400
+      },
+      "all_agree_against_key": [
+        {
+          "key": "178-0",
+          "question": "How many hearts are there?",
+          "answer_key": 16,
+          "judges": 15
+        },
+        {
+          "key": "358-0",
+          "question": "How many books are visible?",
+          "answer_key": 33,
+          "judges": 0
+        },
+        {
+          "key": "479-1",
+          "question": "How many golden pins are there?",
+          "answer_key": 10,
+          "judges": 9
+        },
+        {
+          "key": "531-0",
+          "question": "How many ducks are there?",
+          "answer_key": 8,
+          "judges": 0
+        },
+        {
+          "key": "754-1",
+          "question": "How many goats are there?",
+          "answer_key": 4,
+          "judges": 5
+        },
+        {
+          "key": "952-0",
+          "question": "How many vertical rods are in the grill?",
+          "answer_key": 13,
+          "judges": 11
+        }
+      ],
+      "recompressed_calls": 5
+    },
+    "holocount": {
+      "all": {
+        "gpt-6.1-sol@low": {
+          "n": 300,
+          "exact": 240,
+          "percent": 80.0,
+          "within1": 280,
+          "within1_percent": 93.33333333333333,
+          "over": 42,
+          "under": 18,
+          "key_zero": 32,
+          "positive_when_key_zero": 6,
+          "zero_when_key_positive": 0,
+          "wilson95_percent": [
+            75.10710762322137,
+            84.13431410330587
+          ]
+        },
+        "claude-haiku-5.5@high": {
+          "n": 300,
+          "exact": 242,
+          "percent": 80.66666666666666,
+          "within1": 284,
+          "within1_percent": 94.66666666666667,
+          "over": 24,
+          "under": 34,
+          "key_zero": 32,
+          "positive_when_key_zero": 2,
+          "zero_when_key_positive": 2,
+          "wilson95_percent": [
+            75.82162445043988,
+            84.73627331445462
+          ]
+        },
+        "gpt-6-luna@low": {
+          "n": 300,
+          "exact": 204,
+          "percent": 68.0,
+          "within1": 263,
+          "within1_percent": 87.66666666666667,
+          "over": 43,
+          "under": 53,
+          "key_zero": 32,
+          "positive_when_key_zero": 5,
+          "zero_when_key_positive": 2,
+          "wilson95_percent": [
+            62.522388891965306,
+            73.02246414395104
+          ]
+        }
+      },
+      "shared": {
+        "gpt-6.1-sol@low": {
+          "n": 300,
+          "exact": 240,
+          "percent": 80.0,
+          "within1": 280,
+          "within1_percent": 93.33333333333333,
+          "over": 42,
+          "under": 18,
+          "key_zero": 32,
+          "positive_when_key_zero": 6,
+          "zero_when_key_positive": 0,
+          "wilson95_percent": [
+            75.10710762322137,
+            84.13431410330587
+          ]
+        },
+        "claude-haiku-5.5@high": {
+          "n": 300,
+          "exact": 242,
+          "percent": 80.66666666666666,
+          "within1": 284,
+          "within1_percent": 94.66666666666667,
+          "over": 24,
+          "under": 34,
+          "key_zero": 32,
+          "positive_when_key_zero": 2,
+          "zero_when_key_positive": 2,
+          "wilson95_percent": [
+            75.82162445043988,
+            84.73627331445462
+          ]
+        },
+        "gpt-6-luna@low": {
+          "n": 300,
+          "exact": 204,
+          "percent": 68.0,
+          "within1": 263,
+          "within1_percent": 87.66666666666667,
+          "over": 43,
+          "under": 53,
+          "key_zero": 32,
+          "positive_when_key_zero": 5,
+          "zero_when_key_positive": 2,
+          "wilson95_percent": [
+            62.522388891965306,
+            73.02246414395104
+          ]
+        }
+      },
+      "shared_questions": 300,
+      "shared_photo_rows": 300,
+      "buckets": {
+        "0-5": {
+          "gpt-6.1-sol@low": {
+            "n": 213,
+            "exact": 176,
+            "percent": 82.62910798122066,
+            "within1": 205,
+            "within1_percent": 96.24413145539906,
+            "over": 26,
+            "under": 11,
+            "key_zero": 32,
+            "positive_when_key_zero": 6,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              76.97544357942316,
+              87.12668926729364
+            ]
+          },
+          "claude-haiku-5.5@high": {
+            "n": 213,
+            "exact": 179,
+            "percent": 84.03755868544602,
+            "within1": 206,
+            "within1_percent": 96.71361502347418,
+            "over": 16,
+            "under": 18,
+            "key_zero": 32,
+            "positive_when_key_zero": 2,
+            "zero_when_key_positive": 2,
+            "wilson95_percent": [
+              78.5225409768617,
+              88.34659041000113
+            ]
+          },
+          "gpt-6-luna@low": {
+            "n": 213,
+            "exact": 161,
+            "percent": 75.5868544600939,
+            "within1": 196,
+            "within1_percent": 92.01877934272301,
+            "over": 29,
+            "under": 23,
+            "key_zero": 32,
+            "positive_when_key_zero": 5,
+            "zero_when_key_positive": 1,
+            "wilson95_percent": [
+              69.39805434080361,
+              80.86908580518293
+            ]
+          }
+        },
+        "6-10": {
+          "gpt-6.1-sol@low": {
+            "n": 40,
+            "exact": 33,
+            "percent": 82.5,
+            "within1": 35,
+            "within1_percent": 87.5,
+            "over": 5,
+            "under": 2,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              68.05000966821228,
+              91.25458625396408
+            ]
+          },
+          "claude-haiku-5.5@high": {
+            "n": 40,
+            "exact": 30,
+            "percent": 75.0,
+            "within1": 37,
+            "within1_percent": 92.5,
+            "over": 4,
+            "under": 6,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              59.806038579231966,
+              85.8128813609037
+            ]
+          },
+          "gpt-6-luna@low": {
+            "n": 40,
+            "exact": 20,
+            "percent": 50.0,
+            "within1": 32,
+            "within1_percent": 80.0,
+            "over": 7,
+            "under": 13,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 1,
+            "wilson95_percent": [
+              35.199526933465386,
+              64.80047306653461
+            ]
+          }
+        },
+        "11-20": {
+          "gpt-6.1-sol@low": {
+            "n": 28,
+            "exact": 19,
+            "percent": 67.85714285714286,
+            "within1": 23,
+            "within1_percent": 82.14285714285714,
+            "over": 6,
+            "under": 3,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              49.338843180857616,
+              82.06675307750504
+            ]
+          },
+          "claude-haiku-5.5@high": {
+            "n": 28,
+            "exact": 20,
+            "percent": 71.42857142857143,
+            "within1": 27,
+            "within1_percent": 96.42857142857143,
+            "over": 3,
+            "under": 5,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              52.94071156670428,
+              84.74600394333092
+            ]
+          },
+          "gpt-6-luna@low": {
+            "n": 28,
+            "exact": 15,
+            "percent": 53.57142857142857,
+            "within1": 22,
+            "within1_percent": 78.57142857142857,
+            "over": 6,
+            "under": 7,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              35.812689234467896,
+              70.46843001720462
+            ]
+          }
+        },
+        "21+": {
+          "gpt-6.1-sol@low": {
+            "n": 19,
+            "exact": 12,
+            "percent": 63.1578947368421,
+            "within1": 17,
+            "within1_percent": 89.47368421052632,
+            "over": 5,
+            "under": 2,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              41.03953316480307,
+              80.85048725486492
+            ]
+          },
+          "claude-haiku-5.5@high": {
+            "n": 19,
+            "exact": 13,
+            "percent": 68.42105263157895,
+            "within1": 14,
+            "within1_percent": 73.6842105263158,
+            "over": 1,
+            "under": 5,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              46.01040767532748,
+              84.63562091220773
+            ]
+          },
+          "gpt-6-luna@low": {
+            "n": 19,
+            "exact": 8,
+            "percent": 42.10526315789473,
+            "within1": 13,
+            "within1_percent": 68.42105263157895,
+            "over": 1,
+            "under": 10,
+            "key_zero": 0,
+            "positive_when_key_zero": 0,
+            "zero_when_key_positive": 0,
+            "wilson95_percent": [
+              23.14189128245424,
+              63.724096465744964
+            ]
+          }
+        }
+      },
+      "cost_usd": {
+        "gpt-6.1-sol@low": 0.8406980000000001,
+        "claude-haiku-5.5@high": 0.0702543,
+        "gpt-6-luna@low": 0.0487739
+      },
+      "cost_per1000_usd": {
+        "gpt-6.1-sol@low": 2.802326666666667,
+        "claude-haiku-5.5@high": 0.234181,
+        "gpt-6-luna@low": 0.16257966666666668
+      },
+      "subset_questions": {
+        "Action & State Attribution": 13,
+        "Aerial Perspective Shift": 22,
+        "Atomic Counting": 17,
+        "Categorical Cardinality": 8,
+        "Chromatic Attribution": 23,
+        "Complementary Exclusion": 13,
+        "Coordinate-Prompt Region Grounding": 12,
+        "Differential Comparison": 13,
+        "General Semantic Attribution": 10,
+        "High-Density Enumeration": 12,
+        "Joint-Set Aggregation": 9,
+        "Linguistic Prior Conflict": 14,
+        "Material Attribution": 20,
+        "Null-Target Prompting": 27,
+        "Partial Object Occlusion": 11,
+        "Relative Canonical Orientation": 13,
+        "Scale Attribution": 11,
+        "Small-Scale Enumeration": 17,
+        "Visual Distractor Illusion": 26,
+        "Visual-Prompt Region Grounding": 9
+      },
+      "all_agree_against_key": [
+        {
+          "key": "878-0",
+          "question": "How many baseball gloves are there in the red rectangle?",
+          "answer_key": 2,
+          "judges": 1
+        },
+        {
+          "key": "893-0",
+          "question": "How many cups are there in the region <bbox>434 646 517 785</bbox>? Note: Bounding box format is [x_min, y_min, x_max, y_max], normalized to [0, 1000].",
+          "answer_key": 2,
+          "judges": 1
+        },
+        {
+          "key": "1020-0",
+          "question": "How many taillights are there in right half of the image?",
+          "answer_key": 3,
+          "judges": 1
+        },
+        {
+          "key": "1140-0",
+          "question": "How many more units of seating furniture (sofas and chairs) are there than televisions?",
+          "answer_key": 3,
+          "judges": 2
+        },
+        {
+          "key": "1493-0",
+          "question": "How many airplanes are in this image?",
+          "answer_key": 136,
+          "judges": 135
+        },
+        {
+          "key": "1653-0",
+          "question": "How many cars are there in the image?",
+          "answer_key": 14,
+          "judges": 15
+        },
+        {
+          "key": "2134-0",
+          "question": "How many tails does the dog in the image have?",
+          "answer_key": 0,
+          "judges": 1
+        },
+        {
+          "key": "2270-0",
+          "question": "How many suits does the playing card suit set in the image have?",
+          "answer_key": 3,
+          "judges": 4
+        },
+        {
+          "key": "2436-0",
+          "question": "How many boxes of milk are there in the picture?",
+          "answer_key": 1,
+          "judges": 2
+        },
+        {
+          "key": "2451-0",
+          "question": "How many people are there in the picture?",
+          "answer_key": 1,
+          "judges": 2
+        }
+      ],
+      "recompressed_calls": 0
+    }
+  },
+  "cost": {
+    "scored_run_usd": 7.930178000000001,
+    "discarded_probe_usd": 0.1680163,
+    "total_usd": 8.098194300000001
+  }
+}

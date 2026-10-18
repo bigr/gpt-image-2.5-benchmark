@@ -18,3 +18,5 @@ Full licence text (the canonical, legally binding version):
 https://creativecommons.org/licenses/by/4.0/legalcode
 
 Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Part 3: judge responses, the experiment plan, protocol and derived reports in `part3/` are CC BY 4.0, attributed to Pavel Klinger. Python code in `part3/` is MIT. Original CountQA and HoloCount questions and keys retain their authors' licences and attribution; see `part3/README.md`. No original dataset images are redistributed, and this notice does not relicense third-party material.

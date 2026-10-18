@@ -135,3 +135,7 @@ The benchmark design, the test harness that generated and judged the images, the
 Code (`benchmark/`, `tests/`, `scripts/`): MIT, see [`LICENSE`](LICENSE). Data (`data/`) and images
 (thumbnails and release images): CC BY 4.0, see [`LICENSE-DATA`](LICENSE-DATA). The reference and judge
 readings are model outputs included as part of the dataset. (c) 2026 Pavel Klinger.
+
+## Part 3: public counting datasets
+
+[Counting beyond storybook pictures](https://bigr.cz/countqa-holocount-vision-judges/): the same three judge configurations on CountQA and HoloCount, scored against the published keys. See [`part3/`](part3/) for the six runs, pinned dataset identifiers and offline reproduction. No benchmark images are redistributed.
